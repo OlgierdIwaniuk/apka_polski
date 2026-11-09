@@ -1,0 +1,2111 @@
+{
+  "A1": [
+    {
+      "prompt": "Mam ___ (książka). [accusative]",
+      "answers": [
+        "książkę"
+      ],
+      "explanation": "The direct object of mam takes the accusative."
+    },
+    {
+      "prompt": "Nie mam ___ (brat). [genitive]",
+      "answers": [
+        "brata"
+      ],
+      "explanation": "After nie mam, use the genitive."
+    },
+    {
+      "prompt": "To jest ___ (moja siostra). [nominative]",
+      "answers": [
+        "moja siostra"
+      ],
+      "explanation": "Use the nominative after to jest when identifying someone."
+    },
+    {
+      "prompt": "Jadę ___ (autobus). [instrumental]",
+      "answers": [
+        "autobusem"
+      ],
+      "explanation": "Use the instrumental for a means of transport."
+    },
+    {
+      "prompt": "Widzę ___ (kot). [accusative]",
+      "answers": [
+        "kota"
+      ],
+      "explanation": "A masculine animate singular noun like kot takes -a in the accusative."
+    },
+    {
+      "prompt": "Lubię ___ (zielona herbata). [accusative]",
+      "answers": [
+        "zieloną herbatę"
+      ],
+      "explanation": "Both words agree in the feminine accusative."
+    },
+    {
+      "prompt": "Nie piję ___ (mleko). [genitive]",
+      "answers": [
+        "mleka"
+      ],
+      "explanation": "The direct object of the negated verb piję takes the genitive."
+    },
+    {
+      "prompt": "Wracam z ___ (praca). [genitive]",
+      "answers": [
+        "pracy"
+      ],
+      "explanation": "Z meaning from takes the genitive."
+    },
+    {
+      "prompt": "Ona jest ___ (lekarka). [instrumental]",
+      "answers": [
+        "lekarką"
+      ],
+      "explanation": "A profession after być takes the instrumental here."
+    },
+    {
+      "prompt": "Mieszkam w ___ (Warszawa). [locative]",
+      "answers": [
+        "Warszawie"
+      ],
+      "explanation": "W takes the locative when describing a location."
+    },
+    {
+      "prompt": "Telefon leży na ___ (stół). [locative]",
+      "answers": [
+        "stole"
+      ],
+      "explanation": "Na takes the locative for location. Stół becomes stole."
+    },
+    {
+      "prompt": "To są ___ (nowe książki). [nominative]",
+      "answers": [
+        "nowe książki"
+      ],
+      "explanation": "Use the nominative plural when identifying things with to są."
+    },
+    {
+      "prompt": "Mam ___ (mapa). [accusative]",
+      "answers": [
+        "mapę"
+      ],
+      "explanation": "The object of mam takes the accusative."
+    },
+    {
+      "prompt": "Nie mam ___ (mapa). [genitive]",
+      "answers": [
+        "mapy"
+      ],
+      "explanation": "The object of nie mam takes the genitive."
+    },
+    {
+      "prompt": "Mam ___ (torba). [accusative]",
+      "answers": [
+        "torbę"
+      ],
+      "explanation": "The object of mam takes the accusative."
+    },
+    {
+      "prompt": "Nie mam ___ (torba). [genitive]",
+      "answers": [
+        "torby"
+      ],
+      "explanation": "The object of nie mam takes the genitive."
+    },
+    {
+      "prompt": "Mam ___ (gazeta). [accusative]",
+      "answers": [
+        "gazetę"
+      ],
+      "explanation": "The object of mam takes the accusative."
+    },
+    {
+      "prompt": "Nie mam ___ (gazeta). [genitive]",
+      "answers": [
+        "gazety"
+      ],
+      "explanation": "The object of nie mam takes the genitive."
+    },
+    {
+      "prompt": "Mam ___ (klucz). [accusative]",
+      "answers": [
+        "klucz"
+      ],
+      "explanation": "The object of mam takes the accusative."
+    },
+    {
+      "prompt": "Nie mam ___ (klucz). [genitive]",
+      "answers": [
+        "klucza"
+      ],
+      "explanation": "The object of nie mam takes the genitive."
+    },
+    {
+      "prompt": "Mam ___ (zegarek). [accusative]",
+      "answers": [
+        "zegarek"
+      ],
+      "explanation": "The object of mam takes the accusative."
+    },
+    {
+      "prompt": "Nie mam ___ (zegarek). [genitive]",
+      "answers": [
+        "zegarka"
+      ],
+      "explanation": "The object of nie mam takes the genitive."
+    },
+    {
+      "prompt": "Mam ___ (telefon). [accusative]",
+      "answers": [
+        "telefon"
+      ],
+      "explanation": "The object of mam takes the accusative."
+    },
+    {
+      "prompt": "Nie mam ___ (telefon). [genitive]",
+      "answers": [
+        "telefonu"
+      ],
+      "explanation": "The object of nie mam takes the genitive."
+    },
+    {
+      "prompt": "Mam ___ (rower). [accusative]",
+      "answers": [
+        "rower"
+      ],
+      "explanation": "The object of mam takes the accusative."
+    },
+    {
+      "prompt": "Nie mam ___ (rower). [genitive]",
+      "answers": [
+        "roweru"
+      ],
+      "explanation": "The object of nie mam takes the genitive."
+    },
+    {
+      "prompt": "Mam ___ (notes). [accusative]",
+      "answers": [
+        "notes"
+      ],
+      "explanation": "The object of mam takes the accusative."
+    },
+    {
+      "prompt": "Nie mam ___ (notes). [genitive]",
+      "answers": [
+        "notesu"
+      ],
+      "explanation": "The object of nie mam takes the genitive."
+    },
+    {
+      "prompt": "Mam ___ (plecak). [accusative]",
+      "answers": [
+        "plecak"
+      ],
+      "explanation": "The object of mam takes the accusative."
+    },
+    {
+      "prompt": "Nie mam ___ (plecak). [genitive]",
+      "answers": [
+        "plecaka"
+      ],
+      "explanation": "The object of nie mam takes the genitive."
+    },
+    {
+      "prompt": "Mam ___ (kurtka). [accusative]",
+      "answers": [
+        "kurtkę"
+      ],
+      "explanation": "The object of mam takes the accusative."
+    },
+    {
+      "prompt": "Nie mam ___ (kurtka). [genitive]",
+      "answers": [
+        "kurtki"
+      ],
+      "explanation": "The object of nie mam takes the genitive."
+    },
+    {
+      "prompt": "Tutaj widzę ___ (mapa). [accusative]",
+      "answers": [
+        "mapę"
+      ],
+      "explanation": "Widzieć takes the accusative."
+    },
+    {
+      "prompt": "Zabieram ze sobą ___ (mapa). [accusative]",
+      "answers": [
+        "mapę"
+      ],
+      "explanation": "The direct object of zabierać takes the accusative."
+    },
+    {
+      "prompt": "Szukam ___ (mapa). [genitive]",
+      "answers": [
+        "mapy"
+      ],
+      "explanation": "Szukać takes the genitive."
+    },
+    {
+      "prompt": "Nie potrzebuję ___ (mapa). [genitive]",
+      "answers": [
+        "mapy"
+      ],
+      "explanation": "The negated verb nie potrzebuję takes the genitive."
+    },
+    {
+      "prompt": "Czytasz o ___ (mapa). [locative]",
+      "answers": [
+        "mapie"
+      ],
+      "explanation": "O meaning about takes the locative."
+    },
+    {
+      "prompt": "Tutaj widzę ___ (torba). [accusative]",
+      "answers": [
+        "torbę"
+      ],
+      "explanation": "Widzieć takes the accusative."
+    },
+    {
+      "prompt": "Zabieram ze sobą ___ (torba). [accusative]",
+      "answers": [
+        "torbę"
+      ],
+      "explanation": "The direct object of zabierać takes the accusative."
+    },
+    {
+      "prompt": "Szukam ___ (torba). [genitive]",
+      "answers": [
+        "torby"
+      ],
+      "explanation": "Szukać takes the genitive."
+    },
+    {
+      "prompt": "Nie potrzebuję ___ (torba). [genitive]",
+      "answers": [
+        "torby"
+      ],
+      "explanation": "The negated verb nie potrzebuję takes the genitive."
+    },
+    {
+      "prompt": "Czytasz o ___ (torba). [locative]",
+      "answers": [
+        "torbie"
+      ],
+      "explanation": "O meaning about takes the locative."
+    },
+    {
+      "prompt": "Tutaj widzę ___ (gazeta). [accusative]",
+      "answers": [
+        "gazetę"
+      ],
+      "explanation": "Widzieć takes the accusative."
+    },
+    {
+      "prompt": "Zabieram ze sobą ___ (gazeta). [accusative]",
+      "answers": [
+        "gazetę"
+      ],
+      "explanation": "The direct object of zabierać takes the accusative."
+    },
+    {
+      "prompt": "Szukam ___ (gazeta). [genitive]",
+      "answers": [
+        "gazety"
+      ],
+      "explanation": "Szukać takes the genitive."
+    },
+    {
+      "prompt": "Nie potrzebuję ___ (gazeta). [genitive]",
+      "answers": [
+        "gazety"
+      ],
+      "explanation": "The negated verb nie potrzebuję takes the genitive."
+    },
+    {
+      "prompt": "Czytasz o ___ (gazeta). [locative]",
+      "answers": [
+        "gazecie"
+      ],
+      "explanation": "O meaning about takes the locative."
+    },
+    {
+      "prompt": "Tutaj widzę ___ (klucz). [accusative]",
+      "answers": [
+        "klucz"
+      ],
+      "explanation": "Widzieć takes the accusative."
+    },
+    {
+      "prompt": "Zabieram ze sobą ___ (klucz). [accusative]",
+      "answers": [
+        "klucz"
+      ],
+      "explanation": "The direct object of zabierać takes the accusative."
+    },
+    {
+      "prompt": "Szukam ___ (klucz). [genitive]",
+      "answers": [
+        "klucza"
+      ],
+      "explanation": "Szukać takes the genitive."
+    },
+    {
+      "prompt": "Nie potrzebuję ___ (klucz). [genitive]",
+      "answers": [
+        "klucza"
+      ],
+      "explanation": "The negated verb nie potrzebuję takes the genitive."
+    },
+    {
+      "prompt": "Czytasz o ___ (klucz). [locative]",
+      "answers": [
+        "kluczu"
+      ],
+      "explanation": "O meaning about takes the locative."
+    },
+    {
+      "prompt": "Tutaj widzę ___ (zegarek). [accusative]",
+      "answers": [
+        "zegarek"
+      ],
+      "explanation": "Widzieć takes the accusative."
+    },
+    {
+      "prompt": "Zabieram ze sobą ___ (zegarek). [accusative]",
+      "answers": [
+        "zegarek"
+      ],
+      "explanation": "The direct object of zabierać takes the accusative."
+    },
+    {
+      "prompt": "Szukam ___ (zegarek). [genitive]",
+      "answers": [
+        "zegarka"
+      ],
+      "explanation": "Szukać takes the genitive."
+    },
+    {
+      "prompt": "Nie potrzebuję ___ (zegarek). [genitive]",
+      "answers": [
+        "zegarka"
+      ],
+      "explanation": "The negated verb nie potrzebuję takes the genitive."
+    },
+    {
+      "prompt": "Czytasz o ___ (zegarek). [locative]",
+      "answers": [
+        "zegarku"
+      ],
+      "explanation": "O meaning about takes the locative."
+    },
+    {
+      "prompt": "Tutaj widzę ___ (telefon). [accusative]",
+      "answers": [
+        "telefon"
+      ],
+      "explanation": "Widzieć takes the accusative."
+    },
+    {
+      "prompt": "Zabieram ze sobą ___ (telefon). [accusative]",
+      "answers": [
+        "telefon"
+      ],
+      "explanation": "The direct object of zabierać takes the accusative."
+    },
+    {
+      "prompt": "Szukam ___ (telefon). [genitive]",
+      "answers": [
+        "telefonu"
+      ],
+      "explanation": "Szukać takes the genitive."
+    },
+    {
+      "prompt": "Nie potrzebuję ___ (telefon). [genitive]",
+      "answers": [
+        "telefonu"
+      ],
+      "explanation": "The negated verb nie potrzebuję takes the genitive."
+    },
+    {
+      "prompt": "Czytasz o ___ (telefon). [locative]",
+      "answers": [
+        "telefonie"
+      ],
+      "explanation": "O meaning about takes the locative."
+    },
+    {
+      "prompt": "Tutaj widzę ___ (rower). [accusative]",
+      "answers": [
+        "rower"
+      ],
+      "explanation": "Widzieć takes the accusative."
+    },
+    {
+      "prompt": "Zabieram ze sobą ___ (rower). [accusative]",
+      "answers": [
+        "rower"
+      ],
+      "explanation": "The direct object of zabierać takes the accusative."
+    },
+    {
+      "prompt": "Szukam ___ (rower). [genitive]",
+      "answers": [
+        "roweru"
+      ],
+      "explanation": "Szukać takes the genitive."
+    },
+    {
+      "prompt": "Nie potrzebuję ___ (rower). [genitive]",
+      "answers": [
+        "roweru"
+      ],
+      "explanation": "The negated verb nie potrzebuję takes the genitive."
+    },
+    {
+      "prompt": "Czytasz o ___ (rower). [locative]",
+      "answers": [
+        "rowerze"
+      ],
+      "explanation": "O meaning about takes the locative."
+    },
+    {
+      "prompt": "Tutaj widzę ___ (notes). [accusative]",
+      "answers": [
+        "notes"
+      ],
+      "explanation": "Widzieć takes the accusative."
+    },
+    {
+      "prompt": "Zabieram ze sobą ___ (notes). [accusative]",
+      "answers": [
+        "notes"
+      ],
+      "explanation": "The direct object of zabierać takes the accusative."
+    },
+    {
+      "prompt": "Szukam ___ (notes). [genitive]",
+      "answers": [
+        "notesu"
+      ],
+      "explanation": "Szukać takes the genitive."
+    },
+    {
+      "prompt": "Nie potrzebuję ___ (notes). [genitive]",
+      "answers": [
+        "notesu"
+      ],
+      "explanation": "The negated verb nie potrzebuję takes the genitive."
+    },
+    {
+      "prompt": "Czytasz o ___ (notes). [locative]",
+      "answers": [
+        "notesie"
+      ],
+      "explanation": "O meaning about takes the locative."
+    },
+    {
+      "prompt": "Tutaj widzę ___ (plecak). [accusative]",
+      "answers": [
+        "plecak"
+      ],
+      "explanation": "Widzieć takes the accusative."
+    },
+    {
+      "prompt": "Zabieram ze sobą ___ (plecak). [accusative]",
+      "answers": [
+        "plecak"
+      ],
+      "explanation": "The direct object of zabierać takes the accusative."
+    },
+    {
+      "prompt": "Szukam ___ (plecak). [genitive]",
+      "answers": [
+        "plecaka"
+      ],
+      "explanation": "Szukać takes the genitive."
+    }
+  ],
+  "A2": [
+    {
+      "prompt": "Rozmawiamy o ___ (nowa praca). [locative]",
+      "answers": [
+        "nowej pracy"
+      ],
+      "explanation": "O meaning about takes the locative."
+    },
+    {
+      "prompt": "Daję ___ prezent. (mój brat) [dative]",
+      "answers": [
+        "mojemu bratu"
+      ],
+      "explanation": "The recipient of daję takes the dative."
+    },
+    {
+      "prompt": "Idę z ___ (dobra koleżanka). [instrumental]",
+      "answers": [
+        "dobrą koleżanką"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "___, chodź tutaj! (Kasia) [vocative]",
+      "answers": [
+        "Kasiu"
+      ],
+      "explanation": "Use the vocative to address Kasia directly."
+    },
+    {
+      "prompt": "Pomagam ___ (moja mama). [dative]",
+      "answers": [
+        "mojej mamie"
+      ],
+      "explanation": "Pomagać takes the dative for the person receiving help."
+    },
+    {
+      "prompt": "Dzięki ___ zdążyliśmy na pociąg. (twój kolega) [dative]",
+      "answers": [
+        "twojemu koledze"
+      ],
+      "explanation": "Dzięki takes the dative."
+    },
+    {
+      "prompt": "Kupuję prezent dla ___ (moje dzieci). [genitive]",
+      "answers": [
+        "moich dzieci"
+      ],
+      "explanation": "Dla takes the genitive. Here the noun phrase is plural."
+    },
+    {
+      "prompt": "Po ___ pójdziemy do domu. (spotkanie) [locative]",
+      "answers": [
+        "spotkaniu"
+      ],
+      "explanation": "Po meaning after takes the locative here."
+    },
+    {
+      "prompt": "Jadę na ___ (lotnisko). [accusative]",
+      "answers": [
+        "lotnisko"
+      ],
+      "explanation": "Na takes the accusative when indicating a destination."
+    },
+    {
+      "prompt": "Zajmuję się ___ (małe dzieci). [instrumental]",
+      "answers": [
+        "małymi dziećmi"
+      ],
+      "explanation": "Zajmować się takes the instrumental."
+    },
+    {
+      "prompt": "___, poczekaj! (Piotr) [vocative]",
+      "answers": [
+        "Piotrze"
+      ],
+      "explanation": "Piotr becomes Piotrze when used to address him."
+    },
+    {
+      "prompt": "Bez ___ nie wsiądziesz do pociągu. (ważny bilet) [genitive]",
+      "answers": [
+        "ważnego biletu"
+      ],
+      "explanation": "Bez takes the genitive."
+    },
+    {
+      "prompt": "Przynoszę zakupy ___ (moja ciocia). [dative]",
+      "answers": [
+        "mojej cioci"
+      ],
+      "explanation": "The person receiving the shopping takes the dative."
+    },
+    {
+      "prompt": "Rozmawiam z ___ (moja ciocia). [instrumental]",
+      "answers": [
+        "moją ciocią"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Przynoszę zakupy ___ (twój kuzyn). [dative]",
+      "answers": [
+        "twojemu kuzynowi"
+      ],
+      "explanation": "The person receiving the shopping takes the dative."
+    },
+    {
+      "prompt": "Rozmawiam z ___ (twój kuzyn). [instrumental]",
+      "answers": [
+        "twoim kuzynem"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Przynoszę zakupy ___ (nasza sąsiadka). [dative]",
+      "answers": [
+        "naszej sąsiadce"
+      ],
+      "explanation": "The person receiving the shopping takes the dative."
+    },
+    {
+      "prompt": "Rozmawiam z ___ (nasza sąsiadka). [instrumental]",
+      "answers": [
+        "naszą sąsiadką"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Przynoszę zakupy ___ (mój dziadek). [dative]",
+      "answers": [
+        "mojemu dziadkowi"
+      ],
+      "explanation": "The person receiving the shopping takes the dative."
+    },
+    {
+      "prompt": "Szukam ___ (mój dziadek). [genitive]",
+      "answers": [
+        "mojego dziadka"
+      ],
+      "explanation": "Szukać takes the genitive."
+    },
+    {
+      "prompt": "Przynoszę zakupy ___ (młodsza siostra). [dative]",
+      "answers": [
+        "młodszej siostrze"
+      ],
+      "explanation": "The person receiving the shopping takes the dative."
+    },
+    {
+      "prompt": "Szukam ___ (młodsza siostra). [genitive]",
+      "answers": [
+        "młodszej siostry"
+      ],
+      "explanation": "Szukać takes the genitive."
+    },
+    {
+      "prompt": "Przynoszę zakupy ___ (starszy brat). [dative]",
+      "answers": [
+        "starszemu bratu"
+      ],
+      "explanation": "The person receiving the shopping takes the dative."
+    },
+    {
+      "prompt": "Szukam ___ (starszy brat). [genitive]",
+      "answers": [
+        "starszego brata"
+      ],
+      "explanation": "Szukać takes the genitive."
+    },
+    {
+      "prompt": "Przynoszę zakupy ___ (nasza babcia). [dative]",
+      "answers": [
+        "naszej babci"
+      ],
+      "explanation": "The person receiving the shopping takes the dative."
+    },
+    {
+      "prompt": "Szukam ___ (nasza babcia). [genitive]",
+      "answers": [
+        "naszej babci"
+      ],
+      "explanation": "Szukać takes the genitive."
+    },
+    {
+      "prompt": "Rozmawiam z ___ (małe dziecko). [instrumental]",
+      "answers": [
+        "małym dzieckiem"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Szukam ___ (małe dziecko). [genitive]",
+      "answers": [
+        "małego dziecka"
+      ],
+      "explanation": "Szukać takes the genitive."
+    },
+    {
+      "prompt": "Rozmawiam z ___ (twoja kuzynka). [instrumental]",
+      "answers": [
+        "twoją kuzynką"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Szukam ___ (twoja kuzynka). [genitive]",
+      "answers": [
+        "twojej kuzynki"
+      ],
+      "explanation": "Szukać takes the genitive."
+    },
+    {
+      "prompt": "Rozmawiam z ___ (nasz sąsiad). [instrumental]",
+      "answers": [
+        "naszym sąsiadem"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Pokazuję zdjęcie ___ (moja ciocia). [dative]",
+      "answers": [
+        "mojej cioci"
+      ],
+      "explanation": "The recipient of pokazywać takes the dative."
+    },
+    {
+      "prompt": "Opowiadam ___ o podróży. (moja ciocia) [dative]",
+      "answers": [
+        "mojej cioci"
+      ],
+      "explanation": "The person you tell a story to takes the dative."
+    },
+    {
+      "prompt": "Jadę na wycieczkę z ___ (moja ciocia). [instrumental]",
+      "answers": [
+        "moją ciocią"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Wracam do domu z ___ (moja ciocia). [instrumental]",
+      "answers": [
+        "moją ciocią"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Czekam na telefon od ___ (moja ciocia). [genitive]",
+      "answers": [
+        "mojej cioci"
+      ],
+      "explanation": "Od meaning from takes the genitive."
+    },
+    {
+      "prompt": "Pokazuję zdjęcie ___ (twój kuzyn). [dative]",
+      "answers": [
+        "twojemu kuzynowi"
+      ],
+      "explanation": "The recipient of pokazywać takes the dative."
+    },
+    {
+      "prompt": "Opowiadam ___ o podróży. (twój kuzyn) [dative]",
+      "answers": [
+        "twojemu kuzynowi"
+      ],
+      "explanation": "The person you tell a story to takes the dative."
+    },
+    {
+      "prompt": "Jadę na wycieczkę z ___ (twój kuzyn). [instrumental]",
+      "answers": [
+        "twoim kuzynem"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Wracam do domu z ___ (twój kuzyn). [instrumental]",
+      "answers": [
+        "twoim kuzynem"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Czekam na telefon od ___ (twój kuzyn). [genitive]",
+      "answers": [
+        "twojego kuzyna"
+      ],
+      "explanation": "Od meaning from takes the genitive."
+    },
+    {
+      "prompt": "Pokazuję zdjęcie ___ (nasza sąsiadka). [dative]",
+      "answers": [
+        "naszej sąsiadce"
+      ],
+      "explanation": "The recipient of pokazywać takes the dative."
+    },
+    {
+      "prompt": "Opowiadam ___ o podróży. (nasza sąsiadka) [dative]",
+      "answers": [
+        "naszej sąsiadce"
+      ],
+      "explanation": "The person you tell a story to takes the dative."
+    },
+    {
+      "prompt": "Jadę na wycieczkę z ___ (nasza sąsiadka). [instrumental]",
+      "answers": [
+        "naszą sąsiadką"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Wracam do domu z ___ (nasza sąsiadka). [instrumental]",
+      "answers": [
+        "naszą sąsiadką"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Czekam na telefon od ___ (nasza sąsiadka). [genitive]",
+      "answers": [
+        "naszej sąsiadki"
+      ],
+      "explanation": "Od meaning from takes the genitive."
+    },
+    {
+      "prompt": "Pokazuję zdjęcie ___ (mój dziadek). [dative]",
+      "answers": [
+        "mojemu dziadkowi"
+      ],
+      "explanation": "The recipient of pokazywać takes the dative."
+    },
+    {
+      "prompt": "Opowiadam ___ o podróży. (mój dziadek) [dative]",
+      "answers": [
+        "mojemu dziadkowi"
+      ],
+      "explanation": "The person you tell a story to takes the dative."
+    },
+    {
+      "prompt": "Jadę na wycieczkę z ___ (mój dziadek). [instrumental]",
+      "answers": [
+        "moim dziadkiem"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Wracam do domu z ___ (mój dziadek). [instrumental]",
+      "answers": [
+        "moim dziadkiem"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Czekam na telefon od ___ (mój dziadek). [genitive]",
+      "answers": [
+        "mojego dziadka"
+      ],
+      "explanation": "Od meaning from takes the genitive."
+    },
+    {
+      "prompt": "Pokazuję zdjęcie ___ (młodsza siostra). [dative]",
+      "answers": [
+        "młodszej siostrze"
+      ],
+      "explanation": "The recipient of pokazywać takes the dative."
+    },
+    {
+      "prompt": "Opowiadam ___ o podróży. (młodsza siostra) [dative]",
+      "answers": [
+        "młodszej siostrze"
+      ],
+      "explanation": "The person you tell a story to takes the dative."
+    },
+    {
+      "prompt": "Jadę na wycieczkę z ___ (młodsza siostra). [instrumental]",
+      "answers": [
+        "młodszą siostrą"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Wracam do domu z ___ (młodsza siostra). [instrumental]",
+      "answers": [
+        "młodszą siostrą"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Czekam na telefon od ___ (młodsza siostra). [genitive]",
+      "answers": [
+        "młodszej siostry"
+      ],
+      "explanation": "Od meaning from takes the genitive."
+    },
+    {
+      "prompt": "Pokazuję zdjęcie ___ (starszy brat). [dative]",
+      "answers": [
+        "starszemu bratu"
+      ],
+      "explanation": "The recipient of pokazywać takes the dative."
+    },
+    {
+      "prompt": "Opowiadam ___ o podróży. (starszy brat) [dative]",
+      "answers": [
+        "starszemu bratu"
+      ],
+      "explanation": "The person you tell a story to takes the dative."
+    },
+    {
+      "prompt": "Jadę na wycieczkę z ___ (starszy brat). [instrumental]",
+      "answers": [
+        "starszym bratem"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Wracam do domu z ___ (starszy brat). [instrumental]",
+      "answers": [
+        "starszym bratem"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Czekam na telefon od ___ (starszy brat). [genitive]",
+      "answers": [
+        "starszego brata"
+      ],
+      "explanation": "Od meaning from takes the genitive."
+    },
+    {
+      "prompt": "Pokazuję zdjęcie ___ (nasza babcia). [dative]",
+      "answers": [
+        "naszej babci"
+      ],
+      "explanation": "The recipient of pokazywać takes the dative."
+    },
+    {
+      "prompt": "Opowiadam ___ o podróży. (nasza babcia) [dative]",
+      "answers": [
+        "naszej babci"
+      ],
+      "explanation": "The person you tell a story to takes the dative."
+    },
+    {
+      "prompt": "Jadę na wycieczkę z ___ (nasza babcia). [instrumental]",
+      "answers": [
+        "naszą babcią"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Wracam do domu z ___ (nasza babcia). [instrumental]",
+      "answers": [
+        "naszą babcią"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Czekam na telefon od ___ (nasza babcia). [genitive]",
+      "answers": [
+        "naszej babci"
+      ],
+      "explanation": "Od meaning from takes the genitive."
+    },
+    {
+      "prompt": "Pokazuję zdjęcie ___ (małe dziecko). [dative]",
+      "answers": [
+        "małemu dziecku"
+      ],
+      "explanation": "The recipient of pokazywać takes the dative."
+    },
+    {
+      "prompt": "Opowiadam ___ o podróży. (małe dziecko) [dative]",
+      "answers": [
+        "małemu dziecku"
+      ],
+      "explanation": "The person you tell a story to takes the dative."
+    },
+    {
+      "prompt": "Jadę na wycieczkę z ___ (małe dziecko). [instrumental]",
+      "answers": [
+        "małym dzieckiem"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Wracam do domu z ___ (małe dziecko). [instrumental]",
+      "answers": [
+        "małym dzieckiem"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Czekam na telefon od ___ (małe dziecko). [genitive]",
+      "answers": [
+        "małego dziecka"
+      ],
+      "explanation": "Od meaning from takes the genitive."
+    },
+    {
+      "prompt": "Pokazuję zdjęcie ___ (twoja kuzynka). [dative]",
+      "answers": [
+        "twojej kuzynce"
+      ],
+      "explanation": "The recipient of pokazywać takes the dative."
+    },
+    {
+      "prompt": "Opowiadam ___ o podróży. (twoja kuzynka) [dative]",
+      "answers": [
+        "twojej kuzynce"
+      ],
+      "explanation": "The person you tell a story to takes the dative."
+    },
+    {
+      "prompt": "Jadę na wycieczkę z ___ (twoja kuzynka). [instrumental]",
+      "answers": [
+        "twoją kuzynką"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "Wracam do domu z ___ (twoja kuzynka). [instrumental]",
+      "answers": [
+        "twoją kuzynką"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    }
+  ],
+  "B1": [
+    {
+      "prompt": "Przyglądam się ___ (nowe budynki).",
+      "answers": [
+        "nowym budynkom"
+      ],
+      "explanation": "Przyglądać się takes the dative."
+    },
+    {
+      "prompt": "Mimo ___ wyszliśmy na spacer. (silny wiatr)",
+      "answers": [
+        "silnego wiatru"
+      ],
+      "explanation": "Mimo takes the genitive."
+    },
+    {
+      "prompt": "Interesuję się ___ (języki obce).",
+      "answers": [
+        "językami obcymi"
+      ],
+      "explanation": "Interesować się takes the instrumental."
+    },
+    {
+      "prompt": "Unikam ___ w centrum. (duże tłumy)",
+      "answers": [
+        "dużych tłumów"
+      ],
+      "explanation": "Unikać takes the genitive, here plural."
+    },
+    {
+      "prompt": "Ufam ___. (ta specjalistka)",
+      "answers": [
+        "tej specjalistce"
+      ],
+      "explanation": "Ufać takes the dative."
+    },
+    {
+      "prompt": "Dysponujemy ___. (własny sprzęt)",
+      "answers": [
+        "własnym sprzętem"
+      ],
+      "explanation": "Dysponować takes the instrumental."
+    },
+    {
+      "prompt": "Zależy mi na ___. (twoja opinia)",
+      "answers": [
+        "twojej opinii"
+      ],
+      "explanation": "Zależeć komuś na takes the locative after na."
+    },
+    {
+      "prompt": "Czekam na ___. (ważna wiadomość)",
+      "answers": [
+        "ważną wiadomość"
+      ],
+      "explanation": "Czekać na takes the accusative."
+    },
+    {
+      "prompt": "Przyzwyczaiłam się do ___. (nowe warunki)",
+      "answers": [
+        "nowych warunków"
+      ],
+      "explanation": "Do takes the genitive after przyzwyczaić się."
+    },
+    {
+      "prompt": "Sprzeciwiamy się ___. (ta decyzja)",
+      "answers": [
+        "tej decyzji"
+      ],
+      "explanation": "Sprzeciwiać się takes the dative."
+    },
+    {
+      "prompt": "___, dziękuję za pomoc! (pan doktor)",
+      "answers": [
+        "panie doktorze"
+      ],
+      "explanation": "Both parts of the title take the vocative in direct address."
+    },
+    {
+      "prompt": "Nie spodziewaliśmy się ___ (kolejne opóźnienia).",
+      "answers": [
+        "kolejnych opóźnień"
+      ],
+      "explanation": "Spodziewać się takes the genitive."
+    },
+    {
+      "prompt": "Rozmawialiśmy o ___ (kolejne opóźnienia).",
+      "answers": [
+        "kolejnych opóźnieniach"
+      ],
+      "explanation": "O meaning about takes the locative."
+    },
+    {
+      "prompt": "Nie spodziewaliśmy się ___ (nowe ograniczenia).",
+      "answers": [
+        "nowych ograniczeń"
+      ],
+      "explanation": "Spodziewać się takes the genitive."
+    },
+    {
+      "prompt": "Rozmawialiśmy o ___ (nowe ograniczenia).",
+      "answers": [
+        "nowych ograniczeniach"
+      ],
+      "explanation": "O meaning about takes the locative."
+    },
+    {
+      "prompt": "Nie spodziewaliśmy się ___ (duże zmiany).",
+      "answers": [
+        "dużych zmian"
+      ],
+      "explanation": "Spodziewać się takes the genitive."
+    },
+    {
+      "prompt": "Rozmawialiśmy o ___ (duże zmiany).",
+      "answers": [
+        "dużych zmianach"
+      ],
+      "explanation": "O meaning about takes the locative."
+    },
+    {
+      "prompt": "Nie spodziewaliśmy się ___ (dodatkowe koszty).",
+      "answers": [
+        "dodatkowych kosztów"
+      ],
+      "explanation": "Spodziewać się takes the genitive."
+    },
+    {
+      "prompt": "Rozmawialiśmy o ___ (dodatkowe koszty).",
+      "answers": [
+        "dodatkowych kosztach"
+      ],
+      "explanation": "O meaning about takes the locative."
+    },
+    {
+      "prompt": "Nie spodziewaliśmy się ___ (trudna sytuacja).",
+      "answers": [
+        "trudnej sytuacji"
+      ],
+      "explanation": "Spodziewać się takes the genitive."
+    },
+    {
+      "prompt": "Rozmawialiśmy o ___ (trudna sytuacja).",
+      "answers": [
+        "trudnej sytuacji"
+      ],
+      "explanation": "O meaning about takes the locative."
+    },
+    {
+      "prompt": "Nie spodziewaliśmy się ___ (poważne problemy).",
+      "answers": [
+        "poważnych problemów"
+      ],
+      "explanation": "Spodziewać się takes the genitive."
+    },
+    {
+      "prompt": "Zmagaliśmy się z ___ (poważne problemy).",
+      "answers": [
+        "poważnymi problemami"
+      ],
+      "explanation": "Zmagać się z takes the instrumental."
+    },
+    {
+      "prompt": "Nie spodziewaliśmy się ___ (nagła awaria).",
+      "answers": [
+        "nagłej awarii"
+      ],
+      "explanation": "Spodziewać się takes the genitive."
+    },
+    {
+      "prompt": "Zmagaliśmy się z ___ (nagła awaria).",
+      "answers": [
+        "nagłą awarią"
+      ],
+      "explanation": "Zmagać się z takes the instrumental."
+    },
+    {
+      "prompt": "Nie spodziewaliśmy się ___ (drobne usterki).",
+      "answers": [
+        "drobnych usterek"
+      ],
+      "explanation": "Spodziewać się takes the genitive."
+    },
+    {
+      "prompt": "Zmagaliśmy się z ___ (drobne usterki).",
+      "answers": [
+        "drobnymi usterkami"
+      ],
+      "explanation": "Zmagać się z takes the instrumental."
+    },
+    {
+      "prompt": "Nie spodziewaliśmy się ___ (silny wiatr).",
+      "answers": [
+        "silnego wiatru"
+      ],
+      "explanation": "Spodziewać się takes the genitive."
+    },
+    {
+      "prompt": "Zmagaliśmy się z ___ (silny wiatr).",
+      "answers": [
+        "silnym wiatrem"
+      ],
+      "explanation": "Zmagać się z takes the instrumental."
+    },
+    {
+      "prompt": "Nie spodziewaliśmy się ___ (niższe zarobki).",
+      "answers": [
+        "niższych zarobków"
+      ],
+      "explanation": "Spodziewać się takes the genitive."
+    },
+    {
+      "prompt": "Zmagaliśmy się z ___ (niższe zarobki).",
+      "answers": [
+        "niższymi zarobkami"
+      ],
+      "explanation": "Zmagać się z takes the instrumental."
+    },
+    {
+      "prompt": "Nie przewidzieliśmy ___ (kolejne opóźnienia).",
+      "answers": [
+        "kolejnych opóźnień"
+      ],
+      "explanation": "The negated verb nie przewidzieliśmy takes the genitive."
+    },
+    {
+      "prompt": "Zrezygnowaliśmy z wyjazdu z powodu ___ (kolejne opóźnienia).",
+      "answers": [
+        "kolejnych opóźnień"
+      ],
+      "explanation": "Z powodu takes the genitive."
+    },
+    {
+      "prompt": "Czy wspominałeś o ___ (kolejne opóźnienia)?",
+      "answers": [
+        "kolejnych opóźnieniach"
+      ],
+      "explanation": "Wspominać o takes the locative."
+    },
+    {
+      "prompt": "W mailu napisano o ___ (kolejne opóźnienia).",
+      "answers": [
+        "kolejnych opóźnieniach"
+      ],
+      "explanation": "Napisać o takes the locative."
+    },
+    {
+      "prompt": "Borykamy się z ___ (kolejne opóźnienia).",
+      "answers": [
+        "kolejnymi opóźnieniami"
+      ],
+      "explanation": "Borykać się z takes the instrumental."
+    },
+    {
+      "prompt": "Nie przewidzieliśmy ___ (nowe ograniczenia).",
+      "answers": [
+        "nowych ograniczeń"
+      ],
+      "explanation": "The negated verb nie przewidzieliśmy takes the genitive."
+    },
+    {
+      "prompt": "Zrezygnowaliśmy z wyjazdu z powodu ___ (nowe ograniczenia).",
+      "answers": [
+        "nowych ograniczeń"
+      ],
+      "explanation": "Z powodu takes the genitive."
+    },
+    {
+      "prompt": "Czy wspominałeś o ___ (nowe ograniczenia)?",
+      "answers": [
+        "nowych ograniczeniach"
+      ],
+      "explanation": "Wspominać o takes the locative."
+    },
+    {
+      "prompt": "W mailu napisano o ___ (nowe ograniczenia).",
+      "answers": [
+        "nowych ograniczeniach"
+      ],
+      "explanation": "Napisać o takes the locative."
+    },
+    {
+      "prompt": "Borykamy się z ___ (nowe ograniczenia).",
+      "answers": [
+        "nowymi ograniczeniami"
+      ],
+      "explanation": "Borykać się z takes the instrumental."
+    },
+    {
+      "prompt": "Nie przewidzieliśmy ___ (duże zmiany).",
+      "answers": [
+        "dużych zmian"
+      ],
+      "explanation": "The negated verb nie przewidzieliśmy takes the genitive."
+    },
+    {
+      "prompt": "Zrezygnowaliśmy z wyjazdu z powodu ___ (duże zmiany).",
+      "answers": [
+        "dużych zmian"
+      ],
+      "explanation": "Z powodu takes the genitive."
+    },
+    {
+      "prompt": "Czy wspominałeś o ___ (duże zmiany)?",
+      "answers": [
+        "dużych zmianach"
+      ],
+      "explanation": "Wspominać o takes the locative."
+    },
+    {
+      "prompt": "W mailu napisano o ___ (duże zmiany).",
+      "answers": [
+        "dużych zmianach"
+      ],
+      "explanation": "Napisać o takes the locative."
+    },
+    {
+      "prompt": "Borykamy się z ___ (duże zmiany).",
+      "answers": [
+        "dużymi zmianami"
+      ],
+      "explanation": "Borykać się z takes the instrumental."
+    },
+    {
+      "prompt": "Nie przewidzieliśmy ___ (dodatkowe koszty).",
+      "answers": [
+        "dodatkowych kosztów"
+      ],
+      "explanation": "The negated verb nie przewidzieliśmy takes the genitive."
+    },
+    {
+      "prompt": "Zrezygnowaliśmy z wyjazdu z powodu ___ (dodatkowe koszty).",
+      "answers": [
+        "dodatkowych kosztów"
+      ],
+      "explanation": "Z powodu takes the genitive."
+    },
+    {
+      "prompt": "Czy wspominałeś o ___ (dodatkowe koszty)?",
+      "answers": [
+        "dodatkowych kosztach"
+      ],
+      "explanation": "Wspominać o takes the locative."
+    },
+    {
+      "prompt": "W mailu napisano o ___ (dodatkowe koszty).",
+      "answers": [
+        "dodatkowych kosztach"
+      ],
+      "explanation": "Napisać o takes the locative."
+    },
+    {
+      "prompt": "Borykamy się z ___ (dodatkowe koszty).",
+      "answers": [
+        "dodatkowymi kosztami"
+      ],
+      "explanation": "Borykać się z takes the instrumental."
+    },
+    {
+      "prompt": "Nie przewidzieliśmy ___ (trudna sytuacja).",
+      "answers": [
+        "trudnej sytuacji"
+      ],
+      "explanation": "The negated verb nie przewidzieliśmy takes the genitive."
+    },
+    {
+      "prompt": "Zrezygnowaliśmy z wyjazdu z powodu ___ (trudna sytuacja).",
+      "answers": [
+        "trudnej sytuacji"
+      ],
+      "explanation": "Z powodu takes the genitive."
+    },
+    {
+      "prompt": "Czy wspominałeś o ___ (trudna sytuacja)?",
+      "answers": [
+        "trudnej sytuacji"
+      ],
+      "explanation": "Wspominać o takes the locative."
+    },
+    {
+      "prompt": "W mailu napisano o ___ (trudna sytuacja).",
+      "answers": [
+        "trudnej sytuacji"
+      ],
+      "explanation": "Napisać o takes the locative."
+    },
+    {
+      "prompt": "Borykamy się z ___ (trudna sytuacja).",
+      "answers": [
+        "trudną sytuacją"
+      ],
+      "explanation": "Borykać się z takes the instrumental."
+    },
+    {
+      "prompt": "Nie przewidzieliśmy ___ (poważne problemy).",
+      "answers": [
+        "poważnych problemów"
+      ],
+      "explanation": "The negated verb nie przewidzieliśmy takes the genitive."
+    },
+    {
+      "prompt": "Zrezygnowaliśmy z wyjazdu z powodu ___ (poważne problemy).",
+      "answers": [
+        "poważnych problemów"
+      ],
+      "explanation": "Z powodu takes the genitive."
+    },
+    {
+      "prompt": "Czy wspominałeś o ___ (poważne problemy)?",
+      "answers": [
+        "poważnych problemach"
+      ],
+      "explanation": "Wspominać o takes the locative."
+    },
+    {
+      "prompt": "W mailu napisano o ___ (poważne problemy).",
+      "answers": [
+        "poważnych problemach"
+      ],
+      "explanation": "Napisać o takes the locative."
+    },
+    {
+      "prompt": "Borykamy się z ___ (poważne problemy).",
+      "answers": [
+        "poważnymi problemami"
+      ],
+      "explanation": "Borykać się z takes the instrumental."
+    },
+    {
+      "prompt": "Nie przewidzieliśmy ___ (nagła awaria).",
+      "answers": [
+        "nagłej awarii"
+      ],
+      "explanation": "The negated verb nie przewidzieliśmy takes the genitive."
+    },
+    {
+      "prompt": "Zrezygnowaliśmy z wyjazdu z powodu ___ (nagła awaria).",
+      "answers": [
+        "nagłej awarii"
+      ],
+      "explanation": "Z powodu takes the genitive."
+    },
+    {
+      "prompt": "Czy wspominałeś o ___ (nagła awaria)?",
+      "answers": [
+        "nagłej awarii"
+      ],
+      "explanation": "Wspominać o takes the locative."
+    },
+    {
+      "prompt": "W mailu napisano o ___ (nagła awaria).",
+      "answers": [
+        "nagłej awarii"
+      ],
+      "explanation": "Napisać o takes the locative."
+    },
+    {
+      "prompt": "Borykamy się z ___ (nagła awaria).",
+      "answers": [
+        "nagłą awarią"
+      ],
+      "explanation": "Borykać się z takes the instrumental."
+    },
+    {
+      "prompt": "Nie przewidzieliśmy ___ (drobne usterki).",
+      "answers": [
+        "drobnych usterek"
+      ],
+      "explanation": "The negated verb nie przewidzieliśmy takes the genitive."
+    },
+    {
+      "prompt": "Zrezygnowaliśmy z wyjazdu z powodu ___ (drobne usterki).",
+      "answers": [
+        "drobnych usterek"
+      ],
+      "explanation": "Z powodu takes the genitive."
+    },
+    {
+      "prompt": "Czy wspominałeś o ___ (drobne usterki)?",
+      "answers": [
+        "drobnych usterkach"
+      ],
+      "explanation": "Wspominać o takes the locative."
+    },
+    {
+      "prompt": "W mailu napisano o ___ (drobne usterki).",
+      "answers": [
+        "drobnych usterkach"
+      ],
+      "explanation": "Napisać o takes the locative."
+    },
+    {
+      "prompt": "Borykamy się z ___ (drobne usterki).",
+      "answers": [
+        "drobnymi usterkami"
+      ],
+      "explanation": "Borykać się z takes the instrumental."
+    },
+    {
+      "prompt": "Nie przewidzieliśmy ___ (silny wiatr).",
+      "answers": [
+        "silnego wiatru"
+      ],
+      "explanation": "The negated verb nie przewidzieliśmy takes the genitive."
+    },
+    {
+      "prompt": "Zrezygnowaliśmy z wyjazdu z powodu ___ (silny wiatr).",
+      "answers": [
+        "silnego wiatru"
+      ],
+      "explanation": "Z powodu takes the genitive."
+    },
+    {
+      "prompt": "Czy wspominałeś o ___ (silny wiatr)?",
+      "answers": [
+        "silnym wietrze"
+      ],
+      "explanation": "Wspominać o takes the locative."
+    },
+    {
+      "prompt": "W mailu napisano o ___ (silny wiatr).",
+      "answers": [
+        "silnym wietrze"
+      ],
+      "explanation": "Napisać o takes the locative."
+    }
+  ],
+  "B2": [
+    {
+      "prompt": "Wbrew ___ podjęliśmy decyzję. (wcześniejsze ustalenia)",
+      "answers": [
+        "wcześniejszym ustaleniom"
+      ],
+      "explanation": "Wbrew takes the dative."
+    },
+    {
+      "prompt": "Pomimo ___ wciąż brakowało środków. (ich wkład)",
+      "answers": [
+        "ich wkładu"
+      ],
+      "explanation": "Pomimo takes the genitive."
+    },
+    {
+      "prompt": "Spór dotyczył ___ (obie propozycje).",
+      "answers": [
+        "obu propozycji",
+        "obydwu propozycji"
+      ],
+      "explanation": "Dotyczyć takes the genitive, including after the numeral obu."
+    },
+    {
+      "prompt": "Stosownie do ___ zmieniono harmonogram. (nowe wytyczne)",
+      "answers": [
+        "nowych wytycznych"
+      ],
+      "explanation": "Stosownie do takes the genitive."
+    },
+    {
+      "prompt": "Nie uchybiajmy ___. (podstawowe zasady)",
+      "answers": [
+        "podstawowym zasadom"
+      ],
+      "explanation": "Uchybiać takes the dative."
+    },
+    {
+      "prompt": "W związku z ___ przełożono zebranie. (nagła awaria)",
+      "answers": [
+        "nagłą awarią"
+      ],
+      "explanation": "W związku z takes the instrumental."
+    },
+    {
+      "prompt": "Odstąpiono od ___. (pierwotne założenia)",
+      "answers": [
+        "pierwotnych założeń"
+      ],
+      "explanation": "Odstąpić od takes the genitive."
+    },
+    {
+      "prompt": "Zarzuca się ___ brak przejrzystości. (ta instytucja)",
+      "answers": [
+        "tej instytucji"
+      ],
+      "explanation": "The entity being accused is in the dative."
+    },
+    {
+      "prompt": "Rozwiązanie jest zgodne z ___. (obowiązujące przepisy)",
+      "answers": [
+        "obowiązującymi przepisami"
+      ],
+      "explanation": "Zgodny z takes the instrumental."
+    },
+    {
+      "prompt": "Sprawę omówiono na ___ komisji. (ostatnie posiedzenie)",
+      "answers": [
+        "ostatnim posiedzeniu"
+      ],
+      "explanation": "Na takes the locative for an event where something happens."
+    },
+    {
+      "prompt": "Proszę zwrócić uwagę na ___. (te rozbieżności)",
+      "answers": [
+        "te rozbieżności"
+      ],
+      "explanation": "Zwrócić uwagę na takes the accusative. Here its form matches the nominative plural."
+    },
+    {
+      "prompt": "Spór powstał wskutek ___ (istotne rozbieżności).",
+      "answers": [
+        "istotnych rozbieżności"
+      ],
+      "explanation": "Wskutek takes the genitive."
+    },
+    {
+      "prompt": "Komisja zajęła się ___ (istotne rozbieżności).",
+      "answers": [
+        "istotnymi rozbieżnościami"
+      ],
+      "explanation": "Zająć się takes the instrumental."
+    },
+    {
+      "prompt": "Spór powstał wskutek ___ (rażące zaniedbanie).",
+      "answers": [
+        "rażącego zaniedbania"
+      ],
+      "explanation": "Wskutek takes the genitive."
+    },
+    {
+      "prompt": "Komisja zajęła się ___ (rażące zaniedbanie).",
+      "answers": [
+        "rażącym zaniedbaniem"
+      ],
+      "explanation": "Zająć się takes the instrumental."
+    },
+    {
+      "prompt": "Spór powstał wskutek ___ (naruszenie procedur).",
+      "answers": [
+        "naruszenia procedur"
+      ],
+      "explanation": "Wskutek takes the genitive."
+    },
+    {
+      "prompt": "Komisja zajęła się ___ (naruszenie procedur).",
+      "answers": [
+        "naruszeniem procedur"
+      ],
+      "explanation": "Zająć się takes the instrumental."
+    },
+    {
+      "prompt": "Spór powstał wskutek ___ (niejasne zapisy).",
+      "answers": [
+        "niejasnych zapisów"
+      ],
+      "explanation": "Wskutek takes the genitive."
+    },
+    {
+      "prompt": "Komisja zajęła się ___ (niejasne zapisy).",
+      "answers": [
+        "niejasnymi zapisami"
+      ],
+      "explanation": "Zająć się takes the instrumental."
+    },
+    {
+      "prompt": "Spór powstał wskutek ___ (niekorzystna interpretacja).",
+      "answers": [
+        "niekorzystnej interpretacji"
+      ],
+      "explanation": "Wskutek takes the genitive."
+    },
+    {
+      "prompt": "Komisja zajęła się ___ (niekorzystna interpretacja).",
+      "answers": [
+        "niekorzystną interpretacją"
+      ],
+      "explanation": "Zająć się takes the instrumental."
+    },
+    {
+      "prompt": "Spór powstał wskutek ___ (przekroczenie uprawnień).",
+      "answers": [
+        "przekroczenia uprawnień"
+      ],
+      "explanation": "Wskutek takes the genitive."
+    },
+    {
+      "prompt": "Na posiedzeniu dyskutowano o ___ (przekroczenie uprawnień).",
+      "answers": [
+        "przekroczeniu uprawnień"
+      ],
+      "explanation": "O meaning about takes the locative."
+    },
+    {
+      "prompt": "Spór powstał wskutek ___ (nieuzasadnione roszczenia).",
+      "answers": [
+        "nieuzasadnionych roszczeń"
+      ],
+      "explanation": "Wskutek takes the genitive."
+    },
+    {
+      "prompt": "Na posiedzeniu dyskutowano o ___ (nieuzasadnione roszczenia).",
+      "answers": [
+        "nieuzasadnionych roszczeniach"
+      ],
+      "explanation": "O meaning about takes the locative."
+    },
+    {
+      "prompt": "Spór powstał wskutek ___ (uchybienia formalne).",
+      "answers": [
+        "uchybień formalnych"
+      ],
+      "explanation": "Wskutek takes the genitive."
+    },
+    {
+      "prompt": "Na posiedzeniu dyskutowano o ___ (uchybienia formalne).",
+      "answers": [
+        "uchybieniach formalnych"
+      ],
+      "explanation": "O meaning about takes the locative."
+    },
+    {
+      "prompt": "Spór powstał wskutek ___ (wadliwe rozporządzenie).",
+      "answers": [
+        "wadliwego rozporządzenia"
+      ],
+      "explanation": "Wskutek takes the genitive."
+    },
+    {
+      "prompt": "Na posiedzeniu dyskutowano o ___ (wadliwe rozporządzenie).",
+      "answers": [
+        "wadliwym rozporządzeniu"
+      ],
+      "explanation": "O meaning about takes the locative."
+    },
+    {
+      "prompt": "Spór powstał wskutek ___ (sprzeczne wytyczne).",
+      "answers": [
+        "sprzecznych wytycznych"
+      ],
+      "explanation": "Wskutek takes the genitive."
+    },
+    {
+      "prompt": "Na posiedzeniu dyskutowano o ___ (sprzeczne wytyczne).",
+      "answers": [
+        "sprzecznych wytycznych"
+      ],
+      "explanation": "O meaning about takes the locative."
+    },
+    {
+      "prompt": "W obliczu ___ odroczono głosowanie. (istotne rozbieżności)",
+      "answers": [
+        "istotnych rozbieżności"
+      ],
+      "explanation": "W obliczu takes the genitive."
+    },
+    {
+      "prompt": "Z powodu ___ złożono skargę. (istotne rozbieżności)",
+      "answers": [
+        "istotnych rozbieżności"
+      ],
+      "explanation": "Z powodu takes the genitive."
+    },
+    {
+      "prompt": "Eksperci zajmują się ___ (istotne rozbieżności).",
+      "answers": [
+        "istotnymi rozbieżnościami"
+      ],
+      "explanation": "Zajmować się takes the instrumental."
+    },
+    {
+      "prompt": "Rzecznik zapoznał się z ___ (istotne rozbieżności).",
+      "answers": [
+        "istotnymi rozbieżnościami"
+      ],
+      "explanation": "Zapoznać się z takes the instrumental."
+    },
+    {
+      "prompt": "W uzasadnieniu wspomniano o ___ (istotne rozbieżności).",
+      "answers": [
+        "istotnych rozbieżnościach"
+      ],
+      "explanation": "Wspomnieć o takes the locative."
+    },
+    {
+      "prompt": "W obliczu ___ odroczono głosowanie. (rażące zaniedbanie)",
+      "answers": [
+        "rażącego zaniedbania"
+      ],
+      "explanation": "W obliczu takes the genitive."
+    },
+    {
+      "prompt": "Z powodu ___ złożono skargę. (rażące zaniedbanie)",
+      "answers": [
+        "rażącego zaniedbania"
+      ],
+      "explanation": "Z powodu takes the genitive."
+    },
+    {
+      "prompt": "Eksperci zajmują się ___ (rażące zaniedbanie).",
+      "answers": [
+        "rażącym zaniedbaniem"
+      ],
+      "explanation": "Zajmować się takes the instrumental."
+    },
+    {
+      "prompt": "Rzecznik zapoznał się z ___ (rażące zaniedbanie).",
+      "answers": [
+        "rażącym zaniedbaniem"
+      ],
+      "explanation": "Zapoznać się z takes the instrumental."
+    },
+    {
+      "prompt": "W uzasadnieniu wspomniano o ___ (rażące zaniedbanie).",
+      "answers": [
+        "rażącym zaniedbaniu"
+      ],
+      "explanation": "Wspomnieć o takes the locative."
+    },
+    {
+      "prompt": "W obliczu ___ odroczono głosowanie. (naruszenie procedur)",
+      "answers": [
+        "naruszenia procedur"
+      ],
+      "explanation": "W obliczu takes the genitive."
+    },
+    {
+      "prompt": "Z powodu ___ złożono skargę. (naruszenie procedur)",
+      "answers": [
+        "naruszenia procedur"
+      ],
+      "explanation": "Z powodu takes the genitive."
+    },
+    {
+      "prompt": "Eksperci zajmują się ___ (naruszenie procedur).",
+      "answers": [
+        "naruszeniem procedur"
+      ],
+      "explanation": "Zajmować się takes the instrumental."
+    },
+    {
+      "prompt": "Rzecznik zapoznał się z ___ (naruszenie procedur).",
+      "answers": [
+        "naruszeniem procedur"
+      ],
+      "explanation": "Zapoznać się z takes the instrumental."
+    },
+    {
+      "prompt": "W uzasadnieniu wspomniano o ___ (naruszenie procedur).",
+      "answers": [
+        "naruszeniu procedur"
+      ],
+      "explanation": "Wspomnieć o takes the locative."
+    },
+    {
+      "prompt": "W obliczu ___ odroczono głosowanie. (niejasne zapisy)",
+      "answers": [
+        "niejasnych zapisów"
+      ],
+      "explanation": "W obliczu takes the genitive."
+    },
+    {
+      "prompt": "Z powodu ___ złożono skargę. (niejasne zapisy)",
+      "answers": [
+        "niejasnych zapisów"
+      ],
+      "explanation": "Z powodu takes the genitive."
+    },
+    {
+      "prompt": "Eksperci zajmują się ___ (niejasne zapisy).",
+      "answers": [
+        "niejasnymi zapisami"
+      ],
+      "explanation": "Zajmować się takes the instrumental."
+    },
+    {
+      "prompt": "Rzecznik zapoznał się z ___ (niejasne zapisy).",
+      "answers": [
+        "niejasnymi zapisami"
+      ],
+      "explanation": "Zapoznać się z takes the instrumental."
+    },
+    {
+      "prompt": "W uzasadnieniu wspomniano o ___ (niejasne zapisy).",
+      "answers": [
+        "niejasnych zapisach"
+      ],
+      "explanation": "Wspomnieć o takes the locative."
+    },
+    {
+      "prompt": "W obliczu ___ odroczono głosowanie. (niekorzystna interpretacja)",
+      "answers": [
+        "niekorzystnej interpretacji"
+      ],
+      "explanation": "W obliczu takes the genitive."
+    },
+    {
+      "prompt": "Z powodu ___ złożono skargę. (niekorzystna interpretacja)",
+      "answers": [
+        "niekorzystnej interpretacji"
+      ],
+      "explanation": "Z powodu takes the genitive."
+    },
+    {
+      "prompt": "Eksperci zajmują się ___ (niekorzystna interpretacja).",
+      "answers": [
+        "niekorzystną interpretacją"
+      ],
+      "explanation": "Zajmować się takes the instrumental."
+    },
+    {
+      "prompt": "Rzecznik zapoznał się z ___ (niekorzystna interpretacja).",
+      "answers": [
+        "niekorzystną interpretacją"
+      ],
+      "explanation": "Zapoznać się z takes the instrumental."
+    },
+    {
+      "prompt": "W uzasadnieniu wspomniano o ___ (niekorzystna interpretacja).",
+      "answers": [
+        "niekorzystnej interpretacji"
+      ],
+      "explanation": "Wspomnieć o takes the locative."
+    },
+    {
+      "prompt": "W obliczu ___ odroczono głosowanie. (przekroczenie uprawnień)",
+      "answers": [
+        "przekroczenia uprawnień"
+      ],
+      "explanation": "W obliczu takes the genitive."
+    },
+    {
+      "prompt": "Z powodu ___ złożono skargę. (przekroczenie uprawnień)",
+      "answers": [
+        "przekroczenia uprawnień"
+      ],
+      "explanation": "Z powodu takes the genitive."
+    },
+    {
+      "prompt": "Eksperci zajmują się ___ (przekroczenie uprawnień).",
+      "answers": [
+        "przekroczeniem uprawnień"
+      ],
+      "explanation": "Zajmować się takes the instrumental."
+    },
+    {
+      "prompt": "Rzecznik zapoznał się z ___ (przekroczenie uprawnień).",
+      "answers": [
+        "przekroczeniem uprawnień"
+      ],
+      "explanation": "Zapoznać się z takes the instrumental."
+    },
+    {
+      "prompt": "W uzasadnieniu wspomniano o ___ (przekroczenie uprawnień).",
+      "answers": [
+        "przekroczeniu uprawnień"
+      ],
+      "explanation": "Wspomnieć o takes the locative."
+    },
+    {
+      "prompt": "W obliczu ___ odroczono głosowanie. (nieuzasadnione roszczenia)",
+      "answers": [
+        "nieuzasadnionych roszczeń"
+      ],
+      "explanation": "W obliczu takes the genitive."
+    },
+    {
+      "prompt": "Z powodu ___ złożono skargę. (nieuzasadnione roszczenia)",
+      "answers": [
+        "nieuzasadnionych roszczeń"
+      ],
+      "explanation": "Z powodu takes the genitive."
+    },
+    {
+      "prompt": "Eksperci zajmują się ___ (nieuzasadnione roszczenia).",
+      "answers": [
+        "nieuzasadnionymi roszczeniami"
+      ],
+      "explanation": "Zajmować się takes the instrumental."
+    },
+    {
+      "prompt": "Rzecznik zapoznał się z ___ (nieuzasadnione roszczenia).",
+      "answers": [
+        "nieuzasadnionymi roszczeniami"
+      ],
+      "explanation": "Zapoznać się z takes the instrumental."
+    },
+    {
+      "prompt": "W uzasadnieniu wspomniano o ___ (nieuzasadnione roszczenia).",
+      "answers": [
+        "nieuzasadnionych roszczeniach"
+      ],
+      "explanation": "Wspomnieć o takes the locative."
+    },
+    {
+      "prompt": "W obliczu ___ odroczono głosowanie. (uchybienia formalne)",
+      "answers": [
+        "uchybień formalnych"
+      ],
+      "explanation": "W obliczu takes the genitive."
+    },
+    {
+      "prompt": "Z powodu ___ złożono skargę. (uchybienia formalne)",
+      "answers": [
+        "uchybień formalnych"
+      ],
+      "explanation": "Z powodu takes the genitive."
+    },
+    {
+      "prompt": "Eksperci zajmują się ___ (uchybienia formalne).",
+      "answers": [
+        "uchybieniami formalnymi"
+      ],
+      "explanation": "Zajmować się takes the instrumental."
+    },
+    {
+      "prompt": "Rzecznik zapoznał się z ___ (uchybienia formalne).",
+      "answers": [
+        "uchybieniami formalnymi"
+      ],
+      "explanation": "Zapoznać się z takes the instrumental."
+    },
+    {
+      "prompt": "W uzasadnieniu wspomniano o ___ (uchybienia formalne).",
+      "answers": [
+        "uchybieniach formalnych"
+      ],
+      "explanation": "Wspomnieć o takes the locative."
+    },
+    {
+      "prompt": "W obliczu ___ odroczono głosowanie. (wadliwe rozporządzenie)",
+      "answers": [
+        "wadliwego rozporządzenia"
+      ],
+      "explanation": "W obliczu takes the genitive."
+    },
+    {
+      "prompt": "Z powodu ___ złożono skargę. (wadliwe rozporządzenie)",
+      "answers": [
+        "wadliwego rozporządzenia"
+      ],
+      "explanation": "Z powodu takes the genitive."
+    },
+    {
+      "prompt": "Eksperci zajmują się ___ (wadliwe rozporządzenie).",
+      "answers": [
+        "wadliwym rozporządzeniem"
+      ],
+      "explanation": "Zajmować się takes the instrumental."
+    },
+    {
+      "prompt": "Rzecznik zapoznał się z ___ (wadliwe rozporządzenie).",
+      "answers": [
+        "wadliwym rozporządzeniem"
+      ],
+      "explanation": "Zapoznać się z takes the instrumental."
+    }
+  ]
+}

@@ -1,0 +1,2123 @@
+{
+  "A1": [
+    {
+      "title": "Nouns · Gender and singular/plural",
+      "rule": "Learn each noun with its gender and plural form. Many masculine nouns end in a consonant, many feminine nouns in -a and many neuter nouns in -o or -e. These are clues. For example, mężczyzna is masculine despite ending in -a.",
+      "examples": [
+        {
+          "polish": "To jest **jeden stół**.",
+          "english": "This is one table."
+        },
+        {
+          "polish": "To są **dwa stoły**.",
+          "english": "These are two tables."
+        },
+        {
+          "polish": "To jest **jedna książka**.",
+          "english": "This is one book."
+        },
+        {
+          "polish": "To są **dwie książki**.",
+          "english": "These are two books."
+        },
+        {
+          "polish": "To jest **jedno okno**.",
+          "english": "This is one window."
+        },
+        {
+          "polish": "To są **dwa okna**.",
+          "english": "These are two windows."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Gender and number in the nominative",
+          "headers": [
+            "Gender or group",
+            "Singular",
+            "Plural"
+          ],
+          "rows": [
+            [
+              "Masculine inanimate",
+              "ten stół",
+              "te stoły"
+            ],
+            [
+              "Masculine personal",
+              "ten student",
+              "ci studenci"
+            ],
+            [
+              "Feminine",
+              "ta książka",
+              "te książki"
+            ],
+            [
+              "Neuter",
+              "to okno",
+              "te okna"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Adjectives · Gender and number",
+      "rule": "The adjective follows the gender and number of its noun. Compare mały, mała and małe in the singular. In the nominative plural, małe is used with things and mali with masculine-personal nouns such as chłopcy.",
+      "examples": [
+        {
+          "polish": "To jest **mały dom**.",
+          "english": "This is a small house."
+        },
+        {
+          "polish": "To jest **mała torba**.",
+          "english": "This is a small bag."
+        },
+        {
+          "polish": "To jest **małe okno**.",
+          "english": "This is a small window."
+        },
+        {
+          "polish": "To są **małe domy**.",
+          "english": "These are small houses."
+        },
+        {
+          "polish": "To są **małe torby**.",
+          "english": "These are small bags."
+        },
+        {
+          "polish": "To są **mali chłopcy**.",
+          "english": "These are little boys."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Nominative agreement",
+          "headers": [
+            "Gender or group",
+            "Noun phrase"
+          ],
+          "rows": [
+            [
+              "Masculine singular",
+              "mały dom"
+            ],
+            [
+              "Feminine singular",
+              "mała torba"
+            ],
+            [
+              "Neuter singular",
+              "małe okno"
+            ],
+            [
+              "Masculine-personal plural",
+              "mali chłopcy"
+            ],
+            [
+              "Other plural",
+              "małe domy / małe torby / małe okna"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nominative and adjective agreement",
+      "rule": "Use the nominative for the subject and to identify something after to jest. Match the adjective to the noun's gender and number.",
+      "examples": [
+        {
+          "polish": "To jest **nowa książka**.",
+          "english": "This is a new book."
+        },
+        {
+          "polish": "To jest **małe okno**.",
+          "english": "This is a small window."
+        },
+        {
+          "polish": "To są **duże domy**.",
+          "english": "These are big houses."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Nominative agreement",
+          "headers": [
+            "Gender or group",
+            "Noun phrase"
+          ],
+          "rows": [
+            [
+              "Masculine singular",
+              "mały dom"
+            ],
+            [
+              "Feminine singular",
+              "mała torba"
+            ],
+            [
+              "Neuter singular",
+              "małe okno"
+            ],
+            [
+              "Masculine-personal plural",
+              "mali chłopcy"
+            ],
+            [
+              "Other plural",
+              "małe domy / małe torby / małe okna"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verbs · Six persons in the present",
+      "rule": "First learn the forms of czytać for all six persons. The ending often tells you who is doing the action. In everyday Polish, subject pronouns such as ja and my can be left out when the context makes them clear.",
+      "examples": [
+        {
+          "polish": "Ja **czytam** książkę.",
+          "english": "I am reading a book."
+        },
+        {
+          "polish": "Ty **czytasz** gazetę.",
+          "english": "You are reading a newspaper. (one person)"
+        },
+        {
+          "polish": "On **czyta** list.",
+          "english": "He is reading a letter."
+        },
+        {
+          "polish": "Ona **czyta** wiadomość.",
+          "english": "She is reading a message."
+        },
+        {
+          "polish": "Dziecko **czyta** bajkę.",
+          "english": "The child is reading a story. The neuter noun dziecko takes the same form as ono."
+        },
+        {
+          "polish": "My **czytamy** razem.",
+          "english": "We read together."
+        },
+        {
+          "polish": "Wy **czytacie** po polsku.",
+          "english": "You read in Polish. (more than one person)"
+        },
+        {
+          "polish": "Oni **czytają** w domu.",
+          "english": "They read at home. (masculine-personal group)"
+        },
+        {
+          "polish": "One **czytają** w bibliotece.",
+          "english": "They read in the library. (e.g. a group of women)"
+        }
+      ],
+      "tables": [
+        {
+          "title": "czytać · all present forms",
+          "headers": [
+            "Person",
+            "Singular",
+            "Plural"
+          ],
+          "rows": [
+            [
+              "First",
+              "ja czytam",
+              "my czytamy"
+            ],
+            [
+              "Second",
+              "ty czytasz",
+              "wy czytacie"
+            ],
+            [
+              "Third",
+              "on / ona / ono czyta",
+              "oni / one czytają"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verbs · Być and mieć",
+      "rule": "Learn these frequent verbs as complete patterns. In person order ja, ty, on/ona/ono, my, wy, oni/one: być has jestem, jesteś, jest, jesteśmy, jesteście, są. Mieć has mam, masz, ma, mamy, macie, mają.",
+      "examples": [
+        {
+          "polish": "**Jestem** w domu.",
+          "english": "I am at home."
+        },
+        {
+          "polish": "Czy **jesteś** w szkole?",
+          "english": "Are you at school? (one person)"
+        },
+        {
+          "polish": "**Jesteśmy** w sklepie.",
+          "english": "We are in the shop."
+        },
+        {
+          "polish": "Dzieci **są** w domu.",
+          "english": "The children are at home."
+        },
+        {
+          "polish": "**Mam** rower.",
+          "english": "I have a bicycle."
+        },
+        {
+          "polish": "Czy **macie** bilety?",
+          "english": "Do you have tickets? (more than one person)"
+        }
+      ],
+      "tables": [
+        {
+          "title": "Full present tense",
+          "headers": [
+            "Person",
+            "być (be)",
+            "mieć (have)"
+          ],
+          "rows": [
+            [
+              "ja",
+              "jestem",
+              "mam"
+            ],
+            [
+              "ty",
+              "jesteś",
+              "masz"
+            ],
+            [
+              "on / ona / ono",
+              "jest",
+              "ma"
+            ],
+            [
+              "my",
+              "jesteśmy",
+              "mamy"
+            ],
+            [
+              "wy",
+              "jesteście",
+              "macie"
+            ],
+            [
+              "oni / one",
+              "są",
+              "mają"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Present tense",
+      "rule": "Czytać is imperfective. Use its present tense for what is happening now or what happens regularly. Polish has six person-and-number slots. On, ona and ono share one form, and oni and one share another. The subject pronoun is often omitted when the verb ending and context identify the subject.",
+      "examples": [
+        {
+          "polish": "Ja **czytam** książkę.",
+          "english": "I am reading a book."
+        },
+        {
+          "polish": "Ty **czytasz** gazetę.",
+          "english": "You are reading a newspaper. (one person)"
+        },
+        {
+          "polish": "On **czyta** list.",
+          "english": "He is reading a letter."
+        },
+        {
+          "polish": "Ona **czyta** wiadomość.",
+          "english": "She is reading a message."
+        },
+        {
+          "polish": "Dziecko **czyta** bajkę.",
+          "english": "The child is reading a story. The neuter noun dziecko takes the same form as ono."
+        },
+        {
+          "polish": "My **czytamy** razem.",
+          "english": "We read together."
+        },
+        {
+          "polish": "Wy **czytacie** po polsku.",
+          "english": "You read in Polish. (more than one person)"
+        },
+        {
+          "polish": "Oni **czytają** w domu.",
+          "english": "They read at home. (masculine-personal group)"
+        },
+        {
+          "polish": "One **czytają** w bibliotece.",
+          "english": "They read in the library. (e.g. a group of women)"
+        }
+      ],
+      "tables": [
+        {
+          "title": "czytać · all present forms",
+          "headers": [
+            "Person",
+            "Singular",
+            "Plural"
+          ],
+          "rows": [
+            [
+              "First",
+              "ja czytam",
+              "my czytamy"
+            ],
+            [
+              "Second",
+              "ty czytasz",
+              "wy czytacie"
+            ],
+            [
+              "Third",
+              "on / ona / ono czyta",
+              "oni / one czytają"
+            ]
+          ]
+        },
+        {
+          "title": "Other common present patterns",
+          "headers": [
+            "Person",
+            "mówić (speak)",
+            "pisać (write)"
+          ],
+          "rows": [
+            [
+              "ja",
+              "mówię",
+              "piszę"
+            ],
+            [
+              "ty",
+              "mówisz",
+              "piszesz"
+            ],
+            [
+              "on / ona / ono",
+              "mówi",
+              "pisze"
+            ],
+            [
+              "my",
+              "mówimy",
+              "piszemy"
+            ],
+            [
+              "wy",
+              "mówicie",
+              "piszecie"
+            ],
+            [
+              "oni / one",
+              "mówią",
+              "piszą"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Accusative and genitive",
+      "rule": "A direct object often takes the accusative. When you negate a verb whose direct object takes the accusative, that object generally takes the genitive.",
+      "examples": [
+        {
+          "polish": "Mam **książkę**.",
+          "english": "I have a book."
+        },
+        {
+          "polish": "Nie mam **książki**.",
+          "english": "I don't have a book."
+        },
+        {
+          "polish": "Widzę **kota**.",
+          "english": "I see a cat."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Compare the two object forms",
+          "headers": [
+            "Base phrase",
+            "With mam",
+            "With nie mam"
+          ],
+          "rows": [
+            [
+              "nowa książka",
+              "nową książkę",
+              "nowej książki"
+            ],
+            [
+              "mały pies",
+              "małego psa",
+              "małego psa"
+            ],
+            [
+              "nowy rower",
+              "nowy rower",
+              "nowego roweru"
+            ],
+            [
+              "małe okno",
+              "małe okno",
+              "małego okna"
+            ],
+            [
+              "nowe książki",
+              "nowe książki",
+              "nowych książek"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Noun and adjective · Object and negation",
+      "rule": "Practise the whole phrase. With mieć, a direct object takes the accusative. After nie mieć, it takes the genitive. Change both the adjective and the noun where required.",
+      "examples": [
+        {
+          "polish": "Mam **nową książkę**.",
+          "english": "I have a new book."
+        },
+        {
+          "polish": "Nie mam **nowej książki**.",
+          "english": "I don't have a new book."
+        },
+        {
+          "polish": "Mam **małego psa**.",
+          "english": "I have a small dog."
+        },
+        {
+          "polish": "Nie mam **małego psa**.",
+          "english": "I don't have a small dog. (Here the accusative and genitive look the same.)"
+        },
+        {
+          "polish": "Mam **nowy rower**.",
+          "english": "I have a new bicycle."
+        },
+        {
+          "polish": "Nie mam **nowego roweru**.",
+          "english": "I don't have a new bicycle."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Compare the two object forms",
+          "headers": [
+            "Base phrase",
+            "With mam",
+            "With nie mam"
+          ],
+          "rows": [
+            [
+              "nowa książka",
+              "nową książkę",
+              "nowej książki"
+            ],
+            [
+              "mały pies",
+              "małego psa",
+              "małego psa"
+            ],
+            [
+              "nowy rower",
+              "nowy rower",
+              "nowego roweru"
+            ],
+            [
+              "małe okno",
+              "małe okno",
+              "małego okna"
+            ],
+            [
+              "nowe książki",
+              "nowe książki",
+              "nowych książek"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Instrumental and locative",
+      "rule": "Use the instrumental for a profession after być. Use the locative after w or na to say where something is in these examples.",
+      "examples": [
+        {
+          "polish": "Jestem **studentką**.",
+          "english": "I'm a student."
+        },
+        {
+          "polish": "Mieszkam w **Warszawie**.",
+          "english": "I live in Warsaw."
+        },
+        {
+          "polish": "Klucze są na **stole**.",
+          "english": "The keys are on the table."
+        }
+      ],
+      "tables": [
+        {
+          "title": "From the base phrase to the case form",
+          "headers": [
+            "Base phrase",
+            "Instrumental with z",
+            "Locative with o"
+          ],
+          "rows": [
+            [
+              "małe miasto",
+              "z małym miastem",
+              "o małym mieście"
+            ],
+            [
+              "nowy sąsiad",
+              "z nowym sąsiadem",
+              "o nowym sąsiedzie"
+            ],
+            [
+              "dobra koleżanka",
+              "z dobrą koleżanką",
+              "o dobrej koleżance"
+            ],
+            [
+              "nowe książki",
+              "z nowymi książkami",
+              "o nowych książkach"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Noun and adjective · With someone or in a place",
+      "rule": "Use the instrumental after z when it means with. Use the locative after w and na in these examples of location. The adjective changes with the noun.",
+      "examples": [
+        {
+          "polish": "Idę z **dobrą koleżanką**.",
+          "english": "I'm going with a good friend."
+        },
+        {
+          "polish": "Rozmawiam z **nowym sąsiadem**.",
+          "english": "I'm talking to the new neighbour."
+        },
+        {
+          "polish": "Mieszkamy w **małym mieście**.",
+          "english": "We live in a small town."
+        },
+        {
+          "polish": "Telefon leży na **dużym stole**.",
+          "english": "The phone is lying on the big table."
+        }
+      ],
+      "tables": [
+        {
+          "title": "From the base phrase to the case form",
+          "headers": [
+            "Base phrase",
+            "Instrumental with z",
+            "Locative with o"
+          ],
+          "rows": [
+            [
+              "małe miasto",
+              "z małym miastem",
+              "o małym mieście"
+            ],
+            [
+              "nowy sąsiad",
+              "z nowym sąsiadem",
+              "o nowym sąsiedzie"
+            ],
+            [
+              "dobra koleżanka",
+              "z dobrą koleżanką",
+              "o dobrej koleżance"
+            ],
+            [
+              "nowe książki",
+              "z nowymi książkami",
+              "o nowych książkach"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nouns · Giving and addressing",
+      "rule": "Use the dative for the person receiving something. Use the vocative to address someone directly. Start with familiar forms, then compare all seven cases in Reference · Noun declension.",
+      "examples": [
+        {
+          "polish": "Daję **mamie** kwiaty.",
+          "english": "I'm giving Mum flowers."
+        },
+        {
+          "polish": "Daję **tacie** książkę.",
+          "english": "I'm giving Dad a book."
+        },
+        {
+          "polish": "**Mamo**, chodź tutaj!",
+          "english": "Mum, come here!"
+        },
+        {
+          "polish": "**Tato**, gdzie jesteś?",
+          "english": "Dad, where are you?"
+        }
+      ],
+      "tables": [
+        {
+          "title": "Recipient versus direct address",
+          "headers": [
+            "Nominative",
+            "Dative",
+            "Vocative"
+          ],
+          "rows": [
+            [
+              "mama",
+              "mamie",
+              "mamo"
+            ],
+            [
+              "tata",
+              "tacie",
+              "tato"
+            ],
+            [
+              "brat",
+              "bratu",
+              "bracie"
+            ],
+            [
+              "siostra",
+              "siostrze",
+              "siostro"
+            ],
+            [
+              "Piotr",
+              "Piotrowi",
+              "Piotrze"
+            ],
+            [
+              "Anna",
+              "Annie",
+              "Anno"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verbs · First look at past and future",
+      "rule": "Compare three everyday time words. In the past, czytałem and czytałam differ by the speaker's gender. For the future of czytać, you can start with będę plus the infinitive.",
+      "examples": [
+        {
+          "polish": "Dzisiaj **czytam** książkę.",
+          "english": "I'm reading a book today."
+        },
+        {
+          "polish": "Wczoraj **czytałem** książkę.",
+          "english": "I read a book yesterday. (male speaker)"
+        },
+        {
+          "polish": "Wczoraj **czytałam** książkę.",
+          "english": "I read a book yesterday. (female speaker)"
+        },
+        {
+          "polish": "Jutro **będę czytać** książkę.",
+          "english": "I'll read a book tomorrow."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Present and past · czytać",
+          "headers": [
+            "Person",
+            "Present",
+            "Past"
+          ],
+          "rows": [
+            [
+              "ja",
+              "czytam",
+              "czytałem / czytałam"
+            ],
+            [
+              "ty",
+              "czytasz",
+              "czytałeś / czytałaś"
+            ],
+            [
+              "on / ona / ono",
+              "czyta",
+              "czytał / czytała / czytało"
+            ],
+            [
+              "my",
+              "czytamy",
+              "czytaliśmy / czytałyśmy"
+            ],
+            [
+              "wy",
+              "czytacie",
+              "czytaliście / czytałyście"
+            ],
+            [
+              "oni / one",
+              "czytają",
+              "czytali / czytały"
+            ]
+          ]
+        },
+        {
+          "title": "Future",
+          "headers": [
+            "Person",
+            "czytać + infinitive",
+            "przeczytać"
+          ],
+          "rows": [
+            [
+              "ja",
+              "będę czytać",
+              "przeczytam"
+            ],
+            [
+              "ty",
+              "będziesz czytać",
+              "przeczytasz"
+            ],
+            [
+              "on / ona / ono",
+              "będzie czytać",
+              "przeczyta"
+            ],
+            [
+              "my",
+              "będziemy czytać",
+              "przeczytamy"
+            ],
+            [
+              "wy",
+              "będziecie czytać",
+              "przeczytacie"
+            ],
+            [
+              "oni / one",
+              "będą czytać",
+              "przeczytają"
+            ]
+          ]
+        },
+        {
+          "title": "Alternative imperfective future",
+          "headers": [
+            "Person",
+            "Auxiliary",
+            "Choose one form"
+          ],
+          "rows": [
+            [
+              "ja",
+              "będę",
+              "czytał / czytała"
+            ],
+            [
+              "ty",
+              "będziesz",
+              "czytał / czytała"
+            ],
+            [
+              "on / ona / ono",
+              "będzie",
+              "czytał / czytała / czytało"
+            ],
+            [
+              "my",
+              "będziemy",
+              "czytali / czytały"
+            ],
+            [
+              "wy",
+              "będziecie",
+              "czytali / czytały"
+            ],
+            [
+              "oni / one",
+              "będą",
+              "czytali / czytały"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "A2": [
+    {
+      "title": "Dative and vocative",
+      "rule": "Use the dative for a recipient or after verbs such as pomagać. Use the vocative when directly addressing someone.",
+      "examples": [
+        {
+          "polish": "Daję **bratu** bilet.",
+          "english": "I'm giving my brother a ticket."
+        },
+        {
+          "polish": "Pomagam **siostrze**.",
+          "english": "I'm helping my sister."
+        },
+        {
+          "polish": "**Piotrze**, chodź tutaj!",
+          "english": "Piotr, come here!"
+        }
+      ],
+      "tables": [
+        {
+          "title": "Recipient versus direct address",
+          "headers": [
+            "Nominative",
+            "Dative",
+            "Vocative"
+          ],
+          "rows": [
+            [
+              "mama",
+              "mamie",
+              "mamo"
+            ],
+            [
+              "tata",
+              "tacie",
+              "tato"
+            ],
+            [
+              "brat",
+              "bratu",
+              "bracie"
+            ],
+            [
+              "siostra",
+              "siostrze",
+              "siostro"
+            ],
+            [
+              "Piotr",
+              "Piotrowi",
+              "Piotrze"
+            ],
+            [
+              "Anna",
+              "Annie",
+              "Anno"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Location and destination",
+      "rule": "With na, the locative can describe where you are and the accusative can describe where you are going.",
+      "examples": [
+        {
+          "polish": "Jestem na **poczcie**.",
+          "english": "I'm at the post office."
+        },
+        {
+          "polish": "Idę na **pocztę**.",
+          "english": "I'm going to the post office."
+        },
+        {
+          "polish": "Czekam na **dworcu**.",
+          "english": "I'm waiting at the station."
+        },
+        {
+          "polish": "Jadę **na dworzec**.",
+          "english": "I’m going to the station."
+        },
+        {
+          "polish": "Jesteśmy **na lotnisku**.",
+          "english": "We’re at the airport."
+        },
+        {
+          "polish": "Jedziemy **na lotnisko**.",
+          "english": "We’re going to the airport."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Compare where with where to",
+          "headers": [
+            "Preposition",
+            "Location with locative",
+            "Destination with accusative"
+          ],
+          "rows": [
+            [
+              "na",
+              "na poczcie",
+              "na pocztę"
+            ],
+            [
+              "na",
+              "na dworcu",
+              "na dworzec"
+            ],
+            [
+              "na",
+              "na lotnisku",
+              "na lotnisko"
+            ],
+            [
+              "na",
+              "na stacji",
+              "na stację"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Past and future",
+      "rule": "In the singular past, the form can depend on the subject's gender. For the imperfective future, use a form of być plus the infinitive or the matching past-type form.",
+      "examples": [
+        {
+          "polish": "Wczoraj **czytałam** książkę.",
+          "english": "I read a book yesterday. (female speaker)"
+        },
+        {
+          "polish": "Wczoraj **czytałem** książkę.",
+          "english": "I read a book yesterday. (male speaker)"
+        },
+        {
+          "polish": "Jutro **będę czytać** książkę.",
+          "english": "I'll read a book tomorrow."
+        },
+        {
+          "polish": "Jutro **będę czytała** książkę.",
+          "english": "I'll read a book tomorrow. (female speaker)"
+        }
+      ],
+      "tables": [
+        {
+          "title": "Present and past · czytać",
+          "headers": [
+            "Person",
+            "Present",
+            "Past"
+          ],
+          "rows": [
+            [
+              "ja",
+              "czytam",
+              "czytałem / czytałam"
+            ],
+            [
+              "ty",
+              "czytasz",
+              "czytałeś / czytałaś"
+            ],
+            [
+              "on / ona / ono",
+              "czyta",
+              "czytał / czytała / czytało"
+            ],
+            [
+              "my",
+              "czytamy",
+              "czytaliśmy / czytałyśmy"
+            ],
+            [
+              "wy",
+              "czytacie",
+              "czytaliście / czytałyście"
+            ],
+            [
+              "oni / one",
+              "czytają",
+              "czytali / czytały"
+            ]
+          ]
+        },
+        {
+          "title": "Future",
+          "headers": [
+            "Person",
+            "czytać + infinitive",
+            "przeczytać"
+          ],
+          "rows": [
+            [
+              "ja",
+              "będę czytać",
+              "przeczytam"
+            ],
+            [
+              "ty",
+              "będziesz czytać",
+              "przeczytasz"
+            ],
+            [
+              "on / ona / ono",
+              "będzie czytać",
+              "przeczyta"
+            ],
+            [
+              "my",
+              "będziemy czytać",
+              "przeczytamy"
+            ],
+            [
+              "wy",
+              "będziecie czytać",
+              "przeczytacie"
+            ],
+            [
+              "oni / one",
+              "będą czytać",
+              "przeczytają"
+            ]
+          ]
+        },
+        {
+          "title": "Alternative imperfective future",
+          "headers": [
+            "Person",
+            "Auxiliary",
+            "Choose one form"
+          ],
+          "rows": [
+            [
+              "ja",
+              "będę",
+              "czytał / czytała"
+            ],
+            [
+              "ty",
+              "będziesz",
+              "czytał / czytała"
+            ],
+            [
+              "on / ona / ono",
+              "będzie",
+              "czytał / czytała / czytało"
+            ],
+            [
+              "my",
+              "będziemy",
+              "czytali / czytały"
+            ],
+            [
+              "wy",
+              "będziecie",
+              "czytali / czytały"
+            ],
+            [
+              "oni / one",
+              "będą",
+              "czytali / czytały"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Comparatives and superlatives",
+      "rule": "Use the comparative with niż to compare things. The superlative commonly adds naj- to the comparative.",
+      "examples": [
+        {
+          "polish": "Ten bilet jest **tańszy** niż tamten.",
+          "english": "This ticket is cheaper than that one."
+        },
+        {
+          "polish": "To **najtańszy** bilet.",
+          "english": "This is the cheapest ticket."
+        },
+        {
+          "polish": "Ten hotel jest **lepszy** niż poprzedni.",
+          "english": "This hotel is better than the previous one."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Three degrees",
+          "headers": [
+            "Positive",
+            "Comparative",
+            "Superlative"
+          ],
+          "rows": [
+            [
+              "tani",
+              "tańszy",
+              "najtańszy"
+            ],
+            [
+              "drogi",
+              "droższy",
+              "najdroższy"
+            ],
+            [
+              "dobry",
+              "lepszy",
+              "najlepszy"
+            ],
+            [
+              "zły",
+              "gorszy",
+              "najgorszy"
+            ],
+            [
+              "interesujący",
+              "bardziej interesujący",
+              "najbardziej interesujący"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "B1": [
+    {
+      "title": "Verb aspect",
+      "rule": "The imperfective often presents an action as ongoing or repeated. The perfective presents it as a bounded event, often with a completed result.",
+      "examples": [
+        {
+          "polish": "Kiedy zadzwoniłeś, **pisałam** raport.",
+          "english": "When you called, I was writing a report."
+        },
+        {
+          "polish": "Wczoraj **napisałam** raport.",
+          "english": "I wrote a report yesterday."
+        },
+        {
+          "polish": "Do jutra **napiszę** raport.",
+          "english": "I'll have the report written by tomorrow."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Aspect across time · first-person examples",
+          "headers": [
+            "Time",
+            "Imperfective",
+            "Perfective"
+          ],
+          "rows": [
+            [
+              "Present",
+              "piszę raport",
+              "—"
+            ],
+            [
+              "Past",
+              "pisałam raport",
+              "napisałam raport"
+            ],
+            [
+              "Future",
+              "będę pisała raport",
+              "napiszę raport"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cases required by verbs",
+      "rule": "Learn the case with the whole expression. Ufać takes the dative, unikać the genitive and interesować się the instrumental.",
+      "examples": [
+        {
+          "polish": "Ufam **tej osobie**.",
+          "english": "I trust this person."
+        },
+        {
+          "polish": "Unikam **dużych tłumów**.",
+          "english": "I avoid large crowds."
+        },
+        {
+          "polish": "Interesuję się **językami obcymi**.",
+          "english": "I'm interested in foreign languages."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Learn the case with the verb",
+          "headers": [
+            "Case",
+            "Expressions",
+            "Example"
+          ],
+          "rows": [
+            [
+              "Genitive",
+              "unikać / szukać",
+              "Szukam kluczy."
+            ],
+            [
+              "Dative",
+              "ufać / pomagać",
+              "Pomagam sąsiadce."
+            ],
+            [
+              "Accusative",
+              "widzieć / czekać na",
+              "Czekam na autobus."
+            ],
+            [
+              "Instrumental",
+              "interesować się / zajmować się",
+              "Zajmuję się projektem."
+            ],
+            [
+              "Locative",
+              "rozmawiać o / myśleć o",
+              "Myślę o urlopie."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Relative clauses",
+      "rule": "Który agrees in gender and number with the noun it refers to. Its case depends on its role within the relative clause.",
+      "examples": [
+        {
+          "polish": "To jest osoba, **która** pracuje w banku.",
+          "english": "This is the person who works at the bank."
+        },
+        {
+          "polish": "To jest osoba, **której** ufam.",
+          "english": "This is the person I trust."
+        },
+        {
+          "polish": "To jest osoba, **z którą** pracuję.",
+          "english": "This is the person I work with."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Relative pronoun · masculine person and feminine",
+          "headers": [
+            "Case",
+            "Masculine person",
+            "Feminine"
+          ],
+          "rows": [
+            [
+              "Nominative",
+              "który",
+              "która"
+            ],
+            [
+              "Genitive",
+              "którego",
+              "której"
+            ],
+            [
+              "Dative",
+              "któremu",
+              "której"
+            ],
+            [
+              "Accusative",
+              "którego",
+              "którą"
+            ],
+            [
+              "Instrumental",
+              "którym",
+              "którą"
+            ],
+            [
+              "Locative",
+              "którym",
+              "której"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Conditional sentences",
+      "rule": "Use gdyby to introduce a hypothetical condition. In the result clause, a form such as pomógłbym combines the masculine past-type form with -bym.",
+      "examples": [
+        {
+          "polish": "**Gdybym miał** czas, **pomógłbym** ci.",
+          "english": "If I had time, I would help you. (male speaker)"
+        },
+        {
+          "polish": "**Gdybym miała** czas, **pomogłabym** ci.",
+          "english": "If I had time, I would help you. (female speaker)"
+        }
+      ],
+      "tables": [
+        {
+          "title": "Conditional · czytać",
+          "headers": [
+            "Person",
+            "Form"
+          ],
+          "rows": [
+            [
+              "ja",
+              "czytałbym / czytałabym"
+            ],
+            [
+              "ty",
+              "czytałbyś / czytałabyś"
+            ],
+            [
+              "on / ona / ono",
+              "czytałby / czytałaby / czytałoby"
+            ],
+            [
+              "my",
+              "czytalibyśmy / czytałybyśmy"
+            ],
+            [
+              "wy",
+              "czytalibyście / czytałybyście"
+            ],
+            [
+              "oni / one",
+              "czytaliby / czytałyby"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "B2": [
+    {
+      "title": "Passive voice",
+      "rule": "Use być with an imperfective passive participle for an ongoing process in these examples. Zostać with a perfective passive participle presents the event as completed. The participle agrees with the subject.",
+      "examples": [
+        {
+          "polish": "Raport **jest analizowany** przez komisję.",
+          "english": "The report is being analysed by the committee."
+        },
+        {
+          "polish": "Raport **został przeanalizowany** przez komisję.",
+          "english": "The report was analysed by the committee."
+        },
+        {
+          "polish": "Wyniki **zostaną opublikowane** jutro.",
+          "english": "The results will be published tomorrow."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Passive across time · raport",
+          "headers": [
+            "Time",
+            "Ongoing process",
+            "Completed event"
+          ],
+          "rows": [
+            [
+              "Past",
+              "był analizowany",
+              "został przeanalizowany"
+            ],
+            [
+              "Present",
+              "jest analizowany",
+              "—"
+            ],
+            [
+              "Future",
+              "będzie analizowany",
+              "zostanie przeanalizowany"
+            ]
+          ]
+        },
+        {
+          "title": "Agreement of the completed participle",
+          "headers": [
+            "Subject",
+            "Past passive"
+          ],
+          "rows": [
+            [
+              "raport (masculine)",
+              "został opublikowany"
+            ],
+            [
+              "lista (feminine)",
+              "została opublikowana"
+            ],
+            [
+              "ogłoszenie (neuter)",
+              "zostało opublikowane"
+            ],
+            [
+              "wyniki (non-masculine-personal plural)",
+              "zostały opublikowane"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Adverbial participles",
+      "rule": "An imperfective -ąc participle indicates a simultaneous action. A perfective anterior participle in -wszy or -łszy indicates an earlier completed action. Both actions share the same subject.",
+      "examples": [
+        {
+          "polish": "**Czytając** raport, zauważyła błąd.",
+          "english": "While reading the report, she noticed an error."
+        },
+        {
+          "polish": "**Przeczytawszy** raport, wysłała uwagi.",
+          "english": "Having read the report, she sent her comments."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Compare the two actions",
+          "headers": [
+            "Aspect and relation",
+            "Model forms"
+          ],
+          "rows": [
+            [
+              "Imperfective · simultaneous",
+              "czytać → czytając / analizować → analizując"
+            ],
+            [
+              "Perfective · earlier",
+              "przeczytać → przeczytawszy / przeanalizować → przeanalizowawszy"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Formal prepositions and cases",
+      "rule": "Learn formal expressions with the cases they govern. Wbrew takes the dative, wskutek the genitive and w związku z the instrumental.",
+      "examples": [
+        {
+          "polish": "**Wbrew wcześniejszym ustaleniom** zmieniono termin.",
+          "english": "Contrary to earlier agreements, the date was changed."
+        },
+        {
+          "polish": "**Wskutek awarii** odwołano spotkanie.",
+          "english": "The meeting was cancelled due to a breakdown."
+        },
+        {
+          "polish": "**W związku z opóźnieniem** przesunięto głosowanie.",
+          "english": "The vote was postponed because of the delay."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Formal expressions by case",
+          "headers": [
+            "Case",
+            "Expressions",
+            "Model phrase"
+          ],
+          "rows": [
+            [
+              "Dative",
+              "wbrew / dzięki",
+              "wbrew przepisom"
+            ],
+            [
+              "Genitive",
+              "wskutek / na podstawie",
+              "na podstawie ustawy"
+            ],
+            [
+              "Instrumental",
+              "w związku z / zgodnie z",
+              "zgodnie z przepisami"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Linking ideas",
+      "rule": "Use mimo że to introduce a concession. Use im ..., tym ... to show that two things change together. Use czy for an indirect yes-or-no question.",
+      "examples": [
+        {
+          "polish": "**Mimo że** raport był gotowy, przełożono spotkanie.",
+          "english": "Although the report was ready, the meeting was postponed."
+        },
+        {
+          "polish": "**Im** dłużej czekamy, **tym** trudniej będzie podjąć decyzję.",
+          "english": "The longer we wait, the harder it will be to make a decision."
+        },
+        {
+          "polish": "Nie wiadomo, **czy** komisja zatwierdzi projekt.",
+          "english": "It is unclear whether the committee will approve the project."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Choose the connector by its job",
+          "headers": [
+            "Job",
+            "Connector",
+            "English cue"
+          ],
+          "rows": [
+            [
+              "Concession",
+              "mimo że / chociaż",
+              "although"
+            ],
+            [
+              "Proportional change",
+              "im …, tym …",
+              "the more …, the more …"
+            ],
+            [
+              "Indirect yes/no question",
+              "czy",
+              "whether"
+            ],
+            [
+              "Reason",
+              "ponieważ / gdyż",
+              "because"
+            ],
+            [
+              "Consequence",
+              "dlatego / toteż",
+              "therefore"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "reference": [
+    {
+      "title": "Reference · Noun declension",
+      "rule": "Each noun has a grammatical gender. Compare a masculine person (student), a masculine inanimate noun (stół), a feminine noun (książka) and a neuter noun (okno). These are model nouns. Endings and stem changes vary across nouns.",
+      "tables": [
+        {
+          "title": "student",
+          "headers": [
+            "Case",
+            "Singular",
+            "Plural"
+          ],
+          "rows": [
+            [
+              "Nominative",
+              "student",
+              "studenci"
+            ],
+            [
+              "Genitive",
+              "studenta",
+              "studentów"
+            ],
+            [
+              "Dative",
+              "studentowi",
+              "studentom"
+            ],
+            [
+              "Accusative",
+              "studenta",
+              "studentów"
+            ],
+            [
+              "Instrumental",
+              "studentem",
+              "studentami"
+            ],
+            [
+              "Locative",
+              "studencie",
+              "studentach"
+            ],
+            [
+              "Vocative",
+              "studencie",
+              "studenci"
+            ]
+          ]
+        },
+        {
+          "title": "stół",
+          "headers": [
+            "Case",
+            "Singular",
+            "Plural"
+          ],
+          "rows": [
+            [
+              "Nominative",
+              "stół",
+              "stoły"
+            ],
+            [
+              "Genitive",
+              "stołu",
+              "stołów"
+            ],
+            [
+              "Dative",
+              "stołowi",
+              "stołom"
+            ],
+            [
+              "Accusative",
+              "stół",
+              "stoły"
+            ],
+            [
+              "Instrumental",
+              "stołem",
+              "stołami"
+            ],
+            [
+              "Locative",
+              "stole",
+              "stołach"
+            ],
+            [
+              "Vocative",
+              "stole",
+              "stoły"
+            ]
+          ]
+        },
+        {
+          "title": "książka",
+          "headers": [
+            "Case",
+            "Singular",
+            "Plural"
+          ],
+          "rows": [
+            [
+              "Nominative",
+              "książka",
+              "książki"
+            ],
+            [
+              "Genitive",
+              "książki",
+              "książek"
+            ],
+            [
+              "Dative",
+              "książce",
+              "książkom"
+            ],
+            [
+              "Accusative",
+              "książkę",
+              "książki"
+            ],
+            [
+              "Instrumental",
+              "książką",
+              "książkami"
+            ],
+            [
+              "Locative",
+              "książce",
+              "książkach"
+            ],
+            [
+              "Vocative",
+              "książko",
+              "książki"
+            ]
+          ]
+        },
+        {
+          "title": "okno",
+          "headers": [
+            "Case",
+            "Singular",
+            "Plural"
+          ],
+          "rows": [
+            [
+              "Nominative",
+              "okno",
+              "okna"
+            ],
+            [
+              "Genitive",
+              "okna",
+              "okien"
+            ],
+            [
+              "Dative",
+              "oknu",
+              "oknom"
+            ],
+            [
+              "Accusative",
+              "okno",
+              "okna"
+            ],
+            [
+              "Instrumental",
+              "oknem",
+              "oknami"
+            ],
+            [
+              "Locative",
+              "oknie",
+              "oknach"
+            ],
+            [
+              "Vocative",
+              "okno",
+              "okna"
+            ]
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "polish": "Widzę **studenta** i **stół**.",
+          "english": "I see a student and a table. The two masculine nouns differ in the singular accusative."
+        },
+        {
+          "polish": "Przyglądam się **książkom**.",
+          "english": "I am looking closely at the books. Książkom is dative plural."
+        }
+      ]
+    },
+    {
+      "title": "Reference · Adjective declension",
+      "rule": "A Polish adjective agrees with its noun in gender, number and case. In the singular accusative, masculine animate and inanimate forms differ. In the plural, compare masculine-personal and other nouns. For an adjective modifying a noun in direct address, the adjective’s vocative matches its nominative.",
+      "tables": [
+        {
+          "title": "dobry · singular",
+          "headers": [
+            "Case",
+            "Masculine",
+            "Feminine",
+            "Neuter"
+          ],
+          "rows": [
+            [
+              "Nominative",
+              "dobry",
+              "dobra",
+              "dobre"
+            ],
+            [
+              "Genitive",
+              "dobrego",
+              "dobrej",
+              "dobrego"
+            ],
+            [
+              "Dative",
+              "dobremu",
+              "dobrej",
+              "dobremu"
+            ],
+            [
+              "Accusative",
+              "dobry / dobrego",
+              "dobrą",
+              "dobre"
+            ],
+            [
+              "Instrumental",
+              "dobrym",
+              "dobrą",
+              "dobrym"
+            ],
+            [
+              "Locative",
+              "dobrym",
+              "dobrej",
+              "dobrym"
+            ],
+            [
+              "Vocative",
+              "dobry",
+              "dobra",
+              "dobre"
+            ]
+          ]
+        },
+        {
+          "title": "dobry · plural",
+          "headers": [
+            "Case",
+            "Masculine-personal",
+            "Other"
+          ],
+          "rows": [
+            [
+              "Nominative",
+              "dobrzy",
+              "dobre"
+            ],
+            [
+              "Genitive",
+              "dobrych",
+              "dobrych"
+            ],
+            [
+              "Dative",
+              "dobrym",
+              "dobrym"
+            ],
+            [
+              "Accusative",
+              "dobrych",
+              "dobre"
+            ],
+            [
+              "Instrumental",
+              "dobrymi",
+              "dobrymi"
+            ],
+            [
+              "Locative",
+              "dobrych",
+              "dobrych"
+            ],
+            [
+              "Vocative",
+              "dobrzy",
+              "dobre"
+            ]
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "polish": "Widzę **dobrego studenta** i **dobry stół**.",
+          "english": "I see a good student and a good table. Compare the two masculine accusatives."
+        },
+        {
+          "polish": "Rozmawiam z **dobrymi studentami**.",
+          "english": "I’m talking with good students. Both words are instrumental plural."
+        }
+      ]
+    },
+    {
+      "title": "Reference · Verb conjugation",
+      "rule": "Compare the imperfective czytać with the perfective przeczytać. The present exists for czytać. The corresponding simple forms of przeczytać refer to the future. Past and conditional forms distinguish gender. In the plural, compare masculine-personal forms (oni) with other forms (one). Imperatives are listed for the persons most commonly taught first.",
+      "tables": [
+        {
+          "title": "Present and past · czytać",
+          "headers": [
+            "Person",
+            "Present",
+            "Past"
+          ],
+          "rows": [
+            [
+              "ja",
+              "czytam",
+              "czytałem / czytałam"
+            ],
+            [
+              "ty",
+              "czytasz",
+              "czytałeś / czytałaś"
+            ],
+            [
+              "on / ona / ono",
+              "czyta",
+              "czytał / czytała / czytało"
+            ],
+            [
+              "my",
+              "czytamy",
+              "czytaliśmy / czytałyśmy"
+            ],
+            [
+              "wy",
+              "czytacie",
+              "czytaliście / czytałyście"
+            ],
+            [
+              "oni / one",
+              "czytają",
+              "czytali / czytały"
+            ]
+          ]
+        },
+        {
+          "title": "Future",
+          "headers": [
+            "Person",
+            "czytać + infinitive",
+            "przeczytać"
+          ],
+          "rows": [
+            [
+              "ja",
+              "będę czytać",
+              "przeczytam"
+            ],
+            [
+              "ty",
+              "będziesz czytać",
+              "przeczytasz"
+            ],
+            [
+              "on / ona / ono",
+              "będzie czytać",
+              "przeczyta"
+            ],
+            [
+              "my",
+              "będziemy czytać",
+              "przeczytamy"
+            ],
+            [
+              "wy",
+              "będziecie czytać",
+              "przeczytacie"
+            ],
+            [
+              "oni / one",
+              "będą czytać",
+              "przeczytają"
+            ]
+          ]
+        },
+        {
+          "title": "Alternative imperfective future",
+          "headers": [
+            "Person",
+            "Auxiliary",
+            "Choose one form"
+          ],
+          "rows": [
+            [
+              "ja",
+              "będę",
+              "czytał / czytała"
+            ],
+            [
+              "ty",
+              "będziesz",
+              "czytał / czytała"
+            ],
+            [
+              "on / ona / ono",
+              "będzie",
+              "czytał / czytała / czytało"
+            ],
+            [
+              "my",
+              "będziemy",
+              "czytali / czytały"
+            ],
+            [
+              "wy",
+              "będziecie",
+              "czytali / czytały"
+            ],
+            [
+              "oni / one",
+              "będą",
+              "czytali / czytały"
+            ]
+          ]
+        },
+        {
+          "title": "Conditional · czytać",
+          "headers": [
+            "Person",
+            "Form"
+          ],
+          "rows": [
+            [
+              "ja",
+              "czytałbym / czytałabym"
+            ],
+            [
+              "ty",
+              "czytałbyś / czytałabyś"
+            ],
+            [
+              "on / ona / ono",
+              "czytałby / czytałaby / czytałoby"
+            ],
+            [
+              "my",
+              "czytalibyśmy / czytałybyśmy"
+            ],
+            [
+              "wy",
+              "czytalibyście / czytałybyście"
+            ],
+            [
+              "oni / one",
+              "czytaliby / czytałyby"
+            ]
+          ]
+        },
+        {
+          "title": "Imperative",
+          "headers": [
+            "Person",
+            "czytać",
+            "przeczytać"
+          ],
+          "rows": [
+            [
+              "ty",
+              "czytaj",
+              "przeczytaj"
+            ],
+            [
+              "my",
+              "czytajmy",
+              "przeczytajmy"
+            ],
+            [
+              "wy",
+              "czytajcie",
+              "przeczytajcie"
+            ],
+            [
+              "on / ona / ono",
+              "niech czyta",
+              "niech przeczyta"
+            ],
+            [
+              "oni / one",
+              "niech czytają",
+              "niech przeczytają"
+            ]
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "polish": "Teraz **czytam** książkę.",
+          "english": "I’m reading a book now."
+        },
+        {
+          "polish": "Wczoraj **czytałam** książkę.",
+          "english": "I read a book yesterday. (female speaker)"
+        },
+        {
+          "polish": "Jutro **będę czytała** książkę.",
+          "english": "I’ll be reading a book tomorrow. (female speaker)"
+        },
+        {
+          "polish": "Do piątku **przeczytam** książkę.",
+          "english": "I’ll have read the book by Friday."
+        }
+      ]
+    }
+  ]
+}

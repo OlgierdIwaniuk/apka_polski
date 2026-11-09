@@ -1,0 +1,2114 @@
+{
+  "A1": [
+    {
+      "prompt": "To jest ___ dom. (duży)",
+      "answers": [
+        "duży"
+      ],
+      "explanation": "Dom is masculine singular."
+    },
+    {
+      "prompt": "To jest ___ kawa. (gorący)",
+      "answers": [
+        "gorąca"
+      ],
+      "explanation": "Kawa is feminine singular."
+    },
+    {
+      "prompt": "Mam dwa ___ (kot).",
+      "answers": [
+        "koty"
+      ],
+      "explanation": "Use koty after dwa."
+    },
+    {
+      "prompt": "Czy ___ kawę? (ty, chcieć, present)",
+      "answers": [
+        "chcesz"
+      ],
+      "explanation": "The question particle czy leaves the verb form unchanged."
+    },
+    {
+      "prompt": "To jest ___ jabłko. (czerwony)",
+      "answers": [
+        "czerwone"
+      ],
+      "explanation": "Jabłko is neuter singular, so the adjective ends in -e."
+    },
+    {
+      "prompt": "To są ___ okna. (duży)",
+      "answers": [
+        "duże"
+      ],
+      "explanation": "Okna is a non-masculine-personal plural noun."
+    },
+    {
+      "prompt": "Ona ___ moja siostra. (być, present)",
+      "answers": [
+        "jest"
+      ],
+      "explanation": "Ona requires the singular form jest."
+    },
+    {
+      "prompt": "___ masz na imię? (how)",
+      "answers": [
+        "jak"
+      ],
+      "explanation": "Jak masz na imię? asks someone their first name."
+    },
+    {
+      "prompt": "___ mieszkasz? (where)",
+      "answers": [
+        "gdzie"
+      ],
+      "explanation": "Use gdzie to ask where someone lives."
+    },
+    {
+      "prompt": "Mam trzy ___ (zeszyt).",
+      "answers": [
+        "zeszyty"
+      ],
+      "explanation": "Use zeszyty after trzy."
+    },
+    {
+      "prompt": "Mam ___ siostrę. (one)",
+      "answers": [
+        "jedną"
+      ],
+      "explanation": "The feminine accusative form of jeden is jedną."
+    },
+    {
+      "prompt": "To jest ___ książka. (my)",
+      "answers": [
+        "moja"
+      ],
+      "explanation": "The possessive agrees with feminine książka."
+    },
+    {
+      "prompt": "To jest ___ zupa. (dobry)",
+      "answers": [
+        "dobra"
+      ],
+      "explanation": "The adjective agrees with the feminine singular noun zupa."
+    },
+    {
+      "prompt": "To jest ___ mleko. (dobry)",
+      "answers": [
+        "dobre"
+      ],
+      "explanation": "The adjective agrees with the neuter singular noun mleko."
+    },
+    {
+      "prompt": "To są ___ jabłka. (dobry)",
+      "answers": [
+        "dobre"
+      ],
+      "explanation": "The adjective agrees with the non-masculine-personal plural noun jabłka."
+    },
+    {
+      "prompt": "To jest ___ okno. (mały)",
+      "answers": [
+        "małe"
+      ],
+      "explanation": "The adjective agrees with the neuter singular noun okno."
+    },
+    {
+      "prompt": "To są ___ psy. (mały)",
+      "answers": [
+        "małe"
+      ],
+      "explanation": "The adjective agrees with the non-masculine-personal plural noun psy."
+    },
+    {
+      "prompt": "To jest ___ łóżko. (nowy)",
+      "answers": [
+        "nowe"
+      ],
+      "explanation": "The adjective agrees with the neuter singular noun łóżko."
+    },
+    {
+      "prompt": "To są ___ książki. (nowy)",
+      "answers": [
+        "nowe"
+      ],
+      "explanation": "The adjective agrees with the non-masculine-personal plural noun książki."
+    },
+    {
+      "prompt": "To jest ___ radio. (stary)",
+      "answers": [
+        "stare"
+      ],
+      "explanation": "The adjective agrees with the neuter singular noun radio."
+    },
+    {
+      "prompt": "To są ___ rowery. (stary)",
+      "answers": [
+        "stare"
+      ],
+      "explanation": "The adjective agrees with the non-masculine-personal plural noun rowery."
+    },
+    {
+      "prompt": "To jest ___ mieszkanie. (duży)",
+      "answers": [
+        "duże"
+      ],
+      "explanation": "The adjective agrees with the neuter singular noun mieszkanie."
+    },
+    {
+      "prompt": "To są ___ lustra. (duży)",
+      "answers": [
+        "duże"
+      ],
+      "explanation": "The adjective agrees with the non-masculine-personal plural noun lustra."
+    },
+    {
+      "prompt": "To jest ___ koszula. (biały)",
+      "answers": [
+        "biała"
+      ],
+      "explanation": "The adjective agrees with the feminine singular noun koszula."
+    },
+    {
+      "prompt": "To są ___ drzwi. (biały)",
+      "answers": [
+        "białe"
+      ],
+      "explanation": "The adjective agrees with the non-masculine-personal plural noun drzwi."
+    },
+    {
+      "prompt": "To jest ___ kurtka. (czarny)",
+      "answers": [
+        "czarna"
+      ],
+      "explanation": "The adjective agrees with the feminine singular noun kurtka."
+    },
+    {
+      "prompt": "To są ___ buty. (czarny)",
+      "answers": [
+        "czarne"
+      ],
+      "explanation": "The adjective agrees with the non-masculine-personal plural noun buty."
+    },
+    {
+      "prompt": "To jest ___ woda. (zimny)",
+      "answers": [
+        "zimna"
+      ],
+      "explanation": "The adjective agrees with the feminine singular noun woda."
+    },
+    {
+      "prompt": "To są ___ napoje. (zimny)",
+      "answers": [
+        "zimne"
+      ],
+      "explanation": "The adjective agrees with the non-masculine-personal plural noun napoje."
+    },
+    {
+      "prompt": "To jest ___ herbata. (ciepły)",
+      "answers": [
+        "ciepła"
+      ],
+      "explanation": "The adjective agrees with the feminine singular noun herbata."
+    },
+    {
+      "prompt": "To są ___ swetry. (ciepły)",
+      "answers": [
+        "ciepłe"
+      ],
+      "explanation": "The adjective agrees with the non-masculine-personal plural noun swetry."
+    },
+    {
+      "prompt": "To jest ___ podłoga. (czysty)",
+      "answers": [
+        "czysta"
+      ],
+      "explanation": "The adjective agrees with the feminine singular noun podłoga."
+    },
+    {
+      "prompt": "Write the adjective from dobry: zupa ___. (same gender and number as the noun)",
+      "answers": [
+        "dobra"
+      ],
+      "explanation": "The adjective agrees with zupa."
+    },
+    {
+      "prompt": "Write the adjective from dobry: mleko ___. (same gender and number as the noun)",
+      "answers": [
+        "dobre"
+      ],
+      "explanation": "The adjective agrees with mleko."
+    },
+    {
+      "prompt": "Write the adjective from dobry: jabłka ___. (same gender and number as the noun)",
+      "answers": [
+        "dobre"
+      ],
+      "explanation": "The adjective agrees with jabłka."
+    },
+    {
+      "prompt": "Ta rzecz to ___ zupa. (dobry)",
+      "answers": [
+        "dobra"
+      ],
+      "explanation": "Use the feminine singular form dobra."
+    },
+    {
+      "prompt": "Write the adjective from mały: torba ___. (same gender and number as the noun)",
+      "answers": [
+        "mała"
+      ],
+      "explanation": "The adjective agrees with torba."
+    },
+    {
+      "prompt": "Write the adjective from mały: okno ___. (same gender and number as the noun)",
+      "answers": [
+        "małe"
+      ],
+      "explanation": "The adjective agrees with okno."
+    },
+    {
+      "prompt": "Write the adjective from mały: psy ___. (same gender and number as the noun)",
+      "answers": [
+        "małe"
+      ],
+      "explanation": "The adjective agrees with psy."
+    },
+    {
+      "prompt": "Ta rzecz to ___ torba. (mały)",
+      "answers": [
+        "mała"
+      ],
+      "explanation": "Use the feminine singular form mała."
+    },
+    {
+      "prompt": "Write the adjective from nowy: lampa ___. (same gender and number as the noun)",
+      "answers": [
+        "nowa"
+      ],
+      "explanation": "The adjective agrees with lampa."
+    },
+    {
+      "prompt": "Write the adjective from nowy: łóżko ___. (same gender and number as the noun)",
+      "answers": [
+        "nowe"
+      ],
+      "explanation": "The adjective agrees with łóżko."
+    },
+    {
+      "prompt": "Write the adjective from nowy: książki ___. (same gender and number as the noun)",
+      "answers": [
+        "nowe"
+      ],
+      "explanation": "The adjective agrees with książki."
+    },
+    {
+      "prompt": "Ta rzecz to ___ lampa. (nowy)",
+      "answers": [
+        "nowa"
+      ],
+      "explanation": "Use the feminine singular form nowa."
+    },
+    {
+      "prompt": "Write the adjective from stary: szafa ___. (same gender and number as the noun)",
+      "answers": [
+        "stara"
+      ],
+      "explanation": "The adjective agrees with szafa."
+    },
+    {
+      "prompt": "Write the adjective from stary: radio ___. (same gender and number as the noun)",
+      "answers": [
+        "stare"
+      ],
+      "explanation": "The adjective agrees with radio."
+    },
+    {
+      "prompt": "Write the adjective from stary: rowery ___. (same gender and number as the noun)",
+      "answers": [
+        "stare"
+      ],
+      "explanation": "The adjective agrees with rowery."
+    },
+    {
+      "prompt": "Ta rzecz to ___ szafa. (stary)",
+      "answers": [
+        "stara"
+      ],
+      "explanation": "Use the feminine singular form stara."
+    },
+    {
+      "prompt": "Write the adjective from duży: kuchnia ___. (same gender and number as the noun)",
+      "answers": [
+        "duża"
+      ],
+      "explanation": "The adjective agrees with kuchnia."
+    },
+    {
+      "prompt": "Write the adjective from duży: mieszkanie ___. (same gender and number as the noun)",
+      "answers": [
+        "duże"
+      ],
+      "explanation": "The adjective agrees with mieszkanie."
+    },
+    {
+      "prompt": "Write the adjective from duży: okna ___. (same gender and number as the noun)",
+      "answers": [
+        "duże"
+      ],
+      "explanation": "The adjective agrees with okna."
+    },
+    {
+      "prompt": "Ta rzecz to ___ kuchnia. (duży)",
+      "answers": [
+        "duża"
+      ],
+      "explanation": "Use the feminine singular form duża."
+    },
+    {
+      "prompt": "Write the adjective from biały: koszula ___. (same gender and number as the noun)",
+      "answers": [
+        "biała"
+      ],
+      "explanation": "The adjective agrees with koszula."
+    },
+    {
+      "prompt": "Write the adjective from biały: krzesło ___. (same gender and number as the noun)",
+      "answers": [
+        "białe"
+      ],
+      "explanation": "The adjective agrees with krzesło."
+    },
+    {
+      "prompt": "Write the adjective from biały: drzwi ___. (same gender and number as the noun)",
+      "answers": [
+        "białe"
+      ],
+      "explanation": "The adjective agrees with drzwi."
+    },
+    {
+      "prompt": "Ta rzecz to ___ koszula. (biały)",
+      "answers": [
+        "biała"
+      ],
+      "explanation": "Use the feminine singular form biała."
+    },
+    {
+      "prompt": "Write the adjective from czarny: kurtka ___. (same gender and number as the noun)",
+      "answers": [
+        "czarna"
+      ],
+      "explanation": "The adjective agrees with kurtka."
+    },
+    {
+      "prompt": "Write the adjective from czarny: pióro ___. (same gender and number as the noun)",
+      "answers": [
+        "czarne"
+      ],
+      "explanation": "The adjective agrees with pióro."
+    },
+    {
+      "prompt": "Write the adjective from czarny: buty ___. (same gender and number as the noun)",
+      "answers": [
+        "czarne"
+      ],
+      "explanation": "The adjective agrees with buty."
+    },
+    {
+      "prompt": "Ta rzecz to ___ kurtka. (czarny)",
+      "answers": [
+        "czarna"
+      ],
+      "explanation": "Use the feminine singular form czarna."
+    },
+    {
+      "prompt": "Write the adjective from zimny: woda ___. (same gender and number as the noun)",
+      "answers": [
+        "zimna"
+      ],
+      "explanation": "The adjective agrees with woda."
+    },
+    {
+      "prompt": "Write the adjective from zimny: mleko ___. (same gender and number as the noun)",
+      "answers": [
+        "zimne"
+      ],
+      "explanation": "The adjective agrees with mleko."
+    },
+    {
+      "prompt": "Write the adjective from zimny: napoje ___. (same gender and number as the noun)",
+      "answers": [
+        "zimne"
+      ],
+      "explanation": "The adjective agrees with napoje."
+    },
+    {
+      "prompt": "Ta rzecz to ___ woda. (zimny)",
+      "answers": [
+        "zimna"
+      ],
+      "explanation": "Use the feminine singular form zimna."
+    },
+    {
+      "prompt": "Write the adjective from ciepły: herbata ___. (same gender and number as the noun)",
+      "answers": [
+        "ciepła"
+      ],
+      "explanation": "The adjective agrees with herbata."
+    },
+    {
+      "prompt": "Write the adjective from ciepły: kakao ___. (same gender and number as the noun)",
+      "answers": [
+        "ciepłe"
+      ],
+      "explanation": "The adjective agrees with kakao."
+    },
+    {
+      "prompt": "Write the adjective from ciepły: swetry ___. (same gender and number as the noun)",
+      "answers": [
+        "ciepłe"
+      ],
+      "explanation": "The adjective agrees with swetry."
+    },
+    {
+      "prompt": "Ta rzecz to ___ herbata. (ciepły)",
+      "answers": [
+        "ciepła"
+      ],
+      "explanation": "Use the feminine singular form ciepła."
+    },
+    {
+      "prompt": "Write the adjective from czysty: podłoga ___. (same gender and number as the noun)",
+      "answers": [
+        "czysta"
+      ],
+      "explanation": "The adjective agrees with podłoga."
+    },
+    {
+      "prompt": "Write the adjective from czysty: lustro ___. (same gender and number as the noun)",
+      "answers": [
+        "czyste"
+      ],
+      "explanation": "The adjective agrees with lustro."
+    },
+    {
+      "prompt": "Write the adjective from czysty: ręce ___. (same gender and number as the noun)",
+      "answers": [
+        "czyste"
+      ],
+      "explanation": "The adjective agrees with ręce."
+    },
+    {
+      "prompt": "Ta rzecz to ___ podłoga. (czysty)",
+      "answers": [
+        "czysta"
+      ],
+      "explanation": "Use the feminine singular form czysta."
+    },
+    {
+      "prompt": "To jest ___ biurko. (niski)",
+      "answers": [
+        "niskie"
+      ],
+      "explanation": "Biurko is neuter singular."
+    },
+    {
+      "prompt": "To są ___ torby. (lekki)",
+      "answers": [
+        "lekkie"
+      ],
+      "explanation": "Torby takes the non-masculine-personal plural."
+    },
+    {
+      "prompt": "To jest ___ mapa. (żółty)",
+      "answers": [
+        "żółta"
+      ],
+      "explanation": "Mapa takes a feminine singular adjective."
+    }
+  ],
+  "A2": [
+    {
+      "prompt": "Ten autobus jest ___ niż tamten. (szybki)",
+      "answers": [
+        "szybszy"
+      ],
+      "explanation": "Szybszy means faster."
+    },
+    {
+      "prompt": "Mam pięć ___ (bilet).",
+      "answers": [
+        "biletów"
+      ],
+      "explanation": "Pięć takes the genitive plural here."
+    },
+    {
+      "prompt": "Idziemy ___ sklepu. (to)",
+      "answers": [
+        "do"
+      ],
+      "explanation": "Do expresses movement towards a destination and takes the genitive."
+    },
+    {
+      "prompt": "Ten hotel jest ___ od tamtego. (tani, comparative)",
+      "answers": [
+        "tańszy"
+      ],
+      "explanation": "The comparative of tani is tańszy."
+    },
+    {
+      "prompt": "To jest ___ pokój w hotelu. (duży, superlative)",
+      "answers": [
+        "największy"
+      ],
+      "explanation": "The superlative of duży is największy."
+    },
+    {
+      "prompt": "___ proszę drzwi. (zamknąć, informal singular imperative)",
+      "answers": [
+        "zamknij"
+      ],
+      "explanation": "Zamknij is the imperative used when speaking to one person informally."
+    },
+    {
+      "prompt": "Nie ___ tutaj. (palić, informal singular imperative)",
+      "answers": [
+        "pal"
+      ],
+      "explanation": "Use pal after nie to tell one person not to smoke."
+    },
+    {
+      "prompt": "Ona jest ___ niż ja. (młody, comparative)",
+      "answers": [
+        "młodsza"
+      ],
+      "explanation": "The comparative agrees with feminine ona."
+    },
+    {
+      "prompt": "Zadzwoń ___ mnie wieczorem. (to)",
+      "answers": [
+        "do"
+      ],
+      "explanation": "The expression is zadzwonić do kogoś."
+    },
+    {
+      "prompt": "Te bilety są ___. (drogi)",
+      "answers": [
+        "drogie"
+      ],
+      "explanation": "Drogie agrees with non-masculine-personal bilety."
+    },
+    {
+      "prompt": "Nie kupiłam ___ jabłek. (any, from żaden)",
+      "answers": [
+        "żadnych"
+      ],
+      "explanation": "Polish uses negative concord here. Żadnych agrees with genitive plural jabłek."
+    },
+    {
+      "prompt": "Write the form: ___. (tani, one-word masculine singular comparative)",
+      "answers": [
+        "tańszy"
+      ],
+      "explanation": "Use the comparative to express a greater degree."
+    },
+    {
+      "prompt": "Write the form: ___. (tani, one-word masculine singular superlative)",
+      "answers": [
+        "najtańszy"
+      ],
+      "explanation": "Use the superlative to express the highest degree."
+    },
+    {
+      "prompt": "Write the form: ___. (błyskotliwy, one-word masculine singular comparative)",
+      "answers": [
+        "błyskotliwszy"
+      ],
+      "explanation": "Use the comparative to express a greater degree."
+    },
+    {
+      "prompt": "Write the form: ___. (błyskotliwy, one-word masculine singular superlative)",
+      "answers": [
+        "najbłyskotliwszy"
+      ],
+      "explanation": "Use the superlative to express the highest degree."
+    },
+    {
+      "prompt": "Write the form: ___. (łatwy, one-word masculine singular comparative)",
+      "answers": [
+        "łatwiejszy"
+      ],
+      "explanation": "Use the comparative to express a greater degree."
+    },
+    {
+      "prompt": "Write the form: ___. (łatwy, one-word masculine singular superlative)",
+      "answers": [
+        "najłatwiejszy"
+      ],
+      "explanation": "Use the superlative to express the highest degree."
+    },
+    {
+      "prompt": "Write the form: ___. (trudny, one-word masculine singular comparative)",
+      "answers": [
+        "trudniejszy"
+      ],
+      "explanation": "Use the comparative to express a greater degree."
+    },
+    {
+      "prompt": "Write the form: ___. (trudny, one-word masculine singular superlative)",
+      "answers": [
+        "najtrudniejszy"
+      ],
+      "explanation": "Use the superlative to express the highest degree."
+    },
+    {
+      "prompt": "Write the form: ___. (krótki, one-word masculine singular comparative)",
+      "answers": [
+        "krótszy"
+      ],
+      "explanation": "Use the comparative to express a greater degree."
+    },
+    {
+      "prompt": "Write the form: ___. (krótki, one-word masculine singular superlative)",
+      "answers": [
+        "najkrótszy"
+      ],
+      "explanation": "Use the superlative to express the highest degree."
+    },
+    {
+      "prompt": "Write the form: ___. (długi, one-word masculine singular comparative)",
+      "answers": [
+        "dłuższy"
+      ],
+      "explanation": "Use the comparative to express a greater degree."
+    },
+    {
+      "prompt": "Write the form: ___. (długi, one-word masculine singular superlative)",
+      "answers": [
+        "najdłuższy"
+      ],
+      "explanation": "Use the superlative to express the highest degree."
+    },
+    {
+      "prompt": "Write the form: ___. (prosty, one-word masculine singular comparative)",
+      "answers": [
+        "prostszy"
+      ],
+      "explanation": "Use the comparative to express a greater degree."
+    },
+    {
+      "prompt": "Write the form: ___. (prosty, one-word masculine singular superlative)",
+      "answers": [
+        "najprostszy"
+      ],
+      "explanation": "Use the superlative to express the highest degree."
+    },
+    {
+      "prompt": "Write the form: ___. (dobry, one-word masculine singular comparative)",
+      "answers": [
+        "lepszy"
+      ],
+      "explanation": "Use the comparative to express a greater degree."
+    },
+    {
+      "prompt": "Write the form: ___. (dobry, one-word masculine singular superlative)",
+      "answers": [
+        "najlepszy"
+      ],
+      "explanation": "Use the superlative to express the highest degree."
+    },
+    {
+      "prompt": "Write the form: ___. (zły, one-word masculine singular comparative)",
+      "answers": [
+        "gorszy"
+      ],
+      "explanation": "Use the comparative to express a greater degree."
+    },
+    {
+      "prompt": "Write the form: ___. (zły, one-word masculine singular superlative)",
+      "answers": [
+        "najgorszy"
+      ],
+      "explanation": "Use the superlative to express the highest degree."
+    },
+    {
+      "prompt": "Write the form: ___. (praktyczny, one-word masculine singular comparative)",
+      "answers": [
+        "praktyczniejszy"
+      ],
+      "explanation": "Use the comparative to express a greater degree."
+    },
+    {
+      "prompt": "Write the form: ___. (praktyczny, one-word masculine singular superlative)",
+      "answers": [
+        "najpraktyczniejszy"
+      ],
+      "explanation": "Use the superlative to express the highest degree."
+    },
+    {
+      "prompt": "Ten pomysł jest ___ niż poprzedni. (tani, one-word comparative)",
+      "answers": [
+        "tańszy"
+      ],
+      "explanation": "The comparative goes with niż."
+    },
+    {
+      "prompt": "To ___ pomysł ze wszystkich. (tani, one-word superlative)",
+      "answers": [
+        "najtańszy"
+      ],
+      "explanation": "The superlative singles out one item in the group."
+    },
+    {
+      "prompt": "Ten plan wydaje się ___. (tani, masculine singular positive degree)",
+      "answers": [
+        "tani"
+      ],
+      "explanation": "Use the base adjective in the positive degree."
+    },
+    {
+      "prompt": "Ten pomysł jest ___ od tamtego. (tani, one-word comparative)",
+      "answers": [
+        "tańszy"
+      ],
+      "explanation": "Od introduces the comparison here."
+    },
+    {
+      "prompt": "Wybraliśmy ___ spośród planów. (tani, one-word superlative, masculine inanimate accusative)",
+      "answers": [
+        "najtańszy"
+      ],
+      "explanation": "The masculine inanimate accusative matches the nominative here."
+    },
+    {
+      "prompt": "Ten pomysł jest ___ niż poprzedni. (błyskotliwy, one-word comparative)",
+      "answers": [
+        "błyskotliwszy"
+      ],
+      "explanation": "The comparative goes with niż."
+    },
+    {
+      "prompt": "To ___ pomysł ze wszystkich. (błyskotliwy, one-word superlative)",
+      "answers": [
+        "najbłyskotliwszy"
+      ],
+      "explanation": "The superlative singles out one item in the group."
+    },
+    {
+      "prompt": "Ten plan wydaje się ___. (błyskotliwy, masculine singular positive degree)",
+      "answers": [
+        "błyskotliwy"
+      ],
+      "explanation": "Use the base adjective in the positive degree."
+    },
+    {
+      "prompt": "Ten pomysł jest ___ od tamtego. (błyskotliwy, one-word comparative)",
+      "answers": [
+        "błyskotliwszy"
+      ],
+      "explanation": "Od introduces the comparison here."
+    },
+    {
+      "prompt": "Wybraliśmy ___ spośród planów. (błyskotliwy, one-word superlative, masculine inanimate accusative)",
+      "answers": [
+        "najbłyskotliwszy"
+      ],
+      "explanation": "The masculine inanimate accusative matches the nominative here."
+    },
+    {
+      "prompt": "Ten pomysł jest ___ niż poprzedni. (łatwy, one-word comparative)",
+      "answers": [
+        "łatwiejszy"
+      ],
+      "explanation": "The comparative goes with niż."
+    },
+    {
+      "prompt": "To ___ pomysł ze wszystkich. (łatwy, one-word superlative)",
+      "answers": [
+        "najłatwiejszy"
+      ],
+      "explanation": "The superlative singles out one item in the group."
+    },
+    {
+      "prompt": "Ten plan wydaje się ___. (łatwy, masculine singular positive degree)",
+      "answers": [
+        "łatwy"
+      ],
+      "explanation": "Use the base adjective in the positive degree."
+    },
+    {
+      "prompt": "Ten pomysł jest ___ od tamtego. (łatwy, one-word comparative)",
+      "answers": [
+        "łatwiejszy"
+      ],
+      "explanation": "Od introduces the comparison here."
+    },
+    {
+      "prompt": "Wybraliśmy ___ spośród planów. (łatwy, one-word superlative, masculine inanimate accusative)",
+      "answers": [
+        "najłatwiejszy"
+      ],
+      "explanation": "The masculine inanimate accusative matches the nominative here."
+    },
+    {
+      "prompt": "Ten pomysł jest ___ niż poprzedni. (trudny, one-word comparative)",
+      "answers": [
+        "trudniejszy"
+      ],
+      "explanation": "The comparative goes with niż."
+    },
+    {
+      "prompt": "To ___ pomysł ze wszystkich. (trudny, one-word superlative)",
+      "answers": [
+        "najtrudniejszy"
+      ],
+      "explanation": "The superlative singles out one item in the group."
+    },
+    {
+      "prompt": "Ten plan wydaje się ___. (trudny, masculine singular positive degree)",
+      "answers": [
+        "trudny"
+      ],
+      "explanation": "Use the base adjective in the positive degree."
+    },
+    {
+      "prompt": "Ten pomysł jest ___ od tamtego. (trudny, one-word comparative)",
+      "answers": [
+        "trudniejszy"
+      ],
+      "explanation": "Od introduces the comparison here."
+    },
+    {
+      "prompt": "Wybraliśmy ___ spośród planów. (trudny, one-word superlative, masculine inanimate accusative)",
+      "answers": [
+        "najtrudniejszy"
+      ],
+      "explanation": "The masculine inanimate accusative matches the nominative here."
+    },
+    {
+      "prompt": "Ten pomysł jest ___ niż poprzedni. (krótki, one-word comparative)",
+      "answers": [
+        "krótszy"
+      ],
+      "explanation": "The comparative goes with niż."
+    },
+    {
+      "prompt": "To ___ pomysł ze wszystkich. (krótki, one-word superlative)",
+      "answers": [
+        "najkrótszy"
+      ],
+      "explanation": "The superlative singles out one item in the group."
+    },
+    {
+      "prompt": "Ten plan wydaje się ___. (krótki, masculine singular positive degree)",
+      "answers": [
+        "krótki"
+      ],
+      "explanation": "Use the base adjective in the positive degree."
+    },
+    {
+      "prompt": "Ten pomysł jest ___ od tamtego. (krótki, one-word comparative)",
+      "answers": [
+        "krótszy"
+      ],
+      "explanation": "Od introduces the comparison here."
+    },
+    {
+      "prompt": "Wybraliśmy ___ spośród planów. (krótki, one-word superlative, masculine inanimate accusative)",
+      "answers": [
+        "najkrótszy"
+      ],
+      "explanation": "The masculine inanimate accusative matches the nominative here."
+    },
+    {
+      "prompt": "Ten pomysł jest ___ niż poprzedni. (długi, one-word comparative)",
+      "answers": [
+        "dłuższy"
+      ],
+      "explanation": "The comparative goes with niż."
+    },
+    {
+      "prompt": "To ___ pomysł ze wszystkich. (długi, one-word superlative)",
+      "answers": [
+        "najdłuższy"
+      ],
+      "explanation": "The superlative singles out one item in the group."
+    },
+    {
+      "prompt": "Ten plan wydaje się ___. (długi, masculine singular positive degree)",
+      "answers": [
+        "długi"
+      ],
+      "explanation": "Use the base adjective in the positive degree."
+    },
+    {
+      "prompt": "Ten pomysł jest ___ od tamtego. (długi, one-word comparative)",
+      "answers": [
+        "dłuższy"
+      ],
+      "explanation": "Od introduces the comparison here."
+    },
+    {
+      "prompt": "Wybraliśmy ___ spośród planów. (długi, one-word superlative, masculine inanimate accusative)",
+      "answers": [
+        "najdłuższy"
+      ],
+      "explanation": "The masculine inanimate accusative matches the nominative here."
+    },
+    {
+      "prompt": "Ten pomysł jest ___ niż poprzedni. (prosty, one-word comparative)",
+      "answers": [
+        "prostszy"
+      ],
+      "explanation": "The comparative goes with niż."
+    },
+    {
+      "prompt": "To ___ pomysł ze wszystkich. (prosty, one-word superlative)",
+      "answers": [
+        "najprostszy"
+      ],
+      "explanation": "The superlative singles out one item in the group."
+    },
+    {
+      "prompt": "Ten plan wydaje się ___. (prosty, masculine singular positive degree)",
+      "answers": [
+        "prosty"
+      ],
+      "explanation": "Use the base adjective in the positive degree."
+    },
+    {
+      "prompt": "Ten pomysł jest ___ od tamtego. (prosty, one-word comparative)",
+      "answers": [
+        "prostszy"
+      ],
+      "explanation": "Od introduces the comparison here."
+    },
+    {
+      "prompt": "Wybraliśmy ___ spośród planów. (prosty, one-word superlative, masculine inanimate accusative)",
+      "answers": [
+        "najprostszy"
+      ],
+      "explanation": "The masculine inanimate accusative matches the nominative here."
+    },
+    {
+      "prompt": "Ten pomysł jest ___ niż poprzedni. (dobry, one-word comparative)",
+      "answers": [
+        "lepszy"
+      ],
+      "explanation": "The comparative goes with niż."
+    },
+    {
+      "prompt": "To ___ pomysł ze wszystkich. (dobry, one-word superlative)",
+      "answers": [
+        "najlepszy"
+      ],
+      "explanation": "The superlative singles out one item in the group."
+    },
+    {
+      "prompt": "Ten plan wydaje się ___. (dobry, masculine singular positive degree)",
+      "answers": [
+        "dobry"
+      ],
+      "explanation": "Use the base adjective in the positive degree."
+    },
+    {
+      "prompt": "Ten pomysł jest ___ od tamtego. (dobry, one-word comparative)",
+      "answers": [
+        "lepszy"
+      ],
+      "explanation": "Od introduces the comparison here."
+    },
+    {
+      "prompt": "Wybraliśmy ___ spośród planów. (dobry, one-word superlative, masculine inanimate accusative)",
+      "answers": [
+        "najlepszy"
+      ],
+      "explanation": "The masculine inanimate accusative matches the nominative here."
+    },
+    {
+      "prompt": "Ten pomysł jest ___ niż poprzedni. (zły, one-word comparative)",
+      "answers": [
+        "gorszy"
+      ],
+      "explanation": "The comparative goes with niż."
+    },
+    {
+      "prompt": "To ___ pomysł ze wszystkich. (zły, one-word superlative)",
+      "answers": [
+        "najgorszy"
+      ],
+      "explanation": "The superlative singles out one item in the group."
+    },
+    {
+      "prompt": "Ten plan wydaje się ___. (zły, masculine singular positive degree)",
+      "answers": [
+        "zły"
+      ],
+      "explanation": "Use the base adjective in the positive degree."
+    },
+    {
+      "prompt": "Ten pomysł jest ___ od tamtego. (zły, one-word comparative)",
+      "answers": [
+        "gorszy"
+      ],
+      "explanation": "Od introduces the comparison here."
+    }
+  ],
+  "B1": [
+    {
+      "prompt": "Gdybym miał więcej czasu, ___ częściej. (ja, podróżować, masculine)",
+      "answers": [
+        "podróżowałbym"
+      ],
+      "explanation": "The conditional uses the masculine form with -bym."
+    },
+    {
+      "prompt": "To jest osoba, ___ ufam. (relative pronoun)",
+      "answers": [
+        "której"
+      ],
+      "explanation": "Ufać takes the dative."
+    },
+    {
+      "prompt": "Ten projekt jest ___ od poprzedniego. (ciekawy, comparative)",
+      "answers": [
+        "ciekawszy"
+      ],
+      "explanation": "Ciekawszy is the comparative form of ciekawy."
+    },
+    {
+      "prompt": "To jest problem, ___ nie potrafimy rozwiązać. (relative pronoun)",
+      "answers": [
+        "którego"
+      ],
+      "explanation": "The relative pronoun agrees with problem and takes the genitive after the negated construction."
+    },
+    {
+      "prompt": "To są ludzie, z ___ pracuję. (relative pronoun)",
+      "answers": [
+        "którymi"
+      ],
+      "explanation": "Z meaning with takes the instrumental. Use the plural form którymi."
+    },
+    {
+      "prompt": "Gdybyś mnie poprosił, ___ ci. (ja, pomóc, feminine conditional)",
+      "answers": [
+        "pomogłabym"
+      ],
+      "explanation": "Pomogłabym is the first-person feminine conditional of pomóc."
+    },
+    {
+      "prompt": "___ było późno, jeszcze pracowaliśmy. (although, use chociaż)",
+      "answers": [
+        "chociaż"
+      ],
+      "explanation": "Chociaż introduces a concession."
+    },
+    {
+      "prompt": "Nie wyszliśmy, ___ padało. (because, use ponieważ)",
+      "answers": [
+        "ponieważ"
+      ],
+      "explanation": "Ponieważ introduces a reason."
+    },
+    {
+      "prompt": "Ta trasa jest znacznie ___. (krótki, comparative)",
+      "answers": [
+        "krótsza"
+      ],
+      "explanation": "Znacznie can intensify the comparative. Krótsza agrees with trasa."
+    },
+    {
+      "prompt": "Poprosił mnie, ___ przyszedł wcześniej. (so that I, masculine)",
+      "answers": [
+        "żebym",
+        "abym",
+        "bym"
+      ],
+      "explanation": "The first-person conditional ending can attach to żeby, aby or by."
+    },
+    {
+      "prompt": "W tej pracy trzeba ___ z klientami. (rozmawiać)",
+      "answers": [
+        "rozmawiać"
+      ],
+      "explanation": "Trzeba is followed by the infinitive."
+    },
+    {
+      "prompt": "To jest osoba, ___ pracuje w banku. (relative pronoun)",
+      "answers": [
+        "która"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To jest osoba, ___ zawsze ufam. (relative pronoun)",
+      "answers": [
+        "której"
+      ],
+      "explanation": "Ufać takes the dative."
+    },
+    {
+      "prompt": "To jest kolega, ___ pracuje w banku. (relative pronoun)",
+      "answers": [
+        "który"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To jest kolega, ___ ufam. (relative pronoun)",
+      "answers": [
+        "któremu"
+      ],
+      "explanation": "Ufać takes the dative."
+    },
+    {
+      "prompt": "To jest koleżanka, ___ pracuje w banku. (relative pronoun)",
+      "answers": [
+        "która"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To jest koleżanka, ___ ufam. (relative pronoun)",
+      "answers": [
+        "której"
+      ],
+      "explanation": "Ufać takes the dative."
+    },
+    {
+      "prompt": "To jest sąsiad, ___ pracuje w banku. (relative pronoun)",
+      "answers": [
+        "który"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To jest sąsiad, ___ ufam. (relative pronoun)",
+      "answers": [
+        "któremu"
+      ],
+      "explanation": "Ufać takes the dative."
+    },
+    {
+      "prompt": "To jest sąsiadka, ___ pracuje w banku. (relative pronoun)",
+      "answers": [
+        "która"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To jest sąsiadka, ___ ufam. (relative pronoun)",
+      "answers": [
+        "której"
+      ],
+      "explanation": "Ufać takes the dative."
+    },
+    {
+      "prompt": "To są studenci, ___ pracują w banku. (relative pronoun)",
+      "answers": [
+        "którzy"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To są studenci, ___ ufam. (relative pronoun)",
+      "answers": [
+        "którym"
+      ],
+      "explanation": "Ufać takes the dative."
+    },
+    {
+      "prompt": "To są uczniowie, ___ pracują w banku. (relative pronoun)",
+      "answers": [
+        "którzy"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To są uczniowie, ___ ufam. (relative pronoun)",
+      "answers": [
+        "którym"
+      ],
+      "explanation": "Ufać takes the dative."
+    },
+    {
+      "prompt": "To są studentki, ___ pracują w banku. (relative pronoun)",
+      "answers": [
+        "które"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To są studentki, ___ ufam. (relative pronoun)",
+      "answers": [
+        "którym"
+      ],
+      "explanation": "Ufać takes the dative."
+    },
+    {
+      "prompt": "To są znajomi, ___ pracują w banku. (relative pronoun)",
+      "answers": [
+        "którzy"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To są znajomi, ___ ufam. (relative pronoun)",
+      "answers": [
+        "którym"
+      ],
+      "explanation": "Ufać takes the dative."
+    },
+    {
+      "prompt": "To jest kuzynka, ___ pracuje w banku. (relative pronoun)",
+      "answers": [
+        "która"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To jest kuzynka, ___ ufam. (relative pronoun)",
+      "answers": [
+        "której"
+      ],
+      "explanation": "Ufać takes the dative."
+    },
+    {
+      "prompt": "To jest osoba, ___ mieszka obok. (relative pronoun)",
+      "answers": [
+        "która"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To jest osoba, ___ pomagam w pracy. (relative pronoun)",
+      "answers": [
+        "której"
+      ],
+      "explanation": "Pomagać takes the dative."
+    },
+    {
+      "prompt": "To jest osoba, z ___ chodzę na zajęcia. (relative pronoun)",
+      "answers": [
+        "którą"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "To jest osoba, ___ wysłałem zaproszenie. (relative pronoun)",
+      "answers": [
+        "której"
+      ],
+      "explanation": "The recipient of wysłać takes the dative."
+    },
+    {
+      "prompt": "To jest kolega, ___ mieszka obok. (relative pronoun)",
+      "answers": [
+        "który"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To jest kolega, ___ pomagam w pracy. (relative pronoun)",
+      "answers": [
+        "któremu"
+      ],
+      "explanation": "Pomagać takes the dative."
+    },
+    {
+      "prompt": "To jest kolega, z ___ chodzę na zajęcia. (relative pronoun)",
+      "answers": [
+        "którym"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "To jest kolega, ___ wysłałem zaproszenie. (relative pronoun)",
+      "answers": [
+        "któremu"
+      ],
+      "explanation": "The recipient of wysłać takes the dative."
+    },
+    {
+      "prompt": "To jest koleżanka, ___ mieszka obok. (relative pronoun)",
+      "answers": [
+        "która"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To jest koleżanka, ___ pomagam w pracy. (relative pronoun)",
+      "answers": [
+        "której"
+      ],
+      "explanation": "Pomagać takes the dative."
+    },
+    {
+      "prompt": "To jest koleżanka, z ___ chodzę na zajęcia. (relative pronoun)",
+      "answers": [
+        "którą"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "To jest koleżanka, ___ wysłałem zaproszenie. (relative pronoun)",
+      "answers": [
+        "której"
+      ],
+      "explanation": "The recipient of wysłać takes the dative."
+    },
+    {
+      "prompt": "To jest sąsiad, ___ mieszka obok. (relative pronoun)",
+      "answers": [
+        "który"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To jest sąsiad, ___ pomagam w pracy. (relative pronoun)",
+      "answers": [
+        "któremu"
+      ],
+      "explanation": "Pomagać takes the dative."
+    },
+    {
+      "prompt": "To jest sąsiad, z ___ chodzę na zajęcia. (relative pronoun)",
+      "answers": [
+        "którym"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "To jest sąsiad, ___ wysłałem zaproszenie. (relative pronoun)",
+      "answers": [
+        "któremu"
+      ],
+      "explanation": "The recipient of wysłać takes the dative."
+    },
+    {
+      "prompt": "To jest sąsiadka, ___ mieszka obok. (relative pronoun)",
+      "answers": [
+        "która"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To jest sąsiadka, ___ pomagam w pracy. (relative pronoun)",
+      "answers": [
+        "której"
+      ],
+      "explanation": "Pomagać takes the dative."
+    },
+    {
+      "prompt": "To jest sąsiadka, z ___ chodzę na zajęcia. (relative pronoun)",
+      "answers": [
+        "którą"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "To jest sąsiadka, ___ wysłałem zaproszenie. (relative pronoun)",
+      "answers": [
+        "której"
+      ],
+      "explanation": "The recipient of wysłać takes the dative."
+    },
+    {
+      "prompt": "To są studenci, ___ mieszkają obok. (relative pronoun)",
+      "answers": [
+        "którzy"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To są studenci, ___ pomagam w pracy. (relative pronoun)",
+      "answers": [
+        "którym"
+      ],
+      "explanation": "Pomagać takes the dative."
+    },
+    {
+      "prompt": "To są studenci, z ___ chodzę na zajęcia. (relative pronoun)",
+      "answers": [
+        "którymi"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "To są studenci, ___ wysłałem zaproszenie. (relative pronoun)",
+      "answers": [
+        "którym"
+      ],
+      "explanation": "The recipient of wysłać takes the dative."
+    },
+    {
+      "prompt": "To są uczniowie, ___ mieszkają obok. (relative pronoun)",
+      "answers": [
+        "którzy"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To są uczniowie, ___ pomagam w pracy. (relative pronoun)",
+      "answers": [
+        "którym"
+      ],
+      "explanation": "Pomagać takes the dative."
+    },
+    {
+      "prompt": "To są uczniowie, z ___ chodzę na zajęcia. (relative pronoun)",
+      "answers": [
+        "którymi"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "To są uczniowie, ___ wysłałem zaproszenie. (relative pronoun)",
+      "answers": [
+        "którym"
+      ],
+      "explanation": "The recipient of wysłać takes the dative."
+    },
+    {
+      "prompt": "To są studentki, ___ mieszkają obok. (relative pronoun)",
+      "answers": [
+        "które"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To są studentki, ___ pomagam w pracy. (relative pronoun)",
+      "answers": [
+        "którym"
+      ],
+      "explanation": "Pomagać takes the dative."
+    },
+    {
+      "prompt": "To są studentki, z ___ chodzę na zajęcia. (relative pronoun)",
+      "answers": [
+        "którymi"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "To są studentki, ___ wysłałem zaproszenie. (relative pronoun)",
+      "answers": [
+        "którym"
+      ],
+      "explanation": "The recipient of wysłać takes the dative."
+    },
+    {
+      "prompt": "To są znajomi, ___ mieszkają obok. (relative pronoun)",
+      "answers": [
+        "którzy"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To są znajomi, ___ pomagam w pracy. (relative pronoun)",
+      "answers": [
+        "którym"
+      ],
+      "explanation": "Pomagać takes the dative."
+    },
+    {
+      "prompt": "To są znajomi, z ___ chodzę na zajęcia. (relative pronoun)",
+      "answers": [
+        "którymi"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "To są znajomi, ___ wysłałem zaproszenie. (relative pronoun)",
+      "answers": [
+        "którym"
+      ],
+      "explanation": "The recipient of wysłać takes the dative."
+    },
+    {
+      "prompt": "To jest kuzynka, ___ mieszka obok. (relative pronoun)",
+      "answers": [
+        "która"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To jest kuzynka, ___ pomagam w pracy. (relative pronoun)",
+      "answers": [
+        "której"
+      ],
+      "explanation": "Pomagać takes the dative."
+    },
+    {
+      "prompt": "To jest kuzynka, z ___ chodzę na zajęcia. (relative pronoun)",
+      "answers": [
+        "którą"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "To jest kuzynka, ___ wysłałem zaproszenie. (relative pronoun)",
+      "answers": [
+        "której"
+      ],
+      "explanation": "The recipient of wysłać takes the dative."
+    },
+    {
+      "prompt": "To jest przyjaciel, ___ mieszka obok. (relative pronoun)",
+      "answers": [
+        "który"
+      ],
+      "explanation": "Use the nominative for the subject of the relative clause."
+    },
+    {
+      "prompt": "To jest przyjaciel, ___ pomagam w pracy. (relative pronoun)",
+      "answers": [
+        "któremu"
+      ],
+      "explanation": "Pomagać takes the dative."
+    },
+    {
+      "prompt": "To jest przyjaciel, z ___ chodzę na zajęcia. (relative pronoun)",
+      "answers": [
+        "którym"
+      ],
+      "explanation": "Z meaning with takes the instrumental."
+    },
+    {
+      "prompt": "To jest przyjaciel, ___ wysłałem zaproszenie. (relative pronoun)",
+      "answers": [
+        "któremu"
+      ],
+      "explanation": "The recipient of wysłać takes the dative."
+    }
+  ],
+  "B2": [
+    {
+      "prompt": "___ wyniki, zespół zauważył błąd. (analizować, simultaneous participle)",
+      "answers": [
+        "analizując"
+      ],
+      "explanation": "The -ąc participle expresses simultaneous actions with the same subject."
+    },
+    {
+      "prompt": "Raport, ___ wczoraj przez komisję, wzbudził kontrowersje. (zatwierdzić, passive participle)",
+      "answers": [
+        "zatwierdzony"
+      ],
+      "explanation": "The passive participle agrees with masculine singular raport."
+    },
+    {
+      "prompt": "___ zadzwonił wcześniej, zdążylibyśmy przygotować dokumenty. (if, second-person masculine)",
+      "answers": [
+        "gdybyś",
+        "jeślibyś"
+      ],
+      "explanation": "Use the second-person conditional conjunction with zadzwonił."
+    },
+    {
+      "prompt": "___ raport, badaczka wysłała go do redakcji. (ukończyć, anterior adverbial participle)",
+      "answers": [
+        "ukończywszy"
+      ],
+      "explanation": "The -wszy participle marks an earlier completed action by the same subject."
+    },
+    {
+      "prompt": "___ dane, badaczka zauważyła rozbieżność. (porównywać, simultaneous participle)",
+      "answers": [
+        "porównując"
+      ],
+      "explanation": "The -ąc participle marks simultaneous actions by the same subject."
+    },
+    {
+      "prompt": "Uwagi ___ przez recenzentów uwzględniono w raporcie. (zgłosić, passive participle)",
+      "answers": [
+        "zgłoszone"
+      ],
+      "explanation": "The passive participle agrees with plural uwagi."
+    },
+    {
+      "prompt": "___ raport był gotowy, spotkanie przełożono. (despite the fact that, use mimo)",
+      "answers": [
+        "mimo że",
+        "mimo iż"
+      ],
+      "explanation": "Mimo że and mimo iż introduce concessive clauses."
+    },
+    {
+      "prompt": "Gdybyśmy znali wyniki, ___ inną decyzję. (my, podjąć, mixed group conditional)",
+      "answers": [
+        "podjęlibyśmy"
+      ],
+      "explanation": "The main clause uses the first-person plural conditional."
+    },
+    {
+      "prompt": "Potrzebujemy rozwiązania, ___ można polegać. (on which)",
+      "answers": [
+        "na którym"
+      ],
+      "explanation": "Polegać na takes the locative. Rozwiązanie is neuter singular."
+    },
+    {
+      "prompt": "Nie wiadomo, ___ komisja zaakceptuje projekt. (whether)",
+      "answers": [
+        "czy"
+      ],
+      "explanation": "Czy introduces an indirect yes-or-no question."
+    },
+    {
+      "prompt": "Im dłużej zwlekamy, ___ trudniej będzie zmienić decyzję. (the, paired with im)",
+      "answers": [
+        "tym"
+      ],
+      "explanation": "Use the correlative construction im ..., tym ... ."
+    },
+    {
+      "prompt": "___ dane, zauważyła błąd. (analizować, simultaneous adverbial participle)",
+      "answers": [
+        "analizując"
+      ],
+      "explanation": "Use -ąc for two actions happening at the same time with the same subject."
+    },
+    {
+      "prompt": "___ dane, zrobiła sobie przerwę. (przeanalizować, anterior adverbial participle)",
+      "answers": [
+        "przeanalizowawszy"
+      ],
+      "explanation": "Use the anterior participle for an action completed before another action by the same subject."
+    },
+    {
+      "prompt": "___ artykuł, zrobiła sobie przerwę. (przeczytać, anterior adverbial participle)",
+      "answers": [
+        "przeczytawszy"
+      ],
+      "explanation": "Use the anterior participle for an action completed before another action by the same subject."
+    },
+    {
+      "prompt": "___ oferty, zauważyła błąd. (porównywać, simultaneous adverbial participle)",
+      "answers": [
+        "porównując"
+      ],
+      "explanation": "Use -ąc for two actions happening at the same time with the same subject."
+    },
+    {
+      "prompt": "___ wyniki, zauważyła błąd. (sprawdzać, simultaneous adverbial participle)",
+      "answers": [
+        "sprawdzając"
+      ],
+      "explanation": "Use -ąc for two actions happening at the same time with the same subject."
+    },
+    {
+      "prompt": "___ wyniki, zrobiła sobie przerwę. (sprawdzić, anterior adverbial participle)",
+      "answers": [
+        "sprawdziwszy"
+      ],
+      "explanation": "Use the anterior participle for an action completed before another action by the same subject."
+    },
+    {
+      "prompt": "___ źródła, zrobiła sobie przerwę. (zweryfikować, anterior adverbial participle)",
+      "answers": [
+        "zweryfikowawszy"
+      ],
+      "explanation": "Use the anterior participle for an action completed before another action by the same subject."
+    },
+    {
+      "prompt": "___ materiały, zauważyła błąd. (przeglądać, simultaneous adverbial participle)",
+      "answers": [
+        "przeglądając"
+      ],
+      "explanation": "Use -ąc for two actions happening at the same time with the same subject."
+    },
+    {
+      "prompt": "___ dokument, zauważyła błąd. (tłumaczyć, simultaneous adverbial participle)",
+      "answers": [
+        "tłumacząc"
+      ],
+      "explanation": "Use -ąc for two actions happening at the same time with the same subject."
+    },
+    {
+      "prompt": "___ dokument, zrobiła sobie przerwę. (przetłumaczyć, anterior adverbial participle)",
+      "answers": [
+        "przetłumaczywszy"
+      ],
+      "explanation": "Use the anterior participle for an action completed before another action by the same subject."
+    },
+    {
+      "prompt": "___ tekst, zrobiła sobie przerwę. (zredagować, anterior adverbial participle)",
+      "answers": [
+        "zredagowawszy"
+      ],
+      "explanation": "Use the anterior participle for an action completed before another action by the same subject."
+    },
+    {
+      "prompt": "___ notatki, zauważyła błąd. (przepisywać, simultaneous adverbial participle)",
+      "answers": [
+        "przepisując"
+      ],
+      "explanation": "Use -ąc for two actions happening at the same time with the same subject."
+    },
+    {
+      "prompt": "___ pliki, zauważyła błąd. (porządkować, simultaneous adverbial participle)",
+      "answers": [
+        "porządkując"
+      ],
+      "explanation": "Use -ąc for two actions happening at the same time with the same subject."
+    },
+    {
+      "prompt": "___ pliki, zrobiła sobie przerwę. (uporządkować, anterior adverbial participle)",
+      "answers": [
+        "uporządkowawszy"
+      ],
+      "explanation": "Use the anterior participle for an action completed before another action by the same subject."
+    },
+    {
+      "prompt": "___ koszty, zrobiła sobie przerwę. (obliczyć, anterior adverbial participle)",
+      "answers": [
+        "obliczywszy"
+      ],
+      "explanation": "Use the anterior participle for an action completed before another action by the same subject."
+    },
+    {
+      "prompt": "___ procedurę, zauważyła błąd. (opisywać, simultaneous adverbial participle)",
+      "answers": [
+        "opisując"
+      ],
+      "explanation": "Use -ąc for two actions happening at the same time with the same subject."
+    },
+    {
+      "prompt": "___ projekt, zauważyła błąd. (oceniać, simultaneous adverbial participle)",
+      "answers": [
+        "oceniając"
+      ],
+      "explanation": "Use -ąc for two actions happening at the same time with the same subject."
+    },
+    {
+      "prompt": "___ projekt, zrobiła sobie przerwę. (ocenić, anterior adverbial participle)",
+      "answers": [
+        "oceniwszy"
+      ],
+      "explanation": "Use the anterior participle for an action completed before another action by the same subject."
+    },
+    {
+      "prompt": "___ zestawienie, zrobiła sobie przerwę. (przygotować, anterior adverbial participle)",
+      "answers": [
+        "przygotowawszy"
+      ],
+      "explanation": "Use the anterior participle for an action completed before another action by the same subject."
+    },
+    {
+      "prompt": "___ wnioski, zauważyła błąd. (omawiać, simultaneous adverbial participle)",
+      "answers": [
+        "omawiając"
+      ],
+      "explanation": "Use -ąc for two actions happening at the same time with the same subject."
+    },
+    {
+      "prompt": "___ dane, robiła notatki. (analizować, simultaneous adverbial participle)",
+      "answers": [
+        "analizując"
+      ],
+      "explanation": "Use the -ąc form for a simultaneous action by the same subject."
+    },
+    {
+      "prompt": "___ dane, zamknęła plik. (przeanalizować, anterior adverbial participle)",
+      "answers": [
+        "przeanalizowawszy"
+      ],
+      "explanation": "Use the anterior form for a completed earlier action by the same subject."
+    },
+    {
+      "prompt": "___ dane, zastanawiała się nad następnym krokiem. (analizować, simultaneous adverbial participle)",
+      "answers": [
+        "analizując"
+      ],
+      "explanation": "Both actions happened at the same time and share a subject."
+    },
+    {
+      "prompt": "___ artykuł, robiła notatki. (czytać, simultaneous adverbial participle)",
+      "answers": [
+        "czytając"
+      ],
+      "explanation": "Use the -ąc form for a simultaneous action by the same subject."
+    },
+    {
+      "prompt": "___ artykuł, zamknęła plik. (przeczytać, anterior adverbial participle)",
+      "answers": [
+        "przeczytawszy"
+      ],
+      "explanation": "Use the anterior form for a completed earlier action by the same subject."
+    },
+    {
+      "prompt": "___ artykuł, zastanawiała się nad następnym krokiem. (czytać, simultaneous adverbial participle)",
+      "answers": [
+        "czytając"
+      ],
+      "explanation": "Both actions happened at the same time and share a subject."
+    },
+    {
+      "prompt": "___ oferty, robiła notatki. (porównywać, simultaneous adverbial participle)",
+      "answers": [
+        "porównując"
+      ],
+      "explanation": "Use the -ąc form for a simultaneous action by the same subject."
+    },
+    {
+      "prompt": "___ oferty, zamknęła plik. (porównać, anterior adverbial participle)",
+      "answers": [
+        "porównawszy"
+      ],
+      "explanation": "Use the anterior form for a completed earlier action by the same subject."
+    },
+    {
+      "prompt": "___ oferty, zastanawiała się nad następnym krokiem. (porównywać, simultaneous adverbial participle)",
+      "answers": [
+        "porównując"
+      ],
+      "explanation": "Both actions happened at the same time and share a subject."
+    },
+    {
+      "prompt": "___ wyniki, robiła notatki. (sprawdzać, simultaneous adverbial participle)",
+      "answers": [
+        "sprawdzając"
+      ],
+      "explanation": "Use the -ąc form for a simultaneous action by the same subject."
+    },
+    {
+      "prompt": "___ wyniki, zamknęła plik. (sprawdzić, anterior adverbial participle)",
+      "answers": [
+        "sprawdziwszy"
+      ],
+      "explanation": "Use the anterior form for a completed earlier action by the same subject."
+    },
+    {
+      "prompt": "___ wyniki, zastanawiała się nad następnym krokiem. (sprawdzać, simultaneous adverbial participle)",
+      "answers": [
+        "sprawdzając"
+      ],
+      "explanation": "Both actions happened at the same time and share a subject."
+    },
+    {
+      "prompt": "___ źródła, robiła notatki. (weryfikować, simultaneous adverbial participle)",
+      "answers": [
+        "weryfikując"
+      ],
+      "explanation": "Use the -ąc form for a simultaneous action by the same subject."
+    },
+    {
+      "prompt": "___ źródła, zamknęła plik. (zweryfikować, anterior adverbial participle)",
+      "answers": [
+        "zweryfikowawszy"
+      ],
+      "explanation": "Use the anterior form for a completed earlier action by the same subject."
+    },
+    {
+      "prompt": "___ źródła, zastanawiała się nad następnym krokiem. (weryfikować, simultaneous adverbial participle)",
+      "answers": [
+        "weryfikując"
+      ],
+      "explanation": "Both actions happened at the same time and share a subject."
+    },
+    {
+      "prompt": "___ materiały, robiła notatki. (przeglądać, simultaneous adverbial participle)",
+      "answers": [
+        "przeglądając"
+      ],
+      "explanation": "Use the -ąc form for a simultaneous action by the same subject."
+    },
+    {
+      "prompt": "___ materiały, zamknęła plik. (przejrzeć, anterior adverbial participle)",
+      "answers": [
+        "przejrzawszy"
+      ],
+      "explanation": "Use the anterior form for a completed earlier action by the same subject."
+    },
+    {
+      "prompt": "___ materiały, zastanawiała się nad następnym krokiem. (przeglądać, simultaneous adverbial participle)",
+      "answers": [
+        "przeglądając"
+      ],
+      "explanation": "Both actions happened at the same time and share a subject."
+    },
+    {
+      "prompt": "___ dokument, robiła notatki. (tłumaczyć, simultaneous adverbial participle)",
+      "answers": [
+        "tłumacząc"
+      ],
+      "explanation": "Use the -ąc form for a simultaneous action by the same subject."
+    },
+    {
+      "prompt": "___ dokument, zamknęła plik. (przetłumaczyć, anterior adverbial participle)",
+      "answers": [
+        "przetłumaczywszy"
+      ],
+      "explanation": "Use the anterior form for a completed earlier action by the same subject."
+    },
+    {
+      "prompt": "___ dokument, zastanawiała się nad następnym krokiem. (tłumaczyć, simultaneous adverbial participle)",
+      "answers": [
+        "tłumacząc"
+      ],
+      "explanation": "Both actions happened at the same time and share a subject."
+    },
+    {
+      "prompt": "___ tekst, robiła notatki. (redagować, simultaneous adverbial participle)",
+      "answers": [
+        "redagując"
+      ],
+      "explanation": "Use the -ąc form for a simultaneous action by the same subject."
+    },
+    {
+      "prompt": "___ tekst, zamknęła plik. (zredagować, anterior adverbial participle)",
+      "answers": [
+        "zredagowawszy"
+      ],
+      "explanation": "Use the anterior form for a completed earlier action by the same subject."
+    },
+    {
+      "prompt": "___ tekst, zastanawiała się nad następnym krokiem. (redagować, simultaneous adverbial participle)",
+      "answers": [
+        "redagując"
+      ],
+      "explanation": "Both actions happened at the same time and share a subject."
+    },
+    {
+      "prompt": "___ notatki, robiła notatki. (przepisywać, simultaneous adverbial participle)",
+      "answers": [
+        "przepisując"
+      ],
+      "explanation": "Use the -ąc form for a simultaneous action by the same subject."
+    },
+    {
+      "prompt": "___ notatki, zamknęła plik. (przepisać, anterior adverbial participle)",
+      "answers": [
+        "przepisawszy"
+      ],
+      "explanation": "Use the anterior form for a completed earlier action by the same subject."
+    },
+    {
+      "prompt": "___ notatki, zastanawiała się nad następnym krokiem. (przepisywać, simultaneous adverbial participle)",
+      "answers": [
+        "przepisując"
+      ],
+      "explanation": "Both actions happened at the same time and share a subject."
+    },
+    {
+      "prompt": "___ pliki, robiła notatki. (porządkować, simultaneous adverbial participle)",
+      "answers": [
+        "porządkując"
+      ],
+      "explanation": "Use the -ąc form for a simultaneous action by the same subject."
+    },
+    {
+      "prompt": "___ pliki, zamknęła plik. (uporządkować, anterior adverbial participle)",
+      "answers": [
+        "uporządkowawszy"
+      ],
+      "explanation": "Use the anterior form for a completed earlier action by the same subject."
+    },
+    {
+      "prompt": "___ pliki, zastanawiała się nad następnym krokiem. (porządkować, simultaneous adverbial participle)",
+      "answers": [
+        "porządkując"
+      ],
+      "explanation": "Both actions happened at the same time and share a subject."
+    },
+    {
+      "prompt": "___ koszty, robiła notatki. (obliczać, simultaneous adverbial participle)",
+      "answers": [
+        "obliczając"
+      ],
+      "explanation": "Use the -ąc form for a simultaneous action by the same subject."
+    },
+    {
+      "prompt": "___ koszty, zamknęła plik. (obliczyć, anterior adverbial participle)",
+      "answers": [
+        "obliczywszy"
+      ],
+      "explanation": "Use the anterior form for a completed earlier action by the same subject."
+    },
+    {
+      "prompt": "___ koszty, zastanawiała się nad następnym krokiem. (obliczać, simultaneous adverbial participle)",
+      "answers": [
+        "obliczając"
+      ],
+      "explanation": "Both actions happened at the same time and share a subject."
+    },
+    {
+      "prompt": "___ procedurę, robiła notatki. (opisywać, simultaneous adverbial participle)",
+      "answers": [
+        "opisując"
+      ],
+      "explanation": "Use the -ąc form for a simultaneous action by the same subject."
+    },
+    {
+      "prompt": "___ procedurę, zamknęła plik. (opisać, anterior adverbial participle)",
+      "answers": [
+        "opisawszy"
+      ],
+      "explanation": "Use the anterior form for a completed earlier action by the same subject."
+    },
+    {
+      "prompt": "___ procedurę, zastanawiała się nad następnym krokiem. (opisywać, simultaneous adverbial participle)",
+      "answers": [
+        "opisując"
+      ],
+      "explanation": "Both actions happened at the same time and share a subject."
+    },
+    {
+      "prompt": "___ projekt, robiła notatki. (oceniać, simultaneous adverbial participle)",
+      "answers": [
+        "oceniając"
+      ],
+      "explanation": "Use the -ąc form for a simultaneous action by the same subject."
+    },
+    {
+      "prompt": "___ projekt, zamknęła plik. (ocenić, anterior adverbial participle)",
+      "answers": [
+        "oceniwszy"
+      ],
+      "explanation": "Use the anterior form for a completed earlier action by the same subject."
+    },
+    {
+      "prompt": "___ projekt, zastanawiała się nad następnym krokiem. (oceniać, simultaneous adverbial participle)",
+      "answers": [
+        "oceniając"
+      ],
+      "explanation": "Both actions happened at the same time and share a subject."
+    },
+    {
+      "prompt": "___ zestawienie, robiła notatki. (przygotowywać, simultaneous adverbial participle)",
+      "answers": [
+        "przygotowując"
+      ],
+      "explanation": "Use the -ąc form for a simultaneous action by the same subject."
+    },
+    {
+      "prompt": "___ zestawienie, zamknęła plik. (przygotować, anterior adverbial participle)",
+      "answers": [
+        "przygotowawszy"
+      ],
+      "explanation": "Use the anterior form for a completed earlier action by the same subject."
+    },
+    {
+      "prompt": "___ zestawienie, zastanawiała się nad następnym krokiem. (przygotowywać, simultaneous adverbial participle)",
+      "answers": [
+        "przygotowując"
+      ],
+      "explanation": "Both actions happened at the same time and share a subject."
+    },
+    {
+      "prompt": "___ wnioski, robiła notatki. (omawiać, simultaneous adverbial participle)",
+      "answers": [
+        "omawiając"
+      ],
+      "explanation": "Use the -ąc form for a simultaneous action by the same subject."
+    },
+    {
+      "prompt": "___ wnioski, zamknęła plik. (omówić, anterior adverbial participle)",
+      "answers": [
+        "omówiwszy"
+      ],
+      "explanation": "Use the anterior form for a completed earlier action by the same subject."
+    }
+  ]
+}

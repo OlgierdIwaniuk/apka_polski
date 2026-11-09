@@ -1,0 +1,2125 @@
+{
+  "A1": [
+    {
+      "prompt": "Codziennie ___ kawę. (ja, pić, present)",
+      "answers": [
+        "piję"
+      ],
+      "explanation": "The first-person singular of pić is piję."
+    },
+    {
+      "prompt": "Gdzie ___? (ty, mieszkać, present)",
+      "answers": [
+        "mieszkasz"
+      ],
+      "explanation": "The second-person singular ending is -asz here."
+    },
+    {
+      "prompt": "My ___ w domu. (być, present)",
+      "answers": [
+        "jesteśmy"
+      ],
+      "explanation": "Use jesteśmy with my (we)."
+    },
+    {
+      "prompt": "Oni ___ po polsku. (mówić, present)",
+      "answers": [
+        "mówią"
+      ],
+      "explanation": "Use mówią with oni (they)."
+    },
+    {
+      "prompt": "Ja ___ z Londynu. (być, present)",
+      "answers": [
+        "jestem"
+      ],
+      "explanation": "The first-person singular form of być is jestem."
+    },
+    {
+      "prompt": "Ty ___ czas? (mieć, present)",
+      "answers": [
+        "masz"
+      ],
+      "explanation": "The second-person singular of mieć is masz."
+    },
+    {
+      "prompt": "Ona ___ w sklepie. (pracować, present)",
+      "answers": [
+        "pracuje"
+      ],
+      "explanation": "Use pracuje with ona."
+    },
+    {
+      "prompt": "My ___ chleb. (kupować, present)",
+      "answers": [
+        "kupujemy"
+      ],
+      "explanation": "Use kupujemy with my."
+    },
+    {
+      "prompt": "Czy wy ___ kawę? (lubić, present)",
+      "answers": [
+        "lubicie"
+      ],
+      "explanation": "Use lubicie with wy."
+    },
+    {
+      "prompt": "Dzieci ___ w domu. (jeść, present)",
+      "answers": [
+        "jedzą"
+      ],
+      "explanation": "Dzieci is plural. The corresponding form of jeść is jedzą."
+    },
+    {
+      "prompt": "Codziennie ___ książki. (ja, czytać, present)",
+      "answers": [
+        "czytam"
+      ],
+      "explanation": "Use czytam for I read."
+    },
+    {
+      "prompt": "Mój brat ___ osiem lat. (mieć, present)",
+      "answers": [
+        "ma"
+      ],
+      "explanation": "Polish uses mieć to express age. The third-person singular is ma."
+    },
+    {
+      "prompt": "Ja ___ książkę. (czytać, present)",
+      "answers": [
+        "czytam"
+      ],
+      "explanation": "Use czytam with ja in the present."
+    },
+    {
+      "prompt": "Ty ___ książkę. (czytać, present)",
+      "answers": [
+        "czytasz"
+      ],
+      "explanation": "Use czytasz with ty in the present."
+    },
+    {
+      "prompt": "Ja ___ list. (pisać, present)",
+      "answers": [
+        "piszę"
+      ],
+      "explanation": "Use piszę with ja in the present."
+    },
+    {
+      "prompt": "Ty ___ list. (pisać, present)",
+      "answers": [
+        "piszesz"
+      ],
+      "explanation": "Use piszesz with ty in the present."
+    },
+    {
+      "prompt": "Ja ___ zupę. (jeść, present)",
+      "answers": [
+        "jem"
+      ],
+      "explanation": "Use jem with ja in the present."
+    },
+    {
+      "prompt": "Ty ___ zupę. (jeść, present)",
+      "answers": [
+        "jesz"
+      ],
+      "explanation": "Use jesz with ty in the present."
+    },
+    {
+      "prompt": "Ja ___ wodę. (pić, present)",
+      "answers": [
+        "piję"
+      ],
+      "explanation": "Use piję with ja in the present."
+    },
+    {
+      "prompt": "Ty ___ wodę. (pić, present)",
+      "answers": [
+        "pijesz"
+      ],
+      "explanation": "Use pijesz with ty in the present."
+    },
+    {
+      "prompt": "Ja ___ obiad. (gotować, present)",
+      "answers": [
+        "gotuję"
+      ],
+      "explanation": "Use gotuję with ja in the present."
+    },
+    {
+      "prompt": "Ty ___ obiad. (gotować, present)",
+      "answers": [
+        "gotujesz"
+      ],
+      "explanation": "Use gotujesz with ty in the present."
+    },
+    {
+      "prompt": "Ja ___ chleb. (kupować, present)",
+      "answers": [
+        "kupuję"
+      ],
+      "explanation": "Use kupuję with ja in the present."
+    },
+    {
+      "prompt": "Ty ___ chleb. (kupować, present)",
+      "answers": [
+        "kupujesz"
+      ],
+      "explanation": "Use kupujesz with ty in the present."
+    },
+    {
+      "prompt": "Ja ___ film. (oglądać, present)",
+      "answers": [
+        "oglądam"
+      ],
+      "explanation": "Use oglądam with ja in the present."
+    },
+    {
+      "prompt": "Ty ___ film. (oglądać, present)",
+      "answers": [
+        "oglądasz"
+      ],
+      "explanation": "Use oglądasz with ty in the present."
+    },
+    {
+      "prompt": "Ja ___ muzyki. (słuchać, present)",
+      "answers": [
+        "słucham"
+      ],
+      "explanation": "Use słucham with ja in the present."
+    },
+    {
+      "prompt": "Ty ___ muzyki. (słuchać, present)",
+      "answers": [
+        "słuchasz"
+      ],
+      "explanation": "Use słuchasz with ty in the present."
+    },
+    {
+      "prompt": "Ja ___ śniadanie. (robić, present)",
+      "answers": [
+        "robię"
+      ],
+      "explanation": "Use robię with ja in the present."
+    },
+    {
+      "prompt": "Ty ___ śniadanie. (robić, present)",
+      "answers": [
+        "robisz"
+      ],
+      "explanation": "Use robisz with ty in the present."
+    },
+    {
+      "prompt": "Ja ___ ręce. (myć, present)",
+      "answers": [
+        "myję"
+      ],
+      "explanation": "Use myję with ja in the present."
+    },
+    {
+      "prompt": "Ty ___ ręce. (myć, present)",
+      "answers": [
+        "myjesz"
+      ],
+      "explanation": "Use myjesz with ty in the present."
+    },
+    {
+      "prompt": "Ona zwykle ___ książkę. (czytać, ona, present)",
+      "answers": [
+        "czyta"
+      ],
+      "explanation": "The form czyta matches ona, present."
+    },
+    {
+      "prompt": "Razem ___ książkę. (czytać, my, present)",
+      "answers": [
+        "czytamy"
+      ],
+      "explanation": "The form czytamy matches my, present."
+    },
+    {
+      "prompt": "Czy teraz ___ książkę? (czytać, wy, present)",
+      "answers": [
+        "czytacie"
+      ],
+      "explanation": "The form czytacie matches wy, present."
+    },
+    {
+      "prompt": "Mój brat ___ książkę. (czytać, on, present)",
+      "answers": [
+        "czyta"
+      ],
+      "explanation": "The form czyta matches on, present."
+    },
+    {
+      "prompt": "Ona zwykle ___ list. (pisać, ona, present)",
+      "answers": [
+        "pisze"
+      ],
+      "explanation": "The form pisze matches ona, present."
+    },
+    {
+      "prompt": "Razem ___ list. (pisać, my, present)",
+      "answers": [
+        "piszemy"
+      ],
+      "explanation": "The form piszemy matches my, present."
+    },
+    {
+      "prompt": "Czy teraz ___ list? (pisać, wy, present)",
+      "answers": [
+        "piszecie"
+      ],
+      "explanation": "The form piszecie matches wy, present."
+    },
+    {
+      "prompt": "Mój brat ___ list. (pisać, on, present)",
+      "answers": [
+        "pisze"
+      ],
+      "explanation": "The form pisze matches on, present."
+    },
+    {
+      "prompt": "Ona zwykle ___ zupę. (jeść, ona, present)",
+      "answers": [
+        "je"
+      ],
+      "explanation": "The form je matches ona, present."
+    },
+    {
+      "prompt": "Razem ___ zupę. (jeść, my, present)",
+      "answers": [
+        "jemy"
+      ],
+      "explanation": "The form jemy matches my, present."
+    },
+    {
+      "prompt": "Czy teraz ___ zupę? (jeść, wy, present)",
+      "answers": [
+        "jecie"
+      ],
+      "explanation": "The form jecie matches wy, present."
+    },
+    {
+      "prompt": "Mój brat ___ zupę. (jeść, on, present)",
+      "answers": [
+        "je"
+      ],
+      "explanation": "The form je matches on, present."
+    },
+    {
+      "prompt": "Ona zwykle ___ wodę. (pić, ona, present)",
+      "answers": [
+        "pije"
+      ],
+      "explanation": "The form pije matches ona, present."
+    },
+    {
+      "prompt": "Razem ___ wodę. (pić, my, present)",
+      "answers": [
+        "pijemy"
+      ],
+      "explanation": "The form pijemy matches my, present."
+    },
+    {
+      "prompt": "Czy teraz ___ wodę? (pić, wy, present)",
+      "answers": [
+        "pijecie"
+      ],
+      "explanation": "The form pijecie matches wy, present."
+    },
+    {
+      "prompt": "Mój brat ___ wodę. (pić, on, present)",
+      "answers": [
+        "pije"
+      ],
+      "explanation": "The form pije matches on, present."
+    },
+    {
+      "prompt": "Ona zwykle ___ obiad. (gotować, ona, present)",
+      "answers": [
+        "gotuje"
+      ],
+      "explanation": "The form gotuje matches ona, present."
+    },
+    {
+      "prompt": "Razem ___ obiad. (gotować, my, present)",
+      "answers": [
+        "gotujemy"
+      ],
+      "explanation": "The form gotujemy matches my, present."
+    },
+    {
+      "prompt": "Czy teraz ___ obiad? (gotować, wy, present)",
+      "answers": [
+        "gotujecie"
+      ],
+      "explanation": "The form gotujecie matches wy, present."
+    },
+    {
+      "prompt": "Mój brat ___ obiad. (gotować, on, present)",
+      "answers": [
+        "gotuje"
+      ],
+      "explanation": "The form gotuje matches on, present."
+    },
+    {
+      "prompt": "Ona zwykle ___ chleb. (kupować, ona, present)",
+      "answers": [
+        "kupuje"
+      ],
+      "explanation": "The form kupuje matches ona, present."
+    },
+    {
+      "prompt": "Razem ___ chleb. (kupować, my, present)",
+      "answers": [
+        "kupujemy"
+      ],
+      "explanation": "The form kupujemy matches my, present."
+    },
+    {
+      "prompt": "Czy teraz ___ chleb? (kupować, wy, present)",
+      "answers": [
+        "kupujecie"
+      ],
+      "explanation": "The form kupujecie matches wy, present."
+    },
+    {
+      "prompt": "Mój brat ___ chleb. (kupować, on, present)",
+      "answers": [
+        "kupuje"
+      ],
+      "explanation": "The form kupuje matches on, present."
+    },
+    {
+      "prompt": "Ona zwykle ___ film. (oglądać, ona, present)",
+      "answers": [
+        "ogląda"
+      ],
+      "explanation": "The form ogląda matches ona, present."
+    },
+    {
+      "prompt": "Razem ___ film. (oglądać, my, present)",
+      "answers": [
+        "oglądamy"
+      ],
+      "explanation": "The form oglądamy matches my, present."
+    },
+    {
+      "prompt": "Czy teraz ___ film? (oglądać, wy, present)",
+      "answers": [
+        "oglądacie"
+      ],
+      "explanation": "The form oglądacie matches wy, present."
+    },
+    {
+      "prompt": "Mój brat ___ film. (oglądać, on, present)",
+      "answers": [
+        "ogląda"
+      ],
+      "explanation": "The form ogląda matches on, present."
+    },
+    {
+      "prompt": "Ona zwykle ___ muzyki. (słuchać, ona, present)",
+      "answers": [
+        "słucha"
+      ],
+      "explanation": "The form słucha matches ona, present."
+    },
+    {
+      "prompt": "Razem ___ muzyki. (słuchać, my, present)",
+      "answers": [
+        "słuchamy"
+      ],
+      "explanation": "The form słuchamy matches my, present."
+    },
+    {
+      "prompt": "Czy teraz ___ muzyki? (słuchać, wy, present)",
+      "answers": [
+        "słuchacie"
+      ],
+      "explanation": "The form słuchacie matches wy, present."
+    },
+    {
+      "prompt": "Mój brat ___ muzyki. (słuchać, on, present)",
+      "answers": [
+        "słucha"
+      ],
+      "explanation": "The form słucha matches on, present."
+    },
+    {
+      "prompt": "Ona zwykle ___ śniadanie. (robić, ona, present)",
+      "answers": [
+        "robi"
+      ],
+      "explanation": "The form robi matches ona, present."
+    },
+    {
+      "prompt": "Razem ___ śniadanie. (robić, my, present)",
+      "answers": [
+        "robimy"
+      ],
+      "explanation": "The form robimy matches my, present."
+    },
+    {
+      "prompt": "Czy teraz ___ śniadanie? (robić, wy, present)",
+      "answers": [
+        "robicie"
+      ],
+      "explanation": "The form robicie matches wy, present."
+    },
+    {
+      "prompt": "Mój brat ___ śniadanie. (robić, on, present)",
+      "answers": [
+        "robi"
+      ],
+      "explanation": "The form robi matches on, present."
+    },
+    {
+      "prompt": "Ona zwykle ___ ręce. (myć, ona, present)",
+      "answers": [
+        "myje"
+      ],
+      "explanation": "The form myje matches ona, present."
+    },
+    {
+      "prompt": "Razem ___ ręce. (myć, my, present)",
+      "answers": [
+        "myjemy"
+      ],
+      "explanation": "The form myjemy matches my, present."
+    },
+    {
+      "prompt": "Czy teraz ___ ręce? (myć, wy, present)",
+      "answers": [
+        "myjecie"
+      ],
+      "explanation": "The form myjecie matches wy, present."
+    },
+    {
+      "prompt": "Mój brat ___ ręce. (myć, on, present)",
+      "answers": [
+        "myje"
+      ],
+      "explanation": "The form myje matches on, present."
+    },
+    {
+      "prompt": "Ona zwykle ___ obraz. (malować, ona, present)",
+      "answers": [
+        "maluje"
+      ],
+      "explanation": "The form maluje matches ona, present."
+    },
+    {
+      "prompt": "Razem ___ obraz. (malować, my, present)",
+      "answers": [
+        "malujemy"
+      ],
+      "explanation": "The form malujemy matches my, present."
+    },
+    {
+      "prompt": "Czy teraz ___ obraz? (malować, wy, present)",
+      "answers": [
+        "malujecie"
+      ],
+      "explanation": "The form malujecie matches wy, present."
+    }
+  ],
+  "A2": [
+    {
+      "prompt": "Wczoraj ___ film. (ja, oglądać, past, feminine)",
+      "answers": [
+        "oglądałam"
+      ],
+      "explanation": "Use -łam for first-person feminine past."
+    },
+    {
+      "prompt": "Jutro ___ do kina. (ja, pójść, future)",
+      "answers": [
+        "pójdę"
+      ],
+      "explanation": "Perfective pójść uses a simple future form."
+    },
+    {
+      "prompt": "Jutro o ósmej ___ książkę. (ja, czytać, future, masculine)",
+      "answers": [
+        "będę czytał",
+        "będę czytać"
+      ],
+      "explanation": "Imperfective future allows będę plus an infinitive or a past-form verb."
+    },
+    {
+      "prompt": "Wczoraj ___ do domu o ósmej. (ja, wrócić, past, masculine)",
+      "answers": [
+        "wróciłem"
+      ],
+      "explanation": "Use -łem for first-person masculine past."
+    },
+    {
+      "prompt": "W zeszłą sobotę ___ zakupy. (my, zrobić, past, feminine group)",
+      "answers": [
+        "zrobiłyśmy"
+      ],
+      "explanation": "A group of women uses the first-person plural ending -łyśmy."
+    },
+    {
+      "prompt": "Jutro ___ na stacji o siódmej. (my, być, future)",
+      "answers": [
+        "będziemy"
+      ],
+      "explanation": "Będziemy is the first-person plural future of być."
+    },
+    {
+      "prompt": "Za chwilę ___ obiad. (ona, zjeść, future)",
+      "answers": [
+        "zje"
+      ],
+      "explanation": "Zje is the simple future of perfective zjeść."
+    },
+    {
+      "prompt": "Co ___ wczoraj rano? (ty, robić, past, feminine)",
+      "answers": [
+        "robiłaś"
+      ],
+      "explanation": "Use -łaś for second-person feminine past."
+    },
+    {
+      "prompt": "W przyszłym tygodniu ___ z domu. (ona, pracować, future)",
+      "answers": [
+        "będzie pracować",
+        "będzie pracowała"
+      ],
+      "explanation": "Both the infinitive and the feminine past-form verb can follow będzie."
+    },
+    {
+      "prompt": "Jutro ___ do ciebie. (ja, zadzwonić, future)",
+      "answers": [
+        "zadzwonię"
+      ],
+      "explanation": "Zadzwonię is the first-person singular future."
+    },
+    {
+      "prompt": "Czy ___ bilet? (wy, kupić, past, group of men)",
+      "answers": [
+        "kupiliście"
+      ],
+      "explanation": "Use -liście when addressing a masculine-personal group."
+    },
+    {
+      "prompt": "Wczoraj ___ bilet. (kupić, ja, past, feminine)",
+      "answers": [
+        "kupiłam"
+      ],
+      "explanation": "Use the first-person feminine past ending -łam."
+    },
+    {
+      "prompt": "Czy wczoraj ___ bilet? (kupić, ty, past, masculine)",
+      "answers": [
+        "kupiłeś"
+      ],
+      "explanation": "Use the second-person masculine past ending -łeś."
+    },
+    {
+      "prompt": "Wczoraj ___ list. (przeczytać, ja, past, feminine)",
+      "answers": [
+        "przeczytałam"
+      ],
+      "explanation": "Use the first-person feminine past ending -łam."
+    },
+    {
+      "prompt": "Czy ___ list? (przeczytać, ty, past, masculine)",
+      "answers": [
+        "przeczytałeś"
+      ],
+      "explanation": "Use the second-person masculine past ending -łeś."
+    },
+    {
+      "prompt": "Wczoraj ___ wiadomość. (napisać, ja, past, feminine)",
+      "answers": [
+        "napisałam"
+      ],
+      "explanation": "Use the first-person feminine past ending -łam."
+    },
+    {
+      "prompt": "Czy ___ wiadomość? (napisać, ty, past, masculine)",
+      "answers": [
+        "napisałeś"
+      ],
+      "explanation": "Use the second-person masculine past ending -łeś."
+    },
+    {
+      "prompt": "Wczoraj ___ film. (obejrzeć, ja, past, feminine)",
+      "answers": [
+        "obejrzałam"
+      ],
+      "explanation": "Use the first-person feminine past ending -łam."
+    },
+    {
+      "prompt": "Czy ___ film? (obejrzeć, ty, past, masculine)",
+      "answers": [
+        "obejrzałeś"
+      ],
+      "explanation": "Use the second-person masculine past ending -łeś."
+    },
+    {
+      "prompt": "Wczoraj ___ obiad. (zamówić, ja, past, feminine)",
+      "answers": [
+        "zamówiłam"
+      ],
+      "explanation": "Use the first-person feminine past ending -łam."
+    },
+    {
+      "prompt": "Czy ___ obiad? (zamówić, ty, past, masculine)",
+      "answers": [
+        "zamówiłeś"
+      ],
+      "explanation": "Use the second-person masculine past ending -łeś."
+    },
+    {
+      "prompt": "Wczoraj ___ kolację. (zjeść, ja, past, feminine)",
+      "answers": [
+        "zjadłam"
+      ],
+      "explanation": "Use the first-person feminine past ending -łam."
+    },
+    {
+      "prompt": "Jutro ___ kolację. (zjeść, my, future)",
+      "answers": [
+        "zjemy"
+      ],
+      "explanation": "The perfective verb uses a simple future form."
+    },
+    {
+      "prompt": "Wczoraj ___ książkę. (oddać, ja, past, feminine)",
+      "answers": [
+        "oddałam"
+      ],
+      "explanation": "Use the first-person feminine past ending -łam."
+    },
+    {
+      "prompt": "Jutro ___ książkę. (oddać, my, future)",
+      "answers": [
+        "oddamy"
+      ],
+      "explanation": "The perfective verb uses a simple future form."
+    },
+    {
+      "prompt": "Wczoraj ___ okno. (otworzyć, ja, past, feminine)",
+      "answers": [
+        "otworzyłam"
+      ],
+      "explanation": "Use the first-person feminine past ending -łam."
+    },
+    {
+      "prompt": "Jutro ___ okno. (otworzyć, my, future)",
+      "answers": [
+        "otworzymy"
+      ],
+      "explanation": "The perfective verb uses a simple future form."
+    },
+    {
+      "prompt": "Wczoraj ___ sklep. (zamknąć, ja, past, feminine)",
+      "answers": [
+        "zamknęłam"
+      ],
+      "explanation": "Use the first-person feminine past ending -łam."
+    },
+    {
+      "prompt": "Jutro ___ sklep. (zamknąć, my, future)",
+      "answers": [
+        "zamkniemy"
+      ],
+      "explanation": "The perfective verb uses a simple future form."
+    },
+    {
+      "prompt": "Wczoraj ___ zakupy. (zrobić, ja, past, feminine)",
+      "answers": [
+        "zrobiłam"
+      ],
+      "explanation": "Use the first-person feminine past ending -łam."
+    },
+    {
+      "prompt": "Jutro ___ zakupy. (zrobić, my, future)",
+      "answers": [
+        "zrobimy"
+      ],
+      "explanation": "The perfective verb uses a simple future form."
+    },
+    {
+      "prompt": "Wczoraj rano ___ bilet. (kupić, ona, past)",
+      "answers": [
+        "kupiła"
+      ],
+      "explanation": "The form kupiła matches ona, past."
+    },
+    {
+      "prompt": "W zeszłym tygodniu ___ bilet. (kupić, oni, past, group of men)",
+      "answers": [
+        "kupili"
+      ],
+      "explanation": "The form kupili matches oni, past, group of men."
+    },
+    {
+      "prompt": "Czy jutro ___ bilet? (kupić, ty, future)",
+      "answers": [
+        "kupisz"
+      ],
+      "explanation": "The form kupisz matches ty, future."
+    },
+    {
+      "prompt": "Przed wyjściem ___ bilet. (kupić, ona, past)",
+      "answers": [
+        "kupiła"
+      ],
+      "explanation": "The form kupiła matches ona, past."
+    },
+    {
+      "prompt": "Wczoraj rano ___ list. (przeczytać, ona, past)",
+      "answers": [
+        "przeczytała"
+      ],
+      "explanation": "The form przeczytała matches ona, past."
+    },
+    {
+      "prompt": "W zeszłym tygodniu ___ list. (przeczytać, oni, past, group of men)",
+      "answers": [
+        "przeczytali"
+      ],
+      "explanation": "The form przeczytali matches oni, past, group of men."
+    },
+    {
+      "prompt": "Czy jutro ___ list? (przeczytać, ty, future)",
+      "answers": [
+        "przeczytasz"
+      ],
+      "explanation": "The form przeczytasz matches ty, future."
+    },
+    {
+      "prompt": "Przed wyjściem ___ list. (przeczytać, ona, past)",
+      "answers": [
+        "przeczytała"
+      ],
+      "explanation": "The form przeczytała matches ona, past."
+    },
+    {
+      "prompt": "Wczoraj rano ___ wiadomość. (napisać, ona, past)",
+      "answers": [
+        "napisała"
+      ],
+      "explanation": "The form napisała matches ona, past."
+    },
+    {
+      "prompt": "W zeszłym tygodniu ___ wiadomość. (napisać, oni, past, group of men)",
+      "answers": [
+        "napisali"
+      ],
+      "explanation": "The form napisali matches oni, past, group of men."
+    },
+    {
+      "prompt": "Czy jutro ___ wiadomość? (napisać, ty, future)",
+      "answers": [
+        "napiszesz"
+      ],
+      "explanation": "The form napiszesz matches ty, future."
+    },
+    {
+      "prompt": "Przed wyjściem ___ wiadomość. (napisać, ona, past)",
+      "answers": [
+        "napisała"
+      ],
+      "explanation": "The form napisała matches ona, past."
+    },
+    {
+      "prompt": "Wczoraj rano ___ film. (obejrzeć, ona, past)",
+      "answers": [
+        "obejrzała"
+      ],
+      "explanation": "The form obejrzała matches ona, past."
+    },
+    {
+      "prompt": "W zeszłym tygodniu ___ film. (obejrzeć, oni, past, group of men)",
+      "answers": [
+        "obejrzeli"
+      ],
+      "explanation": "The form obejrzeli matches oni, past, group of men."
+    },
+    {
+      "prompt": "Czy jutro ___ film? (obejrzeć, ty, future)",
+      "answers": [
+        "obejrzysz"
+      ],
+      "explanation": "The form obejrzysz matches ty, future."
+    },
+    {
+      "prompt": "Przed wyjściem ___ film. (obejrzeć, ona, past)",
+      "answers": [
+        "obejrzała"
+      ],
+      "explanation": "The form obejrzała matches ona, past."
+    },
+    {
+      "prompt": "Wczoraj rano ___ obiad. (zamówić, ona, past)",
+      "answers": [
+        "zamówiła"
+      ],
+      "explanation": "The form zamówiła matches ona, past."
+    },
+    {
+      "prompt": "W zeszłym tygodniu ___ obiad. (zamówić, oni, past, group of men)",
+      "answers": [
+        "zamówili"
+      ],
+      "explanation": "The form zamówili matches oni, past, group of men."
+    },
+    {
+      "prompt": "Czy jutro ___ obiad? (zamówić, ty, future)",
+      "answers": [
+        "zamówisz"
+      ],
+      "explanation": "The form zamówisz matches ty, future."
+    },
+    {
+      "prompt": "Przed wyjściem ___ obiad. (zamówić, ona, past)",
+      "answers": [
+        "zamówiła"
+      ],
+      "explanation": "The form zamówiła matches ona, past."
+    },
+    {
+      "prompt": "Wczoraj rano ___ kolację. (zjeść, ona, past)",
+      "answers": [
+        "zjadła"
+      ],
+      "explanation": "The form zjadła matches ona, past."
+    },
+    {
+      "prompt": "W zeszłym tygodniu ___ kolację. (zjeść, oni, past, group of men)",
+      "answers": [
+        "zjedli"
+      ],
+      "explanation": "The form zjedli matches oni, past, group of men."
+    },
+    {
+      "prompt": "Czy jutro ___ kolację? (zjeść, ty, future)",
+      "answers": [
+        "zjesz"
+      ],
+      "explanation": "The form zjesz matches ty, future."
+    },
+    {
+      "prompt": "Przed wyjściem ___ kolację. (zjeść, ona, past)",
+      "answers": [
+        "zjadła"
+      ],
+      "explanation": "The form zjadła matches ona, past."
+    },
+    {
+      "prompt": "Wczoraj rano ___ książkę. (oddać, ona, past)",
+      "answers": [
+        "oddała"
+      ],
+      "explanation": "The form oddała matches ona, past."
+    },
+    {
+      "prompt": "W zeszłym tygodniu ___ książkę. (oddać, oni, past, group of men)",
+      "answers": [
+        "oddali"
+      ],
+      "explanation": "The form oddali matches oni, past, group of men."
+    },
+    {
+      "prompt": "Czy jutro ___ książkę? (oddać, ty, future)",
+      "answers": [
+        "oddasz"
+      ],
+      "explanation": "The form oddasz matches ty, future."
+    },
+    {
+      "prompt": "Przed wyjściem ___ książkę. (oddać, ona, past)",
+      "answers": [
+        "oddała"
+      ],
+      "explanation": "The form oddała matches ona, past."
+    },
+    {
+      "prompt": "Wczoraj rano ___ okno. (otworzyć, ona, past)",
+      "answers": [
+        "otworzyła"
+      ],
+      "explanation": "The form otworzyła matches ona, past."
+    },
+    {
+      "prompt": "W zeszłym tygodniu ___ okno. (otworzyć, oni, past, group of men)",
+      "answers": [
+        "otworzyli"
+      ],
+      "explanation": "The form otworzyli matches oni, past, group of men."
+    },
+    {
+      "prompt": "Czy jutro ___ okno? (otworzyć, ty, future)",
+      "answers": [
+        "otworzysz"
+      ],
+      "explanation": "The form otworzysz matches ty, future."
+    },
+    {
+      "prompt": "Przed wyjściem ___ okno. (otworzyć, ona, past)",
+      "answers": [
+        "otworzyła"
+      ],
+      "explanation": "The form otworzyła matches ona, past."
+    },
+    {
+      "prompt": "Wczoraj rano ___ sklep. (zamknąć, ona, past)",
+      "answers": [
+        "zamknęła"
+      ],
+      "explanation": "The form zamknęła matches ona, past."
+    },
+    {
+      "prompt": "W zeszłym tygodniu ___ sklep. (zamknąć, oni, past, group of men)",
+      "answers": [
+        "zamknęli"
+      ],
+      "explanation": "The form zamknęli matches oni, past, group of men."
+    },
+    {
+      "prompt": "Czy jutro ___ sklep? (zamknąć, ty, future)",
+      "answers": [
+        "zamkniesz"
+      ],
+      "explanation": "The form zamkniesz matches ty, future."
+    },
+    {
+      "prompt": "Przed wyjściem ___ sklep. (zamknąć, ona, past)",
+      "answers": [
+        "zamknęła"
+      ],
+      "explanation": "The form zamknęła matches ona, past."
+    },
+    {
+      "prompt": "Wczoraj rano ___ zakupy. (zrobić, ona, past)",
+      "answers": [
+        "zrobiła"
+      ],
+      "explanation": "The form zrobiła matches ona, past."
+    },
+    {
+      "prompt": "W zeszłym tygodniu ___ zakupy. (zrobić, oni, past, group of men)",
+      "answers": [
+        "zrobili"
+      ],
+      "explanation": "The form zrobili matches oni, past, group of men."
+    },
+    {
+      "prompt": "Czy jutro ___ zakupy? (zrobić, ty, future)",
+      "answers": [
+        "zrobisz"
+      ],
+      "explanation": "The form zrobisz matches ty, future."
+    },
+    {
+      "prompt": "Przed wyjściem ___ zakupy. (zrobić, ona, past)",
+      "answers": [
+        "zrobiła"
+      ],
+      "explanation": "The form zrobiła matches ona, past."
+    },
+    {
+      "prompt": "Wczoraj rano ___ rachunek. (zapłacić, ona, past)",
+      "answers": [
+        "zapłaciła"
+      ],
+      "explanation": "The form zapłaciła matches ona, past."
+    },
+    {
+      "prompt": "W zeszłym tygodniu ___ rachunek. (zapłacić, oni, past, group of men)",
+      "answers": [
+        "zapłacili"
+      ],
+      "explanation": "The form zapłacili matches oni, past, group of men."
+    },
+    {
+      "prompt": "Czy jutro ___ rachunek? (zapłacić, ty, future)",
+      "answers": [
+        "zapłacisz"
+      ],
+      "explanation": "The form zapłacisz matches ty, future."
+    },
+    {
+      "prompt": "Przed wyjściem ___ rachunek. (zapłacić, ona, past)",
+      "answers": [
+        "zapłaciła"
+      ],
+      "explanation": "The form zapłaciła matches ona, past."
+    }
+  ],
+  "B1": [
+    {
+      "prompt": "Kiedy zadzwoniłeś, właśnie ___ obiad. (ja, gotować, past, feminine)",
+      "answers": [
+        "gotowałam"
+      ],
+      "explanation": "Imperfective gotować describes an ongoing action in the past."
+    },
+    {
+      "prompt": "Do jutra ___ cały raport. (my, napisać, future)",
+      "answers": [
+        "napiszemy"
+      ],
+      "explanation": "Perfective napisać presents the report as completed."
+    },
+    {
+      "prompt": "W zeszłym roku regularnie ___ na basen. (oni, chodzić, past, masculine personal)",
+      "answers": [
+        "chodzili"
+      ],
+      "explanation": "Chodzili describes a repeated past activity for a masculine-personal group."
+    },
+    {
+      "prompt": "Kiedy weszłam do kuchni, dzieci właśnie ___ kolację. (jeść, past)",
+      "answers": [
+        "jadły"
+      ],
+      "explanation": "The imperfective verb describes an ongoing action. Dzieci takes jadły."
+    },
+    {
+      "prompt": "W końcu ___ ostatni rozdział. (ja, przeczytać, past, feminine)",
+      "answers": [
+        "przeczytałam"
+      ],
+      "explanation": "Perfective przeczytać presents the chapter as finished."
+    },
+    {
+      "prompt": "Co tydzień ___ do babci. (my, jeździć, past, mixed group)",
+      "answers": [
+        "jeździliśmy"
+      ],
+      "explanation": "The imperfective past describes a repeated trip."
+    },
+    {
+      "prompt": "Gdy tylko ___ pracę, wyślę ci plik. (ja, skończyć, future)",
+      "answers": [
+        "skończę"
+      ],
+      "explanation": "The perfective future marks completion before sending the file."
+    },
+    {
+      "prompt": "Nie dzwoń o ósmej. Wtedy ___ raport. (ja, pisać, future, feminine)",
+      "answers": [
+        "będę pisać",
+        "będę pisała"
+      ],
+      "explanation": "The imperfective future describes what will be in progress at eight."
+    },
+    {
+      "prompt": "Do końca dnia ___ wszystkie dokumenty. (oni, wysłać, future)",
+      "answers": [
+        "wyślą"
+      ],
+      "explanation": "The perfective form wyślą indicates a completed result by a deadline."
+    },
+    {
+      "prompt": "Kiedyś ___ tu codziennie rano. (ja, przychodzić, past, masculine)",
+      "answers": [
+        "przychodziłem"
+      ],
+      "explanation": "The imperfective past expresses the former habit."
+    },
+    {
+      "prompt": "Odkąd tu mieszkam, regularnie ___ na siłownię. (ja, chodzić, present)",
+      "answers": [
+        "chodzę"
+      ],
+      "explanation": "Use the present for a habit that continues now."
+    },
+    {
+      "prompt": "Kiedy zadzwoniłeś, właśnie ___ raport. (ja, pisać, past, feminine)",
+      "answers": [
+        "pisałam"
+      ],
+      "explanation": "The imperfective past describes an action in progress."
+    },
+    {
+      "prompt": "W końcu ___ raport. (ja, napisać, past, feminine)",
+      "answers": [
+        "napisałam"
+      ],
+      "explanation": "The perfective past presents the action as completed."
+    },
+    {
+      "prompt": "Kiedy zadzwoniłeś, właśnie ___ artykuł. (ja, czytać, past, feminine)",
+      "answers": [
+        "czytałam"
+      ],
+      "explanation": "The imperfective past describes an action in progress."
+    },
+    {
+      "prompt": "W końcu ___ artykuł. (ja, przeczytać, past, feminine)",
+      "answers": [
+        "przeczytałam"
+      ],
+      "explanation": "The perfective past presents the action as completed."
+    },
+    {
+      "prompt": "Kiedy zadzwoniłeś, właśnie ___ listę. (ja, sprawdzać, past, feminine)",
+      "answers": [
+        "sprawdzałam"
+      ],
+      "explanation": "The imperfective past describes an action in progress."
+    },
+    {
+      "prompt": "W końcu ___ listę. (ja, sprawdzić, past, feminine)",
+      "answers": [
+        "sprawdziłam"
+      ],
+      "explanation": "The perfective past presents the action as completed."
+    },
+    {
+      "prompt": "Kiedy zadzwoniłeś, właśnie ___ tekst. (ja, poprawiać, past, feminine)",
+      "answers": [
+        "poprawiałam"
+      ],
+      "explanation": "The imperfective past describes an action in progress."
+    },
+    {
+      "prompt": "W końcu ___ tekst. (ja, poprawić, past, feminine)",
+      "answers": [
+        "poprawiłam"
+      ],
+      "explanation": "The perfective past presents the action as completed."
+    },
+    {
+      "prompt": "Kiedy zadzwoniłeś, właśnie ___ dokument. (ja, tłumaczyć, past, feminine)",
+      "answers": [
+        "tłumaczyłam"
+      ],
+      "explanation": "The imperfective past describes an action in progress."
+    },
+    {
+      "prompt": "W końcu ___ dokument. (ja, przetłumaczyć, past, feminine)",
+      "answers": [
+        "przetłumaczyłam"
+      ],
+      "explanation": "The perfective past presents the action as completed."
+    },
+    {
+      "prompt": "Kiedy zadzwoniłeś, właśnie ___ notatki. (ja, porządkować, past, feminine)",
+      "answers": [
+        "porządkowałam"
+      ],
+      "explanation": "The imperfective past describes an action in progress."
+    },
+    {
+      "prompt": "Do jutra ___ notatki. (ja, uporządkować, future)",
+      "answers": [
+        "uporządkuję"
+      ],
+      "explanation": "The perfective future presents the action as complete by a deadline."
+    },
+    {
+      "prompt": "Kiedy zadzwoniłeś, właśnie ___ materiały. (ja, przeglądać, past, feminine)",
+      "answers": [
+        "przeglądałam"
+      ],
+      "explanation": "The imperfective past describes an action in progress."
+    },
+    {
+      "prompt": "Do jutra ___ materiały. (ja, przejrzeć, future)",
+      "answers": [
+        "przejrzę"
+      ],
+      "explanation": "The perfective future presents the action as complete by a deadline."
+    },
+    {
+      "prompt": "Kiedy zadzwoniłeś, właśnie ___ formularz. (ja, uzupełniać, past, feminine)",
+      "answers": [
+        "uzupełniałam"
+      ],
+      "explanation": "The imperfective past describes an action in progress."
+    },
+    {
+      "prompt": "Do jutra ___ formularz. (ja, uzupełnić, future)",
+      "answers": [
+        "uzupełnię"
+      ],
+      "explanation": "The perfective future presents the action as complete by a deadline."
+    },
+    {
+      "prompt": "Kiedy zadzwoniłeś, właśnie ___ prezentację. (ja, przygotowywać, past, feminine)",
+      "answers": [
+        "przygotowywałam"
+      ],
+      "explanation": "The imperfective past describes an action in progress."
+    },
+    {
+      "prompt": "Do jutra ___ prezentację. (ja, przygotować, future)",
+      "answers": [
+        "przygotuję"
+      ],
+      "explanation": "The perfective future presents the action as complete by a deadline."
+    },
+    {
+      "prompt": "Kiedy zadzwoniłeś, właśnie ___ wydatki. (ja, liczyć, past, feminine)",
+      "answers": [
+        "liczyłam"
+      ],
+      "explanation": "The imperfective past describes an action in progress."
+    },
+    {
+      "prompt": "Do jutra ___ wydatki. (ja, policzyć, future)",
+      "answers": [
+        "policzę"
+      ],
+      "explanation": "The perfective future presents the action as complete by a deadline."
+    },
+    {
+      "prompt": "Cały wieczór ___ raport. (ja, pisać, past, feminine)",
+      "answers": [
+        "pisałam"
+      ],
+      "explanation": "The imperfective past describes an activity over a period."
+    },
+    {
+      "prompt": "Przed spotkaniem już ___ raport. (ja, napisać, past, feminine)",
+      "answers": [
+        "napisałam"
+      ],
+      "explanation": "The perfective past describes a completed action."
+    },
+    {
+      "prompt": "Dziś po pracy ___ raport. (ja, pisać, future, feminine)",
+      "answers": [
+        "będę pisać",
+        "będę pisałam"
+      ],
+      "explanation": "Use będę with either the infinitive or the feminine past form."
+    },
+    {
+      "prompt": "Obiecuję, że jeszcze dziś ___ raport. (ja, napisać, future)",
+      "answers": [
+        "napiszę"
+      ],
+      "explanation": "The perfective future presents a completed result."
+    },
+    {
+      "prompt": "Cały wieczór ___ artykuł. (ja, czytać, past, feminine)",
+      "answers": [
+        "czytałam"
+      ],
+      "explanation": "The imperfective past describes an activity over a period."
+    },
+    {
+      "prompt": "Przed spotkaniem już ___ artykuł. (ja, przeczytać, past, feminine)",
+      "answers": [
+        "przeczytałam"
+      ],
+      "explanation": "The perfective past describes a completed action."
+    },
+    {
+      "prompt": "Dziś po pracy ___ artykuł. (ja, czytać, future, feminine)",
+      "answers": [
+        "będę czytać",
+        "będę czytałam"
+      ],
+      "explanation": "Use będę with either the infinitive or the feminine past form."
+    },
+    {
+      "prompt": "Obiecuję, że jeszcze dziś ___ artykuł. (ja, przeczytać, future)",
+      "answers": [
+        "przeczytam"
+      ],
+      "explanation": "The perfective future presents a completed result."
+    },
+    {
+      "prompt": "Cały wieczór ___ listę. (ja, sprawdzać, past, feminine)",
+      "answers": [
+        "sprawdzałam"
+      ],
+      "explanation": "The imperfective past describes an activity over a period."
+    },
+    {
+      "prompt": "Przed spotkaniem już ___ listę. (ja, sprawdzić, past, feminine)",
+      "answers": [
+        "sprawdziłam"
+      ],
+      "explanation": "The perfective past describes a completed action."
+    },
+    {
+      "prompt": "Dziś po pracy ___ listę. (ja, sprawdzać, future, feminine)",
+      "answers": [
+        "będę sprawdzać",
+        "będę sprawdzałam"
+      ],
+      "explanation": "Use będę with either the infinitive or the feminine past form."
+    },
+    {
+      "prompt": "Obiecuję, że jeszcze dziś ___ listę. (ja, sprawdzić, future)",
+      "answers": [
+        "sprawdzę"
+      ],
+      "explanation": "The perfective future presents a completed result."
+    },
+    {
+      "prompt": "Cały wieczór ___ tekst. (ja, poprawiać, past, feminine)",
+      "answers": [
+        "poprawiałam"
+      ],
+      "explanation": "The imperfective past describes an activity over a period."
+    },
+    {
+      "prompt": "Przed spotkaniem już ___ tekst. (ja, poprawić, past, feminine)",
+      "answers": [
+        "poprawiłam"
+      ],
+      "explanation": "The perfective past describes a completed action."
+    },
+    {
+      "prompt": "Dziś po pracy ___ tekst. (ja, poprawiać, future, feminine)",
+      "answers": [
+        "będę poprawiać",
+        "będę poprawiałam"
+      ],
+      "explanation": "Use będę with either the infinitive or the feminine past form."
+    },
+    {
+      "prompt": "Obiecuję, że jeszcze dziś ___ tekst. (ja, poprawić, future)",
+      "answers": [
+        "poprawię"
+      ],
+      "explanation": "The perfective future presents a completed result."
+    },
+    {
+      "prompt": "Cały wieczór ___ dokument. (ja, tłumaczyć, past, feminine)",
+      "answers": [
+        "tłumaczyłam"
+      ],
+      "explanation": "The imperfective past describes an activity over a period."
+    },
+    {
+      "prompt": "Przed spotkaniem już ___ dokument. (ja, przetłumaczyć, past, feminine)",
+      "answers": [
+        "przetłumaczyłam"
+      ],
+      "explanation": "The perfective past describes a completed action."
+    },
+    {
+      "prompt": "Dziś po pracy ___ dokument. (ja, tłumaczyć, future, feminine)",
+      "answers": [
+        "będę tłumaczyć",
+        "będę tłumaczyłam"
+      ],
+      "explanation": "Use będę with either the infinitive or the feminine past form."
+    },
+    {
+      "prompt": "Obiecuję, że jeszcze dziś ___ dokument. (ja, przetłumaczyć, future)",
+      "answers": [
+        "przetłumaczę"
+      ],
+      "explanation": "The perfective future presents a completed result."
+    },
+    {
+      "prompt": "Cały wieczór ___ notatki. (ja, porządkować, past, feminine)",
+      "answers": [
+        "porządkowałam"
+      ],
+      "explanation": "The imperfective past describes an activity over a period."
+    },
+    {
+      "prompt": "Przed spotkaniem już ___ notatki. (ja, uporządkować, past, feminine)",
+      "answers": [
+        "uporządkowałam"
+      ],
+      "explanation": "The perfective past describes a completed action."
+    },
+    {
+      "prompt": "Dziś po pracy ___ notatki. (ja, porządkować, future, feminine)",
+      "answers": [
+        "będę porządkować",
+        "będę porządkowałam"
+      ],
+      "explanation": "Use będę with either the infinitive or the feminine past form."
+    },
+    {
+      "prompt": "Obiecuję, że jeszcze dziś ___ notatki. (ja, uporządkować, future)",
+      "answers": [
+        "uporządkuję"
+      ],
+      "explanation": "The perfective future presents a completed result."
+    },
+    {
+      "prompt": "Cały wieczór ___ materiały. (ja, przeglądać, past, feminine)",
+      "answers": [
+        "przeglądałam"
+      ],
+      "explanation": "The imperfective past describes an activity over a period."
+    },
+    {
+      "prompt": "Przed spotkaniem już ___ materiały. (ja, przejrzeć, past, feminine)",
+      "answers": [
+        "przejrzałam"
+      ],
+      "explanation": "The perfective past describes a completed action."
+    },
+    {
+      "prompt": "Dziś po pracy ___ materiały. (ja, przeglądać, future, feminine)",
+      "answers": [
+        "będę przeglądać",
+        "będę przeglądałam"
+      ],
+      "explanation": "Use będę with either the infinitive or the feminine past form."
+    },
+    {
+      "prompt": "Obiecuję, że jeszcze dziś ___ materiały. (ja, przejrzeć, future)",
+      "answers": [
+        "przejrzę"
+      ],
+      "explanation": "The perfective future presents a completed result."
+    },
+    {
+      "prompt": "Cały wieczór ___ formularz. (ja, uzupełniać, past, feminine)",
+      "answers": [
+        "uzupełniałam"
+      ],
+      "explanation": "The imperfective past describes an activity over a period."
+    },
+    {
+      "prompt": "Przed spotkaniem już ___ formularz. (ja, uzupełnić, past, feminine)",
+      "answers": [
+        "uzupełniłam"
+      ],
+      "explanation": "The perfective past describes a completed action."
+    },
+    {
+      "prompt": "Dziś po pracy ___ formularz. (ja, uzupełniać, future, feminine)",
+      "answers": [
+        "będę uzupełniać",
+        "będę uzupełniałam"
+      ],
+      "explanation": "Use będę with either the infinitive or the feminine past form."
+    },
+    {
+      "prompt": "Obiecuję, że jeszcze dziś ___ formularz. (ja, uzupełnić, future)",
+      "answers": [
+        "uzupełnię"
+      ],
+      "explanation": "The perfective future presents a completed result."
+    },
+    {
+      "prompt": "Cały wieczór ___ prezentację. (ja, przygotowywać, past, feminine)",
+      "answers": [
+        "przygotowywałam"
+      ],
+      "explanation": "The imperfective past describes an activity over a period."
+    },
+    {
+      "prompt": "Przed spotkaniem już ___ prezentację. (ja, przygotować, past, feminine)",
+      "answers": [
+        "przygotowałam"
+      ],
+      "explanation": "The perfective past describes a completed action."
+    },
+    {
+      "prompt": "Dziś po pracy ___ prezentację. (ja, przygotowywać, future, feminine)",
+      "answers": [
+        "będę przygotowywać",
+        "będę przygotowywałam"
+      ],
+      "explanation": "Use będę with either the infinitive or the feminine past form."
+    },
+    {
+      "prompt": "Obiecuję, że jeszcze dziś ___ prezentację. (ja, przygotować, future)",
+      "answers": [
+        "przygotuję"
+      ],
+      "explanation": "The perfective future presents a completed result."
+    },
+    {
+      "prompt": "Cały wieczór ___ wydatki. (ja, liczyć, past, feminine)",
+      "answers": [
+        "liczyłam"
+      ],
+      "explanation": "The imperfective past describes an activity over a period."
+    },
+    {
+      "prompt": "Przed spotkaniem już ___ wydatki. (ja, policzyć, past, feminine)",
+      "answers": [
+        "policzyłam"
+      ],
+      "explanation": "The perfective past describes a completed action."
+    },
+    {
+      "prompt": "Dziś po pracy ___ wydatki. (ja, liczyć, future, feminine)",
+      "answers": [
+        "będę liczyć",
+        "będę liczyłam"
+      ],
+      "explanation": "Use będę with either the infinitive or the feminine past form."
+    },
+    {
+      "prompt": "Obiecuję, że jeszcze dziś ___ wydatki. (ja, policzyć, future)",
+      "answers": [
+        "policzę"
+      ],
+      "explanation": "The perfective future presents a completed result."
+    },
+    {
+      "prompt": "Cały wieczór ___ schemat. (ja, rysować, past, feminine)",
+      "answers": [
+        "rysowałam"
+      ],
+      "explanation": "The imperfective past describes an activity over a period."
+    },
+    {
+      "prompt": "Przed spotkaniem już ___ schemat. (ja, narysować, past, feminine)",
+      "answers": [
+        "narysowałam"
+      ],
+      "explanation": "The perfective past describes a completed action."
+    },
+    {
+      "prompt": "Dziś po pracy ___ schemat. (ja, rysować, future, feminine)",
+      "answers": [
+        "będę rysować",
+        "będę rysowałam"
+      ],
+      "explanation": "Use będę with either the infinitive or the feminine past form."
+    },
+    {
+      "prompt": "Obiecuję, że jeszcze dziś ___ schemat. (ja, narysować, future)",
+      "answers": [
+        "narysuję"
+      ],
+      "explanation": "The perfective future presents a completed result."
+    }
+  ],
+  "B2": [
+    {
+      "prompt": "Do chwili publikacji zespół ___ wszystkie wyniki. (zweryfikować, future)",
+      "answers": [
+        "zweryfikuje"
+      ],
+      "explanation": "The perfective future marks completion before publication."
+    },
+    {
+      "prompt": "Zanim podjęliśmy decyzję, przez kilka tygodni ___ różne opcje. (my, rozważać, past, masculine personal)",
+      "answers": [
+        "rozważaliśmy"
+      ],
+      "explanation": "The imperfective past describes the process over several weeks."
+    },
+    {
+      "prompt": "W tej chwili projekt ___ przez niezależnych ekspertów. (oceniać, present passive)",
+      "answers": [
+        "jest oceniany"
+      ],
+      "explanation": "Use jest plus the passive participle to describe an ongoing assessment."
+    },
+    {
+      "prompt": "Protokół ___ wczoraj przez komisję. (zatwierdzić, past passive)",
+      "answers": [
+        "został zatwierdzony"
+      ],
+      "explanation": "Został plus a passive participle describes a completed event."
+    },
+    {
+      "prompt": "Dokumenty ___ jutro przez sekretariat. (wysłać, future passive)",
+      "answers": [
+        "zostaną wysłane"
+      ],
+      "explanation": "Use zostaną with the passive participle for the plural future event."
+    },
+    {
+      "prompt": "W tej chwili wyniki ___ przez komisję. (analizować, present passive)",
+      "answers": [
+        "są analizowane"
+      ],
+      "explanation": "The present passive uses są and a participle agreeing with wyniki."
+    },
+    {
+      "prompt": "Gdy wróciliśmy, komisja już ___ decyzję. (podjąć, past)",
+      "answers": [
+        "podjęła"
+      ],
+      "explanation": "Perfective podjęła and już present the decision as complete by our return."
+    },
+    {
+      "prompt": "Przez cały przyszły miesiąc ___ wyniki. (my, analizować, future, mixed group)",
+      "answers": [
+        "będziemy analizować",
+        "będziemy analizowali"
+      ],
+      "explanation": "The imperfective future describes an ongoing process over the month."
+    },
+    {
+      "prompt": "Do końca kwartału ___ projekt w trzech oddziałach. (my, wdrożyć, future)",
+      "answers": [
+        "wdrożymy"
+      ],
+      "explanation": "The perfective future presents implementation as a result by the deadline."
+    },
+    {
+      "prompt": "Zanim ją awansowano, przez pięć lat ___ zespołem. (ona, kierować, past)",
+      "answers": [
+        "kierowała"
+      ],
+      "explanation": "The imperfective past describes a role held over a period."
+    },
+    {
+      "prompt": "Kiedy weszliśmy do sali, właśnie ___ projekt. (oni, omawiać, past)",
+      "answers": [
+        "omawiali"
+      ],
+      "explanation": "Omawiali describes an activity already in progress when we entered."
+    },
+    {
+      "prompt": "Raport ___ właśnie przez zespół. (analizować, present passive)",
+      "answers": [
+        "jest analizowany"
+      ],
+      "explanation": "Use jest and a passive participle to describe an ongoing action."
+    },
+    {
+      "prompt": "Raport ___ wczoraj przez zespół. (przeanalizować, past passive with zostać)",
+      "answers": [
+        "został przeanalizowany"
+      ],
+      "explanation": "Use the past form of zostać and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Wniosek ___ właśnie przez zespół. (oceniać, present passive)",
+      "answers": [
+        "jest oceniany"
+      ],
+      "explanation": "Use jest and a passive participle to describe an ongoing action."
+    },
+    {
+      "prompt": "Wniosek ___ wczoraj przez zespół. (ocenić, past passive with zostać)",
+      "answers": [
+        "został oceniony"
+      ],
+      "explanation": "Use the past form of zostać and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Umowa ___ właśnie przez zespół. (sprawdzać, present passive)",
+      "answers": [
+        "jest sprawdzana"
+      ],
+      "explanation": "Use jest and a passive participle to describe an ongoing action."
+    },
+    {
+      "prompt": "Umowa ___ wczoraj przez zespół. (sprawdzić, past passive with zostać)",
+      "answers": [
+        "została sprawdzona"
+      ],
+      "explanation": "Use the past form of zostać and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Dokumentacja ___ właśnie przez zespół. (weryfikować, present passive)",
+      "answers": [
+        "jest weryfikowana"
+      ],
+      "explanation": "Use jest and a passive participle to describe an ongoing action."
+    },
+    {
+      "prompt": "Dokumentacja ___ wczoraj przez zespół. (zweryfikować, past passive with zostać)",
+      "answers": [
+        "została zweryfikowana"
+      ],
+      "explanation": "Use the past form of zostać and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Projekt ___ właśnie przez zespół. (opracowywać, present passive)",
+      "answers": [
+        "jest opracowywany"
+      ],
+      "explanation": "Use jest and a passive participle to describe an ongoing action."
+    },
+    {
+      "prompt": "Projekt ___ wczoraj przez zespół. (opracować, past passive with zostać)",
+      "answers": [
+        "został opracowany"
+      ],
+      "explanation": "Use the past form of zostać and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Zestawienie ___ właśnie przez zespół. (przygotowywać, present passive)",
+      "answers": [
+        "jest przygotowywane"
+      ],
+      "explanation": "Use jest and a passive participle to describe an ongoing action."
+    },
+    {
+      "prompt": "Zestawienie ___ jutro przez zespół. (przygotować, future passive with zostać)",
+      "answers": [
+        "zostanie przygotowane"
+      ],
+      "explanation": "Use zostanie and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Procedura ___ właśnie przez zespół. (wdrażać, present passive)",
+      "answers": [
+        "jest wdrażana"
+      ],
+      "explanation": "Use jest and a passive participle to describe an ongoing action."
+    },
+    {
+      "prompt": "Procedura ___ jutro przez zespół. (wdrożyć, future passive with zostać)",
+      "answers": [
+        "zostanie wdrożona"
+      ],
+      "explanation": "Use zostanie and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Tekst ___ właśnie przez zespół. (redagować, present passive)",
+      "answers": [
+        "jest redagowany"
+      ],
+      "explanation": "Use jest and a passive participle to describe an ongoing action."
+    },
+    {
+      "prompt": "Tekst ___ jutro przez zespół. (zredagować, future passive with zostać)",
+      "answers": [
+        "zostanie zredagowany"
+      ],
+      "explanation": "Use zostanie and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Sprawozdanie ___ właśnie przez zespół. (recenzować, present passive)",
+      "answers": [
+        "jest recenzowane"
+      ],
+      "explanation": "Use jest and a passive participle to describe an ongoing action."
+    },
+    {
+      "prompt": "Sprawozdanie ___ jutro przez zespół. (zrecenzować, future passive with zostać)",
+      "answers": [
+        "zostanie zrecenzowane"
+      ],
+      "explanation": "Use zostanie and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Lista ___ właśnie przez zespół. (aktualizować, present passive)",
+      "answers": [
+        "jest aktualizowana"
+      ],
+      "explanation": "Use jest and a passive participle to describe an ongoing action."
+    },
+    {
+      "prompt": "Lista ___ jutro przez zespół. (zaktualizować, future passive with zostać)",
+      "answers": [
+        "zostanie zaktualizowana"
+      ],
+      "explanation": "Use zostanie and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Raport ___ przez cały zeszły tydzień. (analizować, past passive with być)",
+      "answers": [
+        "był analizowany"
+      ],
+      "explanation": "Use past być and the imperfective passive participle for the ongoing process."
+    },
+    {
+      "prompt": "Raport ___ przez cały przyszły tydzień. (analizować, future passive with być)",
+      "answers": [
+        "będzie analizowany"
+      ],
+      "explanation": "Use będzie with a participle agreeing with the singular subject."
+    },
+    {
+      "prompt": "Raport ___ już przez zespół. (przeanalizować, present result with być)",
+      "answers": [
+        "jest przeanalizowany"
+      ],
+      "explanation": "Use jest and the perfective passive participle for a current result."
+    },
+    {
+      "prompt": "Raport ___ przed publikacją. (przeanalizować, future passive with zostać)",
+      "answers": [
+        "zostanie przeanalizowany"
+      ],
+      "explanation": "Use zostanie and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Wniosek ___ przez cały zeszły tydzień. (oceniać, past passive with być)",
+      "answers": [
+        "był oceniany"
+      ],
+      "explanation": "Use past być and the imperfective passive participle for the ongoing process."
+    },
+    {
+      "prompt": "Wniosek ___ przez cały przyszły tydzień. (oceniać, future passive with być)",
+      "answers": [
+        "będzie oceniany"
+      ],
+      "explanation": "Use będzie with a participle agreeing with the singular subject."
+    },
+    {
+      "prompt": "Wniosek ___ już przez zespół. (ocenić, present result with być)",
+      "answers": [
+        "jest oceniony"
+      ],
+      "explanation": "Use jest and the perfective passive participle for a current result."
+    },
+    {
+      "prompt": "Wniosek ___ przed publikacją. (ocenić, future passive with zostać)",
+      "answers": [
+        "zostanie oceniony"
+      ],
+      "explanation": "Use zostanie and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Umowa ___ przez cały zeszły tydzień. (sprawdzać, past passive with być)",
+      "answers": [
+        "była sprawdzana"
+      ],
+      "explanation": "Use past być and the imperfective passive participle for the ongoing process."
+    },
+    {
+      "prompt": "Umowa ___ przez cały przyszły tydzień. (sprawdzać, future passive with być)",
+      "answers": [
+        "będzie sprawdzana"
+      ],
+      "explanation": "Use będzie with a participle agreeing with the singular subject."
+    },
+    {
+      "prompt": "Umowa ___ już przez zespół. (sprawdzić, present result with być)",
+      "answers": [
+        "jest sprawdzona"
+      ],
+      "explanation": "Use jest and the perfective passive participle for a current result."
+    },
+    {
+      "prompt": "Umowa ___ przed publikacją. (sprawdzić, future passive with zostać)",
+      "answers": [
+        "zostanie sprawdzona"
+      ],
+      "explanation": "Use zostanie and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Dokumentacja ___ przez cały zeszły tydzień. (weryfikować, past passive with być)",
+      "answers": [
+        "była weryfikowana"
+      ],
+      "explanation": "Use past być and the imperfective passive participle for the ongoing process."
+    },
+    {
+      "prompt": "Dokumentacja ___ przez cały przyszły tydzień. (weryfikować, future passive with być)",
+      "answers": [
+        "będzie weryfikowana"
+      ],
+      "explanation": "Use będzie with a participle agreeing with the singular subject."
+    },
+    {
+      "prompt": "Dokumentacja ___ już przez zespół. (zweryfikować, present result with być)",
+      "answers": [
+        "jest zweryfikowana"
+      ],
+      "explanation": "Use jest and the perfective passive participle for a current result."
+    },
+    {
+      "prompt": "Dokumentacja ___ przed publikacją. (zweryfikować, future passive with zostać)",
+      "answers": [
+        "zostanie zweryfikowana"
+      ],
+      "explanation": "Use zostanie and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Projekt ___ przez cały zeszły tydzień. (opracowywać, past passive with być)",
+      "answers": [
+        "był opracowywany"
+      ],
+      "explanation": "Use past być and the imperfective passive participle for the ongoing process."
+    },
+    {
+      "prompt": "Projekt ___ przez cały przyszły tydzień. (opracowywać, future passive with być)",
+      "answers": [
+        "będzie opracowywany"
+      ],
+      "explanation": "Use będzie with a participle agreeing with the singular subject."
+    },
+    {
+      "prompt": "Projekt ___ już przez zespół. (opracować, present result with być)",
+      "answers": [
+        "jest opracowany"
+      ],
+      "explanation": "Use jest and the perfective passive participle for a current result."
+    },
+    {
+      "prompt": "Projekt ___ przed publikacją. (opracować, future passive with zostać)",
+      "answers": [
+        "zostanie opracowany"
+      ],
+      "explanation": "Use zostanie and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Zestawienie ___ przez cały zeszły tydzień. (przygotowywać, past passive with być)",
+      "answers": [
+        "było przygotowywane"
+      ],
+      "explanation": "Use past być and the imperfective passive participle for the ongoing process."
+    },
+    {
+      "prompt": "Zestawienie ___ przez cały przyszły tydzień. (przygotowywać, future passive with być)",
+      "answers": [
+        "będzie przygotowywane"
+      ],
+      "explanation": "Use będzie with a participle agreeing with the singular subject."
+    },
+    {
+      "prompt": "Zestawienie ___ już przez zespół. (przygotować, present result with być)",
+      "answers": [
+        "jest przygotowane"
+      ],
+      "explanation": "Use jest and the perfective passive participle for a current result."
+    },
+    {
+      "prompt": "Zestawienie ___ przed publikacją. (przygotować, future passive with zostać)",
+      "answers": [
+        "zostanie przygotowane"
+      ],
+      "explanation": "Use zostanie and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Procedura ___ przez cały zeszły tydzień. (wdrażać, past passive with być)",
+      "answers": [
+        "była wdrażana"
+      ],
+      "explanation": "Use past być and the imperfective passive participle for the ongoing process."
+    },
+    {
+      "prompt": "Procedura ___ przez cały przyszły tydzień. (wdrażać, future passive with być)",
+      "answers": [
+        "będzie wdrażana"
+      ],
+      "explanation": "Use będzie with a participle agreeing with the singular subject."
+    },
+    {
+      "prompt": "Procedura ___ już przez zespół. (wdrożyć, present result with być)",
+      "answers": [
+        "jest wdrożona"
+      ],
+      "explanation": "Use jest and the perfective passive participle for a current result."
+    },
+    {
+      "prompt": "Procedura ___ przed publikacją. (wdrożyć, future passive with zostać)",
+      "answers": [
+        "zostanie wdrożona"
+      ],
+      "explanation": "Use zostanie and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Tekst ___ przez cały zeszły tydzień. (redagować, past passive with być)",
+      "answers": [
+        "był redagowany"
+      ],
+      "explanation": "Use past być and the imperfective passive participle for the ongoing process."
+    },
+    {
+      "prompt": "Tekst ___ przez cały przyszły tydzień. (redagować, future passive with być)",
+      "answers": [
+        "będzie redagowany"
+      ],
+      "explanation": "Use będzie with a participle agreeing with the singular subject."
+    },
+    {
+      "prompt": "Tekst ___ już przez zespół. (zredagować, present result with być)",
+      "answers": [
+        "jest zredagowany"
+      ],
+      "explanation": "Use jest and the perfective passive participle for a current result."
+    },
+    {
+      "prompt": "Tekst ___ przed publikacją. (zredagować, future passive with zostać)",
+      "answers": [
+        "zostanie zredagowany"
+      ],
+      "explanation": "Use zostanie and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Sprawozdanie ___ przez cały zeszły tydzień. (recenzować, past passive with być)",
+      "answers": [
+        "było recenzowane"
+      ],
+      "explanation": "Use past być and the imperfective passive participle for the ongoing process."
+    },
+    {
+      "prompt": "Sprawozdanie ___ przez cały przyszły tydzień. (recenzować, future passive with być)",
+      "answers": [
+        "będzie recenzowane"
+      ],
+      "explanation": "Use będzie with a participle agreeing with the singular subject."
+    },
+    {
+      "prompt": "Sprawozdanie ___ już przez zespół. (zrecenzować, present result with być)",
+      "answers": [
+        "jest zrecenzowane"
+      ],
+      "explanation": "Use jest and the perfective passive participle for a current result."
+    },
+    {
+      "prompt": "Sprawozdanie ___ przed publikacją. (zrecenzować, future passive with zostać)",
+      "answers": [
+        "zostanie zrecenzowane"
+      ],
+      "explanation": "Use zostanie and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Lista ___ przez cały zeszły tydzień. (aktualizować, past passive with być)",
+      "answers": [
+        "była aktualizowana"
+      ],
+      "explanation": "Use past być and the imperfective passive participle for the ongoing process."
+    },
+    {
+      "prompt": "Lista ___ przez cały przyszły tydzień. (aktualizować, future passive with być)",
+      "answers": [
+        "będzie aktualizowana"
+      ],
+      "explanation": "Use będzie with a participle agreeing with the singular subject."
+    },
+    {
+      "prompt": "Lista ___ już przez zespół. (zaktualizować, present result with być)",
+      "answers": [
+        "jest zaktualizowana"
+      ],
+      "explanation": "Use jest and the perfective passive participle for a current result."
+    },
+    {
+      "prompt": "Lista ___ przed publikacją. (zaktualizować, future passive with zostać)",
+      "answers": [
+        "zostanie zaktualizowana"
+      ],
+      "explanation": "Use zostanie and a participle agreeing with the subject."
+    },
+    {
+      "prompt": "Regulamin ___ przez cały zeszły tydzień. (konsultować, past passive with być)",
+      "answers": [
+        "był konsultowany"
+      ],
+      "explanation": "Use past być and the imperfective passive participle for the ongoing process."
+    },
+    {
+      "prompt": "Regulamin ___ przez cały przyszły tydzień. (konsultować, future passive with być)",
+      "answers": [
+        "będzie konsultowany"
+      ],
+      "explanation": "Use będzie with a participle agreeing with the singular subject."
+    },
+    {
+      "prompt": "Regulamin ___ już przez zespół. (skonsultować, present result with być)",
+      "answers": [
+        "jest skonsultowany"
+      ],
+      "explanation": "Use jest and the perfective passive participle for a current result."
+    },
+    {
+      "prompt": "Regulamin ___ przed publikacją. (skonsultować, future passive with zostać)",
+      "answers": [
+        "zostanie skonsultowany"
+      ],
+      "explanation": "Use zostanie and a participle agreeing with the subject."
+    }
+  ]
+}
